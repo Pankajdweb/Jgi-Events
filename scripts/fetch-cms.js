@@ -69,6 +69,61 @@ async function listAllItems(collectionId, useLive = false) {
   return allItems;
 }
 
+async function getCollectionSchema(collectionId) {
+  return webflowGet(`${API_BASE}/collections/${collectionId}`);
+}
+
+// Reference/MultiReference fields store item IDs; Option fields store option IDs.
+// Both need a lookup to resolve the human-readable name.
+function findResolvableFields(schema) {
+  return (schema.fields || [])
+    .map((field) => {
+      if (field.type === "Reference" || field.type === "MultiReference") {
+        const refCollectionId = field.validations && field.validations.collectionId;
+        if (!refCollectionId) return null;
+        return { slug: field.slug, kind: "reference", multi: field.type === "MultiReference", refCollectionId };
+      }
+      if (field.type === "Option") {
+        const options = (field.validations && field.validations.options) || [];
+        const optionMap = {};
+        for (const option of options) optionMap[option.id] = option.name;
+        return { slug: field.slug, kind: "option", optionMap };
+      }
+      return null;
+    })
+    .filter(Boolean);
+}
+
+async function getReferenceLookup(collectionId, cache) {
+  if (cache.has(collectionId)) return cache.get(collectionId);
+  const items = await listAllItems(collectionId);
+  const map = {};
+  for (const item of items) {
+    map[item.id] = item.fieldData && item.fieldData.name;
+  }
+  cache.set(collectionId, map);
+  return map;
+}
+
+function enrichItemsWithNames(items, resolvableFields, referenceLookups) {
+  for (const item of items) {
+    const fieldData = item.fieldData;
+    for (const field of resolvableFields) {
+      const value = fieldData[field.slug];
+      if (value == null) continue;
+
+      if (field.kind === "option") {
+        fieldData[`${field.slug}-name`] = field.optionMap[value] ?? null;
+      } else {
+        const lookup = referenceLookups[field.refCollectionId] || {};
+        fieldData[`${field.slug}-name`] = field.multi
+          ? value.map((id) => lookup[id] ?? null)
+          : lookup[value] ?? null;
+      }
+    }
+  }
+}
+
 async function main() {
   let collections;
 
@@ -84,10 +139,25 @@ async function main() {
     collections: {},
   };
 
+  const referenceLookupCache = new Map();
+
   for (const collection of collections) {
     console.log(`Fetching items for collection: ${collection.displayName || collection.id}`);
     const useLive = Boolean(SINGLE_COLLECTION_ID);
     const items = await listAllItems(collection.id, useLive);
+
+    const schema = await getCollectionSchema(collection.id);
+    const resolvableFields = findResolvableFields(schema);
+
+    const referenceLookups = {};
+    for (const field of resolvableFields) {
+      if (field.kind !== "reference") continue;
+      console.log(`  Resolving names for reference field "${field.slug}" -> collection ${field.refCollectionId}`);
+      referenceLookups[field.refCollectionId] = await getReferenceLookup(field.refCollectionId, referenceLookupCache);
+    }
+
+    enrichItemsWithNames(items, resolvableFields, referenceLookups);
+
     result.collections[collection.slug || collection.id] = {
       id: collection.id,
       displayName: collection.displayName,
