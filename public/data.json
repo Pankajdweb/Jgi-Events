@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-06T07:56:19.649Z",
+  "fetchedAt": "2026-07-06T07:59:22.006Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 573,
+      "itemCount": 574,
       "items": [
+        {
+          "id": "6a4b5fab38ee8b25aa4a0449",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-06T07:56:30.174Z",
+          "lastUpdated": "2026-07-06T07:56:30.174Z",
+          "createdOn": "2026-07-06T07:56:27.698Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Blacks' Myths: Luke Stewart & Warren Crudup",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cf52050fbd110a6fc6e96",
+            "start-date": "2026-07-31T00:30:00.000Z",
+            "event-time": "8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.07.30_blacks'_myths",
+            "slug": "ny-26-07-30-blacks-myths",
+            "city-name": "NYC",
+            "venue-name": "The Stone",
+            "venue-link": "http://thestonenyc.com/"
+          }
+        },
         {
           "id": "6a4b5f3c6e10afce4bc9d780",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -13871,8 +13899,8 @@
         {
           "id": "6a30a8f65da2d8812c726608",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-18T03:53:31.286Z",
-          "lastUpdated": "2026-06-18T00:53:17.923Z",
+          "lastPublished": "2026-07-06T07:56:25.994Z",
+          "lastUpdated": "2026-07-06T07:56:25.994Z",
           "createdOn": "2026-06-16T01:37:58.273Z",
           "isArchived": false,
           "isDraft": false,
@@ -13882,7 +13910,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2cae5d0d1b3a1110e62d06",
-            "start-date": "2026-07-15T17:00:00.000Z",
+            "start-date": "2026-07-15T23:00:00.000Z",
             "event-time": "7 & 9PM",
             "event-description": null,
             "button-text": "Buy tickets",
