@@ -99,7 +99,10 @@ async function getReferenceLookup(collectionId, cache) {
   const items = await listAllItems(collectionId);
   const map = {};
   for (const item of items) {
-    map[item.id] = item.fieldData && item.fieldData.name;
+    map[item.id] = {
+      name: item.fieldData && item.fieldData.name,
+      link: item.fieldData && item.fieldData.link,
+    };
   }
   cache.set(collectionId, map);
   return map;
@@ -117,8 +120,11 @@ function enrichItemsWithNames(items, resolvableFields, referenceLookups) {
       } else {
         const lookup = referenceLookups[field.refCollectionId] || {};
         fieldData[`${field.slug}-name`] = field.multi
-          ? value.map((id) => lookup[id] ?? null)
-          : lookup[value] ?? null;
+          ? value.map((id) => lookup[id]?.name ?? null)
+          : lookup[value]?.name ?? null;
+        fieldData[`${field.slug}-link`] = field.multi
+          ? value.map((id) => lookup[id]?.link ?? null)
+          : lookup[value]?.link ?? null;
       }
     }
   }
