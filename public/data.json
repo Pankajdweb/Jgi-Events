@@ -1,12 +1,51 @@
 {
-  "fetchedAt": "2026-07-06T21:57:54.807Z",
+  "fetchedAt": "2026-07-06T22:00:18.170Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 585,
+      "itemCount": 586,
       "items": [
+        {
+          "id": "6a4c256539ea9c005f069435",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-06T22:00:07.371Z",
+          "lastUpdated": "2026-07-06T22:00:07.371Z",
+          "createdOn": "2026-07-06T22:00:05.275Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Eric Scott Reed Quartet featuring René Marie",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-07-25T22:30:00.000Z",
+            "event-time": "6:30, 8:30 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "6a2f1f2d7b5b0788756afd06"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.25_reed",
+            "slug": "ny-26-07-25-reed",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/",
+            "tags-name": [
+              "Full menu",
+              "5+"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a4c233017280493a71c157f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
