@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-06T21:45:09.524Z",
+  "fetchedAt": "2026-07-06T21:49:14.673Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 583,
+      "itemCount": 584,
       "items": [
+        {
+          "id": "6a4c22cf7385d1e586e96434",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-06T21:49:07.361Z",
+          "lastUpdated": "2026-07-06T21:49:07.361Z",
+          "createdOn": "2026-07-06T21:49:03.365Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Marty Ehrlich Quartet Expanse",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ff99a978244087d26e1e2",
+            "start-date": "2026-07-30T00:00:00.000Z",
+            "event-time": "8 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.07.29_ehrlich",
+            "slug": "ny-26-07-29-ehrlich",
+            "city-name": "NYC",
+            "venue-name": "Bar Bayeaux",
+            "venue-link": "https://www.barbayeux.com/"
+          }
+        },
         {
           "id": "6a4c21d8aa85fb5973ba804a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
