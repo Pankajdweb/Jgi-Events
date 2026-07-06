@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T11:36:39.544Z",
+  "fetchedAt": "2026-07-06T11:37:46.155Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -625,13 +625,13 @@
         {
           "id": "6a49db02af17b15abe78e4fe",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T11:36:31.052Z",
-          "lastUpdated": "2026-07-06T11:36:31.052Z",
+          "lastPublished": "2026-07-06T11:37:36.072Z",
+          "lastUpdated": "2026-07-06T11:37:36.072Z",
           "createdOn": "2026-07-05T04:18:10.670Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "teeeeee",
+            "event-title": "teeeeee update",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": "bfc03e88f9ceafa688540946cd9a5b81",
             "category": "6a3db44edbceed6f361c16dd",
