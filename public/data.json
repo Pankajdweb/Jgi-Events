@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T12:14:15.520Z",
+  "fetchedAt": "2026-07-07T12:47:55.090Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -10,8 +10,8 @@
         {
           "id": "6a4cecdf12ecf9d950d56d4c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T12:11:12.824Z",
-          "lastUpdated": "2026-07-07T12:11:12.824Z",
+          "lastPublished": "2026-07-07T12:14:27.451Z",
+          "lastUpdated": "2026-07-07T12:14:27.451Z",
           "createdOn": "2026-07-07T12:11:11.074Z",
           "isArchived": false,
           "isDraft": false,
@@ -20,17 +20,19 @@
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
-            "venue": null,
+            "venue": "6a4ced0e67da0d853229f949",
             "start-date": "2026-08-08T16:00:00.000Z",
             "event-time": "12PM",
-            "event-description": null,
+            "event-description": "<p>Main Stage<br>1PM: Linda May Han Oh Quartet<br>3PM: Marcus Gilmore’s Journey to the New<br>5:15PM: Chris Potter Quartet feat. Craig Taborn, Joe Martin, Kendrick Scott<br>7:30PM: “First Meeting” feat. Gonzalo Rubalcaba, Chris Potter, Larry Grenadier and Eric Harland<br>9:00PM: Jason Moran &amp; The Bandwagon feat. Special Guests Akili Bradley &amp; Devon Gates</p><p>‍</p><p>Side Stage<br>12:00PM: Vinicius Gomes &amp; Bailinho<br>2:00PM: Joel Ross’ Good Vibes<br>4:00PM: Brooklyn All-Stars Play Miles Davis’s 'In a Silent Way' feat. Vernon Reid<br>6:15PM: Bobby Sanabria’s Ascenció</p><p>‍</p><p>‍</p>",
             "button-text": null,
             "button-link": null,
             "tags": null,
             "thumbnail": null,
             "name": "ny_26.08.08_brooklynjazzfest",
             "slug": "ny-26-08-08-brooklynjazzfest",
-            "city-name": "NYC"
+            "city-name": "NYC",
+            "venue-name": "LeFrak Center at Lakeside (Prospect Park)",
+            "venue-link": "https://www.prospectpark.org/visit-the-park/places-to-go/lefrak-center-lakeside/"
           }
         },
         {
@@ -337,8 +339,8 @@
         {
           "id": "6a4c7cc0a78cf23941d15fa9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T07:40:16.337Z",
-          "lastUpdated": "2026-07-07T04:12:50.222Z",
+          "lastPublished": "2026-07-07T12:47:42.595Z",
+          "lastUpdated": "2026-07-07T12:47:42.595Z",
           "createdOn": "2026-07-07T04:12:48.409Z",
           "isArchived": false,
           "isDraft": false,
@@ -348,7 +350,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2ef6142243172b56b3a991",
-            "start-date": "2026-07-27T23:00:00.000Z",
+            "start-date": "2026-07-26T23:00:00.000Z",
             "event-time": "7 & 9PM",
             "event-description": null,
             "button-text": null,
