@@ -1,12 +1,51 @@
 {
-  "fetchedAt": "2026-07-07T04:24:16.272Z",
+  "fetchedAt": "2026-07-07T04:28:15.639Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 602,
+      "itemCount": 603,
       "items": [
+        {
+          "id": "6a4c805547c23177e9f8f895",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-07T04:28:07.760Z",
+          "lastUpdated": "2026-07-07T04:28:07.760Z",
+          "createdOn": "2026-07-07T04:28:05.605Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "William Hill III, Joey Ranieri and Willie Bowman",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-07-27T23:30:00.000Z",
+            "event-time": "7:30 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.27_hill",
+            "slug": "ny-26-07-27-hill",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a4c7f634ca64dbb7b19d193",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
