@@ -1,12 +1,51 @@
 {
-  "fetchedAt": "2026-07-07T03:35:18.213Z",
+  "fetchedAt": "2026-07-07T03:37:19.880Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 588,
+      "itemCount": 589,
       "items": [
+        {
+          "id": "6a4c74648dff4302c05fe573",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-07T03:37:11.312Z",
+          "lastUpdated": "2026-07-07T03:37:11.312Z",
+          "createdOn": "2026-07-07T03:37:08.982Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Eric Scott Reed Quartet featuring René Marie",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-07-26T22:30:00.000Z",
+            "event-time": "6:30 & 8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "6a2f1f2d7b5b0788756afd06"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.26_reed",
+            "slug": "ny-26-07-26-reed",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/",
+            "tags-name": [
+              "Full menu",
+              "5+"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a4c256539ea9c005f069435",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -2115,8 +2154,8 @@
         {
           "id": "6a44b3bf936b303f86f1c809",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-02T08:02:51.807Z",
-          "lastUpdated": "2026-07-01T06:29:26.843Z",
+          "lastPublished": "2026-07-07T03:35:31.133Z",
+          "lastUpdated": "2026-07-07T03:35:31.133Z",
           "createdOn": "2026-07-01T06:29:19.106Z",
           "isArchived": false,
           "isDraft": false,
@@ -2136,8 +2175,8 @@
               "6a2f1f2d7b5b0788756afd06"
             ],
             "thumbnail": null,
-            "name": "ny_26.07.22_scott",
-            "slug": "ny-26-07-22-scott",
+            "name": "ny_26.07.22_reed",
+            "slug": "ny-26-07-22-reed",
             "city-name": "NYC",
             "venue-name": "Smoke",
             "venue-link": "https://smokejazz.com/",
