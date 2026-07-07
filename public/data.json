@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T22:04:21.158Z",
+  "fetchedAt": "2026-07-07T22:06:57.780Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -11046,8 +11046,8 @@
         {
           "id": "6a333172f0a1713a4a95217c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-18T03:53:31.286Z",
-          "lastUpdated": "2026-06-17T23:44:51.916Z",
+          "lastPublished": "2026-07-07T22:06:58.335Z",
+          "lastUpdated": "2026-07-07T22:06:58.335Z",
           "createdOn": "2026-06-17T23:44:50.353Z",
           "isArchived": false,
           "isDraft": false,
@@ -11057,7 +11057,7 @@
             "feature": null,
             "category": null,
             "venue": null,
-            "start-date": "2026-07-20T18:00:00.000Z",
+            "start-date": "2026-07-21T00:00:00.000Z",
             "event-time": "8 & 10:30PM",
             "event-description": null,
             "button-text": "Get tickets",
@@ -15916,8 +15916,8 @@
         {
           "id": "6a305110ebad7f58ad0954ca",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-05T13:37:32.079Z",
-          "lastUpdated": "2026-07-02T08:04:12.011Z",
+          "lastPublished": "2026-07-07T22:04:31.117Z",
+          "lastUpdated": "2026-07-07T22:04:31.117Z",
           "createdOn": "2026-06-15T19:22:56.163Z",
           "isArchived": false,
           "isDraft": false,
@@ -15927,7 +15927,7 @@
             "feature": null,
             "category": null,
             "venue": "6a304f1a8e21e4c3bc6a49de",
-            "start-date": "2026-07-12T19:00:00.000Z",
+            "start-date": "2026-07-12T04:00:00.000Z",
             "event-time": "3PM",
             "event-description": null,
             "button-text": null,
