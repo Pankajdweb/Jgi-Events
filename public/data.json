@@ -1,12 +1,38 @@
 {
-  "fetchedAt": "2026-07-07T11:13:24.170Z",
+  "fetchedAt": "2026-07-07T12:11:25.993Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 605,
+      "itemCount": 606,
       "items": [
+        {
+          "id": "6a4cecdf12ecf9d950d56d4c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-07T12:11:12.824Z",
+          "lastUpdated": "2026-07-07T12:11:12.824Z",
+          "createdOn": "2026-07-07T12:11:11.074Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "BKLYN Jazz Festival",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": null,
+            "start-date": "2026-08-08T16:00:00.000Z",
+            "event-time": "12PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.08_brooklynjazzfest",
+            "slug": "ny-26-08-08-brooklynjazzfest",
+            "city-name": "NYC"
+          }
+        },
         {
           "id": "6a4c813a3978996236c3e5af",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
