@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-08T05:15:30.908Z",
+  "fetchedAt": "2026-07-08T05:18:00.049Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 614,
+      "itemCount": 615,
       "items": [
+        {
+          "id": "6a4ddd7d49316d41447d3afd",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-08T05:17:52.091Z",
+          "lastUpdated": "2026-07-08T05:17:52.091Z",
+          "createdOn": "2026-07-08T05:17:49.833Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Charles Altura Quintet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cae5d0d1b3a1110e62d06",
+            "start-date": "2026-07-31T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.07.31_altura",
+            "slug": "ny-26-07-31-altura",
+            "city-name": "NYC",
+            "venue-name": "Jazz Gallery",
+            "venue-link": "https://jazzgallery.org/"
+          }
+        },
         {
           "id": "6a4ddce84c24b4fcba093a23",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
