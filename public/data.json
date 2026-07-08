@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T00:18:58.036Z",
+  "fetchedAt": "2026-07-08T00:27:13.010Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -1589,8 +1589,8 @@
         {
           "id": "6a46a9209bdc43770cd5b165",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T22:10:33.473Z",
-          "lastUpdated": "2026-07-07T22:10:33.473Z",
+          "lastPublished": "2026-07-08T00:19:40.051Z",
+          "lastUpdated": "2026-07-08T00:19:40.051Z",
           "createdOn": "2026-07-02T18:08:32.755Z",
           "isArchived": false,
           "isDraft": false,
@@ -1600,7 +1600,7 @@
             "feature": null,
             "category": null,
             "venue": "6a46a8eb56e066a26fc27d0f",
-            "start-date": "2026-07-19T05:00:00.000Z",
+            "start-date": "2026-07-19T06:00:00.000Z",
             "event-time": "7PM",
             "event-description": null,
             "button-text": null,
@@ -1617,8 +1617,8 @@
         {
           "id": "6a46a8719bd0755d62b6943f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T22:10:47.790Z",
-          "lastUpdated": "2026-07-07T22:10:47.790Z",
+          "lastPublished": "2026-07-08T00:19:32.639Z",
+          "lastUpdated": "2026-07-08T00:19:32.639Z",
           "createdOn": "2026-07-02T18:05:37.046Z",
           "isArchived": false,
           "isDraft": false,
@@ -1628,7 +1628,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2cf8a03f65f5442c14c791",
-            "start-date": "2026-07-18T05:00:00.000Z",
+            "start-date": "2026-07-18T06:00:00.000Z",
             "event-time": "7PM",
             "event-description": null,
             "button-text": null,
@@ -2828,8 +2828,8 @@
         {
           "id": "6a44a9b6f9063294e31e94af",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T21:14:32.975Z",
-          "lastUpdated": "2026-07-06T21:14:32.975Z",
+          "lastPublished": "2026-07-08T00:27:00.704Z",
+          "lastUpdated": "2026-07-08T00:27:00.704Z",
           "createdOn": "2026-07-01T05:46:30.704Z",
           "isArchived": false,
           "isDraft": false,
@@ -2839,7 +2839,7 @@
             "feature": null,
             "category": null,
             "venue": "6a44a4397db284ef146de9bb",
-            "start-date": "2026-07-16T23:30:00.000Z",
+            "start-date": "2026-07-16T17:30:00.000Z",
             "event-time": "7:30 & 9PM",
             "event-description": null,
             "button-text": null,
