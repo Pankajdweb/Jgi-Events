@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T02:39:00.768Z",
+  "fetchedAt": "2026-07-08T02:40:47.084Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -8502,8 +8502,8 @@
         {
           "id": "6a34cb92a49eba40de55bec1",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-19T16:31:56.602Z",
-          "lastUpdated": "2026-06-19T07:16:20.244Z",
+          "lastPublished": "2026-07-08T02:39:13.955Z",
+          "lastUpdated": "2026-07-08T02:39:13.955Z",
           "createdOn": "2026-06-19T04:54:42.215Z",
           "isArchived": false,
           "isDraft": false,
@@ -8513,7 +8513,7 @@
             "feature": null,
             "category": null,
             "venue": "6a34cae96ea604373b9e4641",
-            "start-date": "2026-07-15T23:00:00.000Z",
+            "start-date": "2026-07-15T17:00:00.000Z",
             "event-time": "7PM",
             "event-description": "<p>Jazzmobile Summerfest</p>",
             "button-text": null,
@@ -11378,8 +11378,8 @@
         {
           "id": "6a31a58a07bee805bddfd178",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T22:15:40.227Z",
-          "lastUpdated": "2026-07-07T22:15:40.227Z",
+          "lastPublished": "2026-07-08T02:40:39.122Z",
+          "lastUpdated": "2026-07-08T02:40:39.122Z",
           "createdOn": "2026-06-16T19:35:38.525Z",
           "isArchived": false,
           "isDraft": false,
@@ -11389,7 +11389,7 @@
             "feature": "232cceb32b7640f81ef61d250000f0bd",
             "category": "691ccd0eb62c3b82ffb68615",
             "venue": "6a199afc96df4f62c2da2655",
-            "start-date": "2026-07-16T05:00:00.000Z",
+            "start-date": "2026-07-16T17:00:00.000Z",
             "event-time": "7 PM",
             "event-description": "<p>Pianist Luther Allison will give a multidisciplinary performance with his band and an accompanying visual artist. Sets at 8&nbsp;and 9:30, Soundoff Sessions until late. Creatives, bring your axe — whatever it is — and your energy.</p>",
             "button-text": "Register",
