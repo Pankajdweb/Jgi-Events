@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T02:45:39.957Z",
+  "fetchedAt": "2026-07-08T02:53:00.828Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -11072,8 +11072,8 @@
         {
           "id": "6a333162d58cdd5803415cfc",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T22:21:31.881Z",
-          "lastUpdated": "2026-07-07T22:21:31.881Z",
+          "lastPublished": "2026-07-08T02:45:50.225Z",
+          "lastUpdated": "2026-07-08T02:45:50.225Z",
           "createdOn": "2026-06-17T23:44:34.277Z",
           "isArchived": false,
           "isDraft": false,
@@ -11083,7 +11083,7 @@
             "feature": null,
             "category": null,
             "venue": "6a231c28d405fc09f9c59286",
-            "start-date": "2026-07-19T11:00:00.000Z",
+            "start-date": "2026-07-19T18:00:00.000Z",
             "event-time": "8 & 10:30PM",
             "event-description": null,
             "button-text": "Get tickets",
@@ -11499,8 +11499,8 @@
         {
           "id": "6a3174672fbd947a963d47b5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-07T09:17:28.564Z",
-          "lastUpdated": "2026-07-07T09:17:28.564Z",
+          "lastPublished": "2026-07-08T02:52:49.943Z",
+          "lastUpdated": "2026-07-08T02:52:49.943Z",
           "createdOn": "2026-06-16T16:05:59.288Z",
           "isArchived": false,
           "isDraft": false,
@@ -11510,7 +11510,7 @@
             "feature": "232cceb32b7640f81ef61d250000f0bd",
             "category": "6a10bdf5c8f6338c6fee5020",
             "venue": "6a19a0e431e7a5acb4169f09",
-            "start-date": "2026-08-12T18:00:00.000Z",
+            "start-date": "2026-08-13T00:00:00.000Z",
             "event-time": "8 PM",
             "event-description": "<p><a href=\"https://TK\">Savannah&nbsp;Harris presents ... DUAL</a></p><p>keiyaA, Immanuel Wilkins and Ọmọ Igi</p><p>Public Records</p><p>‍</p>",
             "button-text": "VIEW EVENT",
@@ -11640,8 +11640,8 @@
         {
           "id": "6a3122ea5a2991d10df88960",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-01T05:49:06.051Z",
-          "lastUpdated": "2026-07-01T05:49:06.051Z",
+          "lastPublished": "2026-07-08T02:46:20.281Z",
+          "lastUpdated": "2026-07-08T02:46:20.281Z",
           "createdOn": "2026-06-16T10:18:18.504Z",
           "isArchived": false,
           "isDraft": false,
@@ -11651,7 +11651,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2ef6142243172b56b3a991",
-            "start-date": "2026-07-19T23:00:00.000Z",
+            "start-date": "2026-07-19T17:00:00.000Z",
             "event-time": "7 & 9PM",
             "event-description": null,
             "button-text": "Buy tickets",
