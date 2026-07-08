@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-08T05:40:43.865Z",
+  "fetchedAt": "2026-07-08T05:45:46.060Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 619,
+      "itemCount": 620,
       "items": [
+        {
+          "id": "6a4de3ff681790227690ddd6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-08T05:45:38.132Z",
+          "lastUpdated": "2026-07-08T05:45:38.132Z",
+          "createdOn": "2026-07-08T05:45:35.760Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sarah Hanahan",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a30175caceea1e67533e8c0",
+            "start-date": "2026-07-31T23:00:00.000Z",
+            "event-time": "7 & 8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.07.31_hanahan",
+            "slug": "ny-26-07-31-hanahan",
+            "city-name": "NYC",
+            "venue-name": "Zinc Bar",
+            "venue-link": "https://www.zincbar.com/"
+          }
+        },
         {
           "id": "6a4de2ce6aa232e0cb2ca966",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
