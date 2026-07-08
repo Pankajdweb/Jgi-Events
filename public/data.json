@@ -1,12 +1,51 @@
 {
-  "fetchedAt": "2026-07-08T05:50:37.583Z",
+  "fetchedAt": "2026-07-08T05:56:46.554Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 622,
+      "itemCount": 623,
       "items": [
+        {
+          "id": "6a4de69270a53c660346d42c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-08T05:56:36.885Z",
+          "lastUpdated": "2026-07-08T05:56:36.885Z",
+          "createdOn": "2026-07-08T05:56:34.896Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Matthew Whitaker",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-07-31T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "698171062ef8be261a524675",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.31_whitaker",
+            "slug": "ny-26-07-31-whitaker",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "All ages",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a4de5237ebd31926b15f5d9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
