@@ -1,12 +1,51 @@
 {
-  "fetchedAt": "2026-07-08T05:37:53.447Z",
+  "fetchedAt": "2026-07-08T05:40:43.865Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 618,
+      "itemCount": 619,
       "items": [
+        {
+          "id": "6a4de2ce6aa232e0cb2ca966",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-08T05:40:32.986Z",
+          "lastUpdated": "2026-07-08T05:40:32.986Z",
+          "createdOn": "2026-07-08T05:40:30.634Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Bill Charlap and Renee Rosnes",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-08-01T00:30:00.000Z",
+            "event-time": "8:30 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d54bc5ce6148dcf00483b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.31_charlap",
+            "slug": "ny-26-07-31-charlap",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "10+",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a4de226c86c47c6974d7627",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
