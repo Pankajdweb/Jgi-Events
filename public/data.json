@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T02:34:48.422Z",
+  "fetchedAt": "2026-07-08T02:37:53.595Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -13430,8 +13430,8 @@
         {
           "id": "6a30ea147379a7677b103a2c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-06T08:24:49.430Z",
-          "lastUpdated": "2026-07-06T07:56:09.114Z",
+          "lastPublished": "2026-07-08T02:37:47.555Z",
+          "lastUpdated": "2026-07-08T02:37:47.555Z",
           "createdOn": "2026-06-16T06:15:48.811Z",
           "isArchived": false,
           "isDraft": false,
@@ -13441,7 +13441,7 @@
             "feature": null,
             "category": null,
             "venue": "6a2cd5e0b68826d8a5e7e7f6",
-            "start-date": "2026-07-15T22:30:00.000Z",
+            "start-date": "2026-07-15T16:30:00.000Z",
             "event-time": "6:30 & 8:30PM",
             "event-description": null,
             "button-text": "Buy tickets",
