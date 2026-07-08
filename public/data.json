@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T02:26:05.886Z",
+  "fetchedAt": "2026-07-08T02:27:09.749Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -13134,8 +13134,8 @@
         {
           "id": "6a30f190a35eafeec6b35aa5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-17T10:58:37.698Z",
-          "lastUpdated": "2026-06-16T06:47:52.360Z",
+          "lastPublished": "2026-07-08T02:27:03.991Z",
+          "lastUpdated": "2026-07-08T02:27:03.991Z",
           "createdOn": "2026-06-16T06:47:44.876Z",
           "isArchived": false,
           "isDraft": false,
@@ -13145,7 +13145,7 @@
             "feature": null,
             "category": null,
             "venue": "6a301a000738cb3116ed868f",
-            "start-date": "2026-07-08T16:00:00.000Z",
+            "start-date": "2026-07-08T22:00:00.000Z",
             "event-time": "6 & 7:30PM",
             "event-description": null,
             "button-text": "Buy tickets",
@@ -15540,8 +15540,8 @@
         {
           "id": "6a3064238f6808962cee2073",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-16T00:14:39.386Z",
-          "lastUpdated": "2026-06-15T21:58:01.962Z",
+          "lastPublished": "2026-07-08T02:26:36.692Z",
+          "lastUpdated": "2026-07-08T02:26:36.692Z",
           "createdOn": "2026-06-15T20:44:19.640Z",
           "isArchived": false,
           "isDraft": false,
@@ -15551,7 +15551,7 @@
             "feature": null,
             "category": null,
             "venue": "6a306245e3e1794a5620358d",
-            "start-date": "2026-07-08T10:00:00.000Z",
+            "start-date": "2026-07-08T16:00:00.000Z",
             "event-time": "12PM",
             "event-description": "<p>Presented by the NoMad Jazz Festival</p>",
             "button-text": null,
