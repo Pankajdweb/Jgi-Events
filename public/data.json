@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-10T18:40:09.710Z",
+  "fetchedAt": "2026-07-10T18:41:33.406Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 651,
+      "itemCount": 652,
       "items": [
+        {
+          "id": "6a513cd32140e5e0f5e62f22",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T18:41:24.403Z",
+          "lastUpdated": "2026-07-10T18:41:24.403Z",
+          "createdOn": "2026-07-10T18:41:23.114Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tim Berne, Craig Taborn, Tom Rainey, Aurora Nealand and Aliya Ultan",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a340400e1d5eeca71bcf8c5",
+            "start-date": "2026-08-12T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.11_berne",
+            "slug": "ny-26-08-11-berne",
+            "city-name": "NYC",
+            "venue-name": "Lowlands",
+            "venue-link": "https://www.lowlandsbar.com"
+          }
+        },
         {
           "id": "6a513c7fbc4f10a89142b0dc",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
