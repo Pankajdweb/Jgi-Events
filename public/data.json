@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-10T18:11:12.883Z",
+  "fetchedAt": "2026-07-10T18:13:40.984Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 632,
+      "itemCount": 633,
       "items": [
+        {
+          "id": "6a5136473d7a057c118af4ea",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T18:13:30.928Z",
+          "lastUpdated": "2026-07-10T18:13:30.928Z",
+          "createdOn": "2026-07-10T18:13:27.747Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Oscar Noriega's Crooked Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cf37b3f9feeabc2cb34a8",
+            "start-date": "2026-07-31T15:30:00.000Z",
+            "event-time": "5:30PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://www.viewcy.com/event/oscar_noriegas_crook_210/checkout?event=6e850296-b0f7-4ae8-84ce-58a822a4badd&ticketType=in-person",
+            "tags": null,
+            "thumbnail": null,
+            "name": "noriega 26.07.31",
+            "slug": "noriega-26-07-31",
+            "city-name": "NYC",
+            "venue-name": "Barbès",
+            "venue-link": "https://www.barbesbrooklyn.com/"
+          }
+        },
         {
           "id": "6a5135b30d31b09cc19c04d1",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
