@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-10T19:54:32.690Z",
+  "fetchedAt": "2026-07-10T20:08:27.237Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 664,
+      "itemCount": 666,
       "items": [
+        {
+          "id": "6a51512f06fc37a18d69c2d3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T20:08:27.528Z",
+          "lastUpdated": "2026-07-10T20:08:27.528Z",
+          "createdOn": "2026-07-10T20:08:15.525Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Spontaneous Resistance: Anthony Coleman, Ken Filiano and Ken Kobayashi + DOT ISO",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a304f1a8e21e4c3bc6a49de",
+            "start-date": "2026-07-15T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.14_spontaneous_resistance",
+            "slug": "ny-2026-07-14-spontaneous-resistance",
+            "city-name": "NYC",
+            "venue-name": "Ibeam Brooklyn",
+            "venue-link": "https://www.ibeambrooklyn.com/"
+          }
+        },
+        {
+          "id": "6a514dff062bc23feba3e6c4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T19:54:41.442Z",
+          "lastUpdated": "2026-07-10T19:54:41.442Z",
+          "createdOn": "2026-07-10T19:54:39.919Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Bex Burch: 'as yet untitled'",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a514deae739510d3b264ef1",
+            "start-date": "2026-08-01T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.31_burch_untitled",
+            "slug": "ny-2026-07-31-burch-untitled",
+            "city-name": "NYC",
+            "venue-name": "Judson Memorial Church",
+            "venue-link": "https://www.judson.org/"
+          }
+        },
         {
           "id": "6a514d954dbbe6ce09ea431c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
