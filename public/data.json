@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-10T20:27:44.114Z",
+  "fetchedAt": "2026-07-10T20:38:17.651Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 673,
+      "itemCount": 674,
       "items": [
+        {
+          "id": "6a5155d7323d78325f63891b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T20:28:09.507Z",
+          "lastUpdated": "2026-07-10T20:28:09.507Z",
+          "createdOn": "2026-07-10T20:28:07.764Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sam Gendel and Sam Wilkes",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a5155b581c78254f744294a",
+            "start-date": "2026-08-30T22:30:00.000Z",
+            "event-time": "6:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.30_gendelwilkes",
+            "slug": "ny-2026-08-30-gendelwilkes",
+            "city-name": "NYC",
+            "venue-name": "Le Poisson Rouge",
+            "venue-link": "https://lpr.com/"
+          }
+        },
         {
           "id": "6a515549b9f68206a978baff",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -4122,13 +4150,13 @@
         {
           "id": "6a44daa029ac5adfaee2fdbc",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-02T08:02:51.807Z",
-          "lastUpdated": "2026-07-01T09:15:15.570Z",
+          "lastPublished": "2026-07-10T20:38:17.043Z",
+          "lastUpdated": "2026-07-10T20:38:17.043Z",
           "createdOn": "2026-07-01T09:15:12.006Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Orrin Evans Trio",
+            "event-title": "Orrin Evans and Trash Gadget",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
