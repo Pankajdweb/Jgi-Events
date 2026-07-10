@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-10T19:48:59.411Z",
+  "fetchedAt": "2026-07-10T19:50:13.163Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 662,
+      "itemCount": 663,
       "items": [
+        {
+          "id": "6a514ce7d715577e5b7ce8e9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T19:50:01.961Z",
+          "lastUpdated": "2026-07-10T19:50:01.961Z",
+          "createdOn": "2026-07-10T19:49:59.794Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Loose Talk: Shardik + Cometa Negra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a514c9e5efcb9a33a83581e",
+            "start-date": "2026-07-27T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.29_loosetalk",
+            "slug": "ny-2026-07-29-loosetalk",
+            "city-name": "NYC",
+            "venue-name": "Main Drag Music",
+            "venue-link": "https://maindragmusic.com/pages/mdm-live"
+          }
+        },
+        {
+          "id": "6a514cbed70e3313091fb171",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T19:49:21.064Z",
+          "lastUpdated": "2026-07-10T19:49:21.064Z",
+          "createdOn": "2026-07-10T19:49:18.905Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Loose Talk: Jason Hwang's Resonance + Steve Swell, Hans Tammen and Deric Dickens",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a514c9e5efcb9a33a83581e",
+            "start-date": "2026-08-04T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.04_loosetalk",
+            "slug": "ny-2026-08-04-loosetalk",
+            "city-name": "NYC",
+            "venue-name": "Main Drag Music",
+            "venue-link": "https://maindragmusic.com/pages/mdm-live"
+          }
+        },
         {
           "id": "6a514bf2e15c944b200f3417",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -17455,45 +17511,6 @@
             "thumbnail": null,
             "name": "sands 26.07.03",
             "slug": "sands-26-07-03",
-            "city-name": "NYC",
-            "venue-name": "Birdland",
-            "venue-link": "https://www.birdlandjazz.com/",
-            "tags-name": [
-              "10+",
-              "Full menu"
-            ],
-            "tags-link": [
-              null,
-              null
-            ]
-          }
-        },
-        {
-          "id": "6a3053dd1b61f62a7bfb5a3a",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-06-18T03:53:31.286Z",
-          "lastUpdated": "2026-06-17T23:59:45.141Z",
-          "createdOn": "2026-06-15T19:34:53.959Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Christian Sands Quartet",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": null,
-            "category": null,
-            "venue": "6a2cc7721ad72d3a0dfb6763",
-            "start-date": "2026-07-02T17:00:00.000Z",
-            "event-time": "7 & 9:30PM",
-            "event-description": null,
-            "button-text": "Buy tickets",
-            "button-link": "https://www.birdlandjazz.com/tm-event/christian-sands-quartet-3/",
-            "tags": [
-              "6a2d54bc5ce6148dcf00483b",
-              "6a1bb52f86c77558acd19067"
-            ],
-            "thumbnail": null,
-            "name": "sands 26.07.02",
-            "slug": "sands-26-07-02",
             "city-name": "NYC",
             "venue-name": "Birdland",
             "venue-link": "https://www.birdlandjazz.com/",
