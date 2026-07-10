@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-10T20:20:02.224Z",
+  "fetchedAt": "2026-07-10T20:22:06.143Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 670,
+      "itemCount": 671,
       "items": [
+        {
+          "id": "6a51546208f2a9dd6885745f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T20:21:56.931Z",
+          "lastUpdated": "2026-07-10T20:21:56.931Z",
+          "createdOn": "2026-07-10T20:21:54.982Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Unheard: Emilio Modeste",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a34bef0dcd860cf218771ed",
+            "start-date": "2026-08-20T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.20_modeste",
+            "slug": "ny-26-08-20-modeste",
+            "city-name": "NYC",
+            "venue-name": "Domino Park",
+            "venue-link": "https://www.dominopark.com/"
+          }
+        },
         {
           "id": "6a5153e6c44a2ac2a02c449c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
