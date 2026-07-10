@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-10T19:46:05.407Z",
+  "fetchedAt": "2026-07-10T19:47:29.368Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 660,
+      "itemCount": 661,
       "items": [
+        {
+          "id": "6a514bf2e15c944b200f3417",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T19:47:19.006Z",
+          "lastUpdated": "2026-07-10T19:47:19.006Z",
+          "createdOn": "2026-07-10T19:45:54.075Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Steve Swell: The Poetics of Improvisation",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a349b562b53c388e0301a29",
+            "start-date": "2026-07-30T18:00:00.000Z",
+            "event-time": "2PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.30_swell",
+            "slug": "ny-2026-07-30-swell",
+            "city-name": "NYC",
+            "venue-name": "The National Jazz Museum in Harlem",
+            "venue-link": "https://jmih.org/"
+          }
+        },
         {
           "id": "6a514ba4086c8f47083d6635",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
