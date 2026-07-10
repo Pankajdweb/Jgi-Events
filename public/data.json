@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-10T20:11:46.690Z",
+  "fetchedAt": "2026-07-10T20:13:09.183Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 668,
+      "itemCount": 669,
       "items": [
         {
           "id": "6a5151f67a795c65438884cd",
@@ -14125,6 +14125,42 @@
             "thumbnail": null,
             "name": "wendel 26.07.17",
             "slug": "wendel-26-07-17",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a311173c5176ee6e1c370c4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-06-17T10:58:37.698Z",
+          "lastUpdated": "2026-06-16T09:03:50.525Z",
+          "createdOn": "2026-06-16T09:03:47.258Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ben Wendel",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-07-16T18:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/ben-wendel",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "wendel 26.07.16",
+            "slug": "wendel-26-07-16",
             "city-name": "NYC",
             "venue-name": "Village Vanguard",
             "venue-link": "https://villagevanguard.com/",
