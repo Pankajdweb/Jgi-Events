@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-10T18:29:28.700Z",
+  "fetchedAt": "2026-07-10T18:35:31.309Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 647,
+      "itemCount": 648,
       "items": [
+        {
+          "id": "6a513b6448e45d17fc17483d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T18:35:17.864Z",
+          "lastUpdated": "2026-07-10T18:35:17.864Z",
+          "createdOn": "2026-07-10T18:35:16.513Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Theo Bleckmann and Ben Monder + Odeya Nini ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a19a0e431e7a5acb4169f09",
+            "start-date": "2026-07-31T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.31_bleckmannmonder",
+            "slug": "ny-2026-07-31-bleckmannmonder",
+            "city-name": "NYC",
+            "venue-name": "Public Records",
+            "venue-link": "https://publicrecords.nyc/"
+          }
+        },
         {
           "id": "6a513963bb6afba8d8a71887",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
