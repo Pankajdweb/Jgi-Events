@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-10T15:31:18.582Z",
+  "fetchedAt": "2026-07-10T15:32:24.665Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 627,
+      "itemCount": 629,
       "items": [
+        {
+          "id": "6a51107aa6b09dcc87acb56f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T15:32:16.384Z",
+          "lastUpdated": "2026-07-10T15:32:16.384Z",
+          "createdOn": "2026-07-10T15:32:10.076Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Cyrus Chestnut Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-08-01T22:30:00.000Z",
+            "event-time": "6:30, 8:30 & 10PM ",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.01_chestnut",
+            "slug": "ny-26-08-01-chestnut-copy",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
+        {
+          "id": "6a511061a6b09dcc87aca9d5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-10T15:31:46.984Z",
+          "lastUpdated": "2026-07-10T15:31:46.984Z",
+          "createdOn": "2026-07-10T15:31:45.140Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Cyrus Chestnut Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cd5e0b68826d8a5e7e7f6",
+            "start-date": "2026-07-31T22:30:00.000Z",
+            "event-time": "6:30, 8:30 & 10PM ",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.07.31_chestnut",
+            "slug": "ny-26-07-31-chestnut",
+            "city-name": "NYC",
+            "venue-name": "Smoke",
+            "venue-link": "https://smokejazz.com/"
+          }
+        },
         {
           "id": "6a511025b7780e57e502eb08",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
