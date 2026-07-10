@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-10T19:47:29.368Z",
+  "fetchedAt": "2026-07-10T19:48:59.411Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 661,
+      "itemCount": 662,
       "items": [
         {
           "id": "6a514bf2e15c944b200f3417",
@@ -17455,6 +17455,45 @@
             "thumbnail": null,
             "name": "sands 26.07.03",
             "slug": "sands-26-07-03",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [
+              "10+",
+              "Full menu"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a3053dd1b61f62a7bfb5a3a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-06-18T03:53:31.286Z",
+          "lastUpdated": "2026-06-17T23:59:45.141Z",
+          "createdOn": "2026-06-15T19:34:53.959Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Christian Sands Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-07-02T17:00:00.000Z",
+            "event-time": "7 & 9:30PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://www.birdlandjazz.com/tm-event/christian-sands-quartet-3/",
+            "tags": [
+              "6a2d54bc5ce6148dcf00483b",
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "sands 26.07.02",
+            "slug": "sands-26-07-02",
             "city-name": "NYC",
             "venue-name": "Birdland",
             "venue-link": "https://www.birdlandjazz.com/",
