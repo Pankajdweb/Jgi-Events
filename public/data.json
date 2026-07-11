@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-11T01:50:47.716Z",
+  "fetchedAt": "2026-07-11T01:52:13.394Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 684,
+      "itemCount": 685,
       "items": [
+        {
+          "id": "6a51a1c37cdd7d4f0e829a8f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-11T01:52:05.525Z",
+          "lastUpdated": "2026-07-11T01:52:05.525Z",
+          "createdOn": "2026-07-11T01:52:03.513Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Wycliffe Gordon",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a51a06b8c2664d315ddabbc",
+            "start-date": "2026-08-06T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>Queens Jazz Trail</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.06_gordon",
+            "slug": "ny-2026-08-06-gordon",
+            "city-name": "NYC",
+            "venue-name": "Beach 94th St. Amphitheater, Rockaway Beach",
+            "venue-link": "https://www.nycgovparks.org/parks/rockaway-beach-and-boardwalk/"
+          }
+        },
         {
           "id": "6a51a16b0d0d8ecce9153b0e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -38,8 +66,8 @@
         {
           "id": "6a51a124c959ee1e44055152",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-11T01:49:26.097Z",
-          "lastUpdated": "2026-07-11T01:49:26.097Z",
+          "lastPublished": "2026-07-11T01:50:58.358Z",
+          "lastUpdated": "2026-07-11T01:50:58.358Z",
           "createdOn": "2026-07-11T01:49:24.622Z",
           "isArchived": false,
           "isDraft": false,
@@ -51,7 +79,7 @@
             "venue": "6a51a0e403a0d87203ff7ea0",
             "start-date": "2026-08-27T23:00:00.000Z",
             "event-time": "7PM",
-            "event-description": null,
+            "event-description": "<p>Queens Jazz Trail</p>",
             "button-text": null,
             "button-link": null,
             "tags": null,
