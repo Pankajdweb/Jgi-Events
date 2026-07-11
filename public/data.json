@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-11T01:48:01.792Z",
+  "fetchedAt": "2026-07-11T01:49:36.177Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 682,
+      "itemCount": 683,
       "items": [
+        {
+          "id": "6a51a124c959ee1e44055152",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-11T01:49:26.097Z",
+          "lastUpdated": "2026-07-11T01:49:26.097Z",
+          "createdOn": "2026-07-11T01:49:24.622Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Lucy Yeghiazaryan",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a51a0e403a0d87203ff7ea0",
+            "start-date": "2026-08-27T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.27_yeghiazaryan",
+            "slug": "ny-2026-08-27-yeghiazaryan",
+            "city-name": "NYC",
+            "venue-name": "Astoria Park",
+            "venue-link": "https://www.nycgovparks.org/parks/astoria-park"
+          }
+        },
         {
           "id": "6a519fcb00717004c60db43e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
