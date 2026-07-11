@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-11T01:56:05.592Z",
+  "fetchedAt": "2026-07-11T02:03:01.377Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 688,
+      "itemCount": 689,
       "items": [
+        {
+          "id": "6a51a447de57bb0d28547a10",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-11T02:02:48.443Z",
+          "lastUpdated": "2026-07-11T02:02:48.443Z",
+          "createdOn": "2026-07-11T02:02:47.085Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Assembly: Karen Ng, Eli Wallace, Trae Crudup and Kenneth Jimenez + Yuma Uesa + Matt Nelson (DJ)",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a34a556099c078fa05e70a3",
+            "start-date": "2026-07-16T00:00:00.000Z",
+            "event-time": "7M",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.15_assembly_ng",
+            "slug": "ny-2026-07-15-assembly-ng",
+            "city-name": "NYC",
+            "venue-name": "Sisters",
+            "venue-link": "https://www.sistersbklyn.com/"
+          }
+        },
         {
           "id": "6a51a2abc993d7d3294ff0a2",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
