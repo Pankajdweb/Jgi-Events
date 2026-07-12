@@ -1,12 +1,112 @@
 {
-  "fetchedAt": "2026-07-12T20:04:42.303Z",
+  "fetchedAt": "2026-07-12T20:05:53.497Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 753,
+      "itemCount": 755,
       "items": [
+        {
+          "id": "6a53f397cf4c0c15c8723e24",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T20:05:43.176Z",
+          "lastUpdated": "2026-07-12T20:05:43.176Z",
+          "createdOn": "2026-07-12T20:05:43.176Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Piano Night with BC Coogan",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318bfe54c045b2f3bca972",
+            "start-date": "2026-07-28T00:30:00.000Z",
+            "event-time": "8:30PM",
+            "event-description": "<p>Hailing originally from Baton,Rouge, Louisiana, <strong>BC Coogan </strong>is a versatile keyboardist and vocalist known for playing in a wide variety of contexts, styles and projects from from jazz to funk to rock. Perhaps most known as a touring member of bands with NYC's John Ellis and Galactic's Stanton Moore, as well as popular New Orleans bands Bonerama, Good Enough For Good Times, and Big Sam's Funky Nation, he's also found regularly playing with experimental New Orleans musicians like Johnny Vidacovich, Mike Dillon, Alex McMurray, Khris Royal, and longtime collaborator Simon Lott. Coogan was also a band member and collaborator on electro project Pretty Lights' Grammy-nominated 2013 - 2016 run. </p><p>But on Monday nights at the Saturn Bar along New Orleans' St. Claude Avenue DIY arts strip, Coogan has been serving up a solo piano &amp;&nbsp;a microphone weekly residency for several years now that has become quite a staple, establishing him as a solo artist more than ever before, in a city with a long, long line of piano &amp; voice tradition. </p><p>A chill, come as you are way to start the week in this dive bar turned indie corner haunt, and be home by midnight. </p><p>Two Sets beginning at 8:30pm. </p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d5cd9d169080eff44009",
+              "6a3db8d5ea3bd0230cbe619f",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_27_coogan_bc_piano-night",
+            "slug": "no-26-07-27-coogan-bc-piano-night",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Saturn Bar",
+            "venue-link": "https://www.thesaturnbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "funk",
+              "singer-songwriter",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a53f374f361bf9f865cd163",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T20:05:08.475Z",
+          "lastUpdated": "2026-07-12T20:05:08.475Z",
+          "createdOn": "2026-07-12T20:05:08.475Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Piano Night with BC Coogan",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318bfe54c045b2f3bca972",
+            "start-date": "2026-07-21T00:30:00.000Z",
+            "event-time": "8:30PM",
+            "event-description": "<p>Hailing originally from Baton,Rouge, Louisiana, <strong>BC Coogan </strong>is a versatile keyboardist and vocalist known for playing in a wide variety of contexts, styles and projects from from jazz to funk to rock. Perhaps most known as a touring member of bands with NYC's John Ellis and Galactic's Stanton Moore, as well as popular New Orleans bands Bonerama, Good Enough For Good Times, and Big Sam's Funky Nation, he's also found regularly playing with experimental New Orleans musicians like Johnny Vidacovich, Mike Dillon, Alex McMurray, Khris Royal, and longtime collaborator Simon Lott. Coogan was also a band member and collaborator on electro project Pretty Lights' Grammy-nominated 2013 - 2016 run. </p><p>But on Monday nights at the Saturn Bar along New Orleans' St. Claude Avenue DIY arts strip, Coogan has been serving up a solo piano &amp;&nbsp;a microphone weekly residency for several years now that has become quite a staple, establishing him as a solo artist more than ever before, in a city with a long, long line of piano &amp; voice tradition. </p><p>A chill, come as you are way to start the week in this dive bar turned indie corner haunt, and be home by midnight. </p><p>Two Sets beginning at 8:30pm. </p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d5cd9d169080eff44009",
+              "6a3db8d5ea3bd0230cbe619f",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_20_coogan_bc_piano-night",
+            "slug": "no-26-07-20-coogan-bc-piano-night",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Saturn Bar",
+            "venue-link": "https://www.thesaturnbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "funk",
+              "singer-songwriter",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a53f34ec034cb7d5510bb1d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
