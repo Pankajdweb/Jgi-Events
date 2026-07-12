@@ -1,12 +1,48 @@
 {
-  "fetchedAt": "2026-07-12T15:49:53.652Z",
+  "fetchedAt": "2026-07-12T15:51:08.442Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 740,
+      "itemCount": 741,
       "items": [
+        {
+          "id": "6a53b7d2e2850658bd1e3374",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T15:50:55.496Z",
+          "lastUpdated": "2026-07-12T15:50:55.496Z",
+          "createdOn": "2026-07-12T15:50:42.117Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Charlie Burnham Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a53b7976c828a117d127068",
+            "start-date": "2026-07-21T22:30:00.000Z",
+            "event-time": "6:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "ny_2026.07.31_burnham",
+            "slug": "ny-2026-07-31-burnham",
+            "city-name": "NYC",
+            "venue-name": "Pier 97, Hudson River Park",
+            "venue-link": "https://hudsonriverpark.org/locations/pier-97/",
+            "tags-name": [
+              "Free"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a53b6f4c0f23b51ac966eb6",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
