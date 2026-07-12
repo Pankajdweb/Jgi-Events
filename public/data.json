@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T00:26:14.263Z",
+  "fetchedAt": "2026-07-12T00:27:48.933Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 693,
+      "itemCount": 694,
       "items": [
+        {
+          "id": "6a52df7a6c828a117df5f5ff",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T00:27:39.999Z",
+          "lastUpdated": "2026-07-12T00:27:39.999Z",
+          "createdOn": "2026-07-12T00:27:38.724Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kate Kortum and the Aaron Diehl Trio ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a309b33d191f9e9fa9e5365",
+            "start-date": "2026-07-22T23:30:00.000Z",
+            "event-time": "7:30Pm",
+            "event-description": "<p>Jazz in July</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.22_kortum",
+            "slug": "ny-2026-07-22-kortum",
+            "city-name": "NYC",
+            "venue-name": "92nd Street Y",
+            "venue-link": "https://www.92ny.org/"
+          }
+        },
         {
           "id": "6a52df1af9e04447acd028b5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
