@@ -1,12 +1,59 @@
 {
-  "fetchedAt": "2026-07-12T22:27:37.164Z",
+  "fetchedAt": "2026-07-12T22:30:47.416Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 776,
+      "itemCount": 777,
       "items": [
+        {
+          "id": "6a54159611d198283b13a90a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T22:30:46.648Z",
+          "lastUpdated": "2026-07-12T22:30:46.648Z",
+          "createdOn": "2026-07-12T22:30:46.648Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Chris Thomas King",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-17T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p>GRAMMY Award-winning Louisiana musician, actor, author, and entrepreneur <strong>Chris Thomas King</strong> is a modern blues griot of our time. As the son of the famed late swamp blues artist and entrepreneur “Rockin” Tabby Thomas, Chris witnessed his father, a legendary Excello Records recording artist, start his own record label and open his own club, Tabby’s Blues Box in Baton Rouge, LA. </p><p>In addition to releasing over two dozen acclaimed records, Chris Thomas King has also appeared in more than a dozen films and television shows, including the award-winning Ray Charles biopic <em>Ray</em> and the hit HBO series <em>Tremé</em>, and most recently, published his first book, <em>The Blues: The Authentic Narrative of My Music and Culture</em> in 2021. Beyond his esteem as a traditional blues artist, Chris is also known as the pioneer of &nbsp;rap-blues fusion, having produced the first known sample-based blues concept album entitled <em>21st Century Blues… from da Hood</em> in the 1990s, and later creating his own record label under the same name. </p><p>Tonight, he performs with his blues trio. </p><p><strong>Shows at 7:30pm &amp; 9:30pm </strong><br><strong>Doors at 7:00pm &amp; 9:00pm </strong></p><p>‍</p><p><strong>Restaurant is Open 5pm - 10pm for dinner before or after your showtime: </strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com !Advance Ticket-Holders can also make table reservations for dinner by Emailing <strong>reservations@snugjazz.com</strong> after your tickets have been purchased online. Dinner Service without Advance Concert Tickets is first-come, first-served based on availability upon arrival.<strong> </strong></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/chris-thomas-king-trio/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a54158957b1163c1b863385",
+              "6a3db58d49b3972da8b7b5f0",
+              "69de3d2f73b19959770800ba"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_17_king_thomas_chris",
+            "slug": "no-26-07-17-king-thomas-chris",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "Louisiana",
+              "blues",
+              "13+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5414ccf9e04447acfc3a05",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
