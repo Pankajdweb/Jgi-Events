@@ -1,12 +1,59 @@
 {
-  "fetchedAt": "2026-07-12T23:34:48.460Z",
+  "fetchedAt": "2026-07-12T23:38:29.540Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 779,
+      "itemCount": 780,
       "items": [
+        {
+          "id": "6a54256657b1163c1b88afcc",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T23:38:14.845Z",
+          "lastUpdated": "2026-07-12T23:38:14.845Z",
+          "createdOn": "2026-07-12T23:38:14.845Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tom Hook & Wendell Brunious Duo (FREE)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-19T20:30:00.000Z",
+            "event-time": "4:30PM",
+            "event-description": "<p><strong>Tom Hook</strong> is a veteran pianist, songwriter, and entertainer whose career spans jazz, rock, and theatrical performance. He began in Kansas City and went on to a long tenure with the Delta Queen Steamboat Company as a bandleader and entertainment director, while also performing at venues including Walt Disney World and Harrah's Casino New Orleans. Now based in New Orleans, he tours internationally, leads his New Orleans All-Stars—often featuring Wendell Brunious—and stars in his acclaimed one-man show, <em>Becoming Jelly Roll</em>. </p><p>‍<strong>Wendell Brunious</strong> is a celebrated New Orleans trumpeter, composer, and educator whose lyrical phrasing and warm tone embody the elegance of the city’s traditional jazz lineage. The son of legendary trumpeter John Brunious, he carried the family legacy forward as a longtime member and former leader of the Preservation Hall Jazz Band. Over the course of his career, Brunious has performed and recorded with artists including Wynton Marsalis, Lionel Hampton, Danny Barker, and Dr. John, remaining a vital ambassador of New Orleans jazz around the world. </p><p><strong>Doors: 4:00pm</strong><br><strong>Show: 4:30pm - 6:00pm</strong></p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE&nbsp;HAPPY&nbsp;HOUR&nbsp;SET&nbsp;SERIES</em>&nbsp; </p><p><br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show. </strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://snugjazz.com/tm-event/tom-hook-wendell-brunious-2/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "69de3d2f73b19959770800ba"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_19_brunious_and_hook",
+            "slug": "no-26-07-19-brunious-and-hook",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Free",
+              "13+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a54248bb89f6b6fe8880db9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
