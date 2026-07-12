@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T01:39:12.157Z",
+  "fetchedAt": "2026-07-12T01:40:29.702Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 711,
+      "itemCount": 712,
       "items": [
+        {
+          "id": "6a52f08329a68e661790fb38",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T01:40:21.328Z",
+          "lastUpdated": "2026-07-12T01:40:21.328Z",
+          "createdOn": "2026-07-12T01:40:19.834Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Bobby Sanabria Multiverse Big Band + Charlie Aponte + Judy Santos + DJ Connie and DJ Medina",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a52f035c0f23b51ac7c5d96",
+            "start-date": "2026-08-09T21:00:00.000Z",
+            "event-time": "5M",
+            "event-description": "<p>SummerStage</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.09_sanabria",
+            "slug": "ny-2026-08-09-sanabria",
+            "city-name": "NYC",
+            "venue-name": "Snug Harbor",
+            "venue-link": "https://snug-harbor.org/"
+          }
+        },
         {
           "id": "6a52efd8a697290302217090",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
