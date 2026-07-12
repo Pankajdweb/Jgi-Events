@@ -1,12 +1,59 @@
 {
-  "fetchedAt": "2026-07-12T23:49:00.877Z",
+  "fetchedAt": "2026-07-12T23:57:27.722Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 783,
+      "itemCount": 784,
       "items": [
+        {
+          "id": "6a5429d98b29e0a3f2dac083",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T23:57:13.255Z",
+          "lastUpdated": "2026-07-12T23:57:13.255Z",
+          "createdOn": "2026-07-12T23:57:13.255Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "JFA presents Karl Budo Quartet feat. Thaïs Clark (FREE)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-22T21:00:00.000Z",
+            "event-time": "5PM",
+            "event-description": "<p>The Jazz Foundation of American (JFA)&nbsp;presents the Wednesday Happy Hour Series at Snug Harbor, feautring:&nbsp;</p><p><strong>The Karl Budo Band featuring Thaïs Clark </strong></p><p><strong>Karl Budo</strong> is a highly respected New Orleans drummer known for his deep groove, versatility, and decades of experience across the city's vibrant music scene. Equally at home in jazz, funk, R&amp;B, and contemporary styles, Budo has performed with a wide range of New Orleans artists and ensembles, earning a reputation as a dynamic accompanist and bandleader. His tasteful playing, musical sensitivity, and command of New Orleans rhythms have made him a sought-after presence on stages throughout Louisiana and beyond, where he continues to carry forward the city's rich drumming tradition.</p><p>This evening, Budo and his quartet are joined by the legendary <strong>Thaïs Clark, </strong>the 84 years young New Orleans living blues and jazz legend. A&nbsp;vocalist known for her warm, expressive voice and captivating interpretations of jazz, blues, and classic American standards, Drawing inspiration from the rich musical traditions of her hometown, Clark brings elegance, soul, and emotional depth to every performance. A favorite on the local music scene, she has earned a reputation for her engaging stage presence and ability to connect with audiences through both timeless classics and contemporary selections, making each performance a memorable celebration of song.</p><p><strong>Doors: 4:00pm</strong><br><strong>Show: 5:00pm - 6:00pm</strong></p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE&nbsp;HAPPY&nbsp;HOUR&nbsp;SET&nbsp;SERIES</em>&nbsp; </p><p><br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show. </strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://snugjazz.com/tm-event/karl-budo-quartet-with-thais-clark/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "69de3d2f73b19959770800ba"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_22_budo_and_clark",
+            "slug": "no-26-07-22-budo-and-clark",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Free",
+              "13+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5427e242e1862e4b9fe944",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
