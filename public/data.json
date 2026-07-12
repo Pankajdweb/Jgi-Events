@@ -1,12 +1,71 @@
 {
-  "fetchedAt": "2026-07-12T21:59:02.153Z",
+  "fetchedAt": "2026-07-12T22:09:55.251Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 772,
+      "itemCount": 773,
       "items": [
+        {
+          "id": "6a5410a61dd7916d721d2bb5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T22:09:42.518Z",
+          "lastUpdated": "2026-07-12T22:09:42.518Z",
+          "createdOn": "2026-07-12T22:09:42.518Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "New Breed Brass Band",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318fe87774897b07755557",
+            "start-date": "2026-07-16T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p><strong>2026 GRAMMY NOMINEES! &nbsp;New Breed Brass Band</strong> is the new sound of New Orleans, and its members have learned from the city's best, including bandmate cousin Troy “Trombone Shorty” Andrews and James “12” Andrews. New Breed takes the NOLA second-line brass band tradition to all-new places. </p><p>8:30pm Doors </p><p>9:00pm Show </p><p>‍</p><p>No Cover!&nbsp; One Drink Minimum per guest. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.bluenilelive.com/calendar-tickets-",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3db10d06a35758469acd07",
+              "6a3e1976c393eb65ce7dee38",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_15_new_breed_bb",
+            "slug": "no-26-07-15-new-breed-bb",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Blue Nile",
+            "venue-link": "https://www.bluenilelive.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "funk",
+              "funk fusion",
+              "R&B",
+              "hip-hop",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a540c9084c18aea72a034be",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
