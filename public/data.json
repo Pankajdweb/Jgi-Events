@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T14:26:13.407Z",
+  "fetchedAt": "2026-07-12T14:28:03.883Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 719,
+      "itemCount": 720,
       "items": [
+        {
+          "id": "6a53a46734afa63ae231062b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T14:27:53.029Z",
+          "lastUpdated": "2026-07-12T14:27:53.029Z",
+          "createdOn": "2026-07-12T14:27:51.450Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Georgia Heers",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a52ed62a52b15bf928055bb",
+            "start-date": "2026-11-11T18:00:00.000Z",
+            "event-time": "1PM",
+            "event-description": "<p>Jazz at One</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.11.11_heers",
+            "slug": "ny-2026-11-11-heers",
+            "city-name": "NYC",
+            "venue-name": "Trinity Church",
+            "venue-link": "https://trinitychurchnyc.org/"
+          }
+        },
         {
           "id": "6a53a3fabdbcc760ce1533ca",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
