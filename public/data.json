@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T01:31:53.955Z",
+  "fetchedAt": "2026-07-12T01:33:52.794Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 708,
+      "itemCount": 709,
       "items": [
+        {
+          "id": "6a52eeb170a960b63f5a9a91",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T01:33:51.473Z",
+          "lastUpdated": "2026-07-12T01:33:51.473Z",
+          "createdOn": "2026-07-12T01:32:33.309Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Charlie Parker Jazz Festival: Joshua Redman + Nat Adderley Jr. + Catherine Russell + Nicole Glover + DJ Kultured Child",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a34cbe72ec275c0538565e1",
+            "start-date": "2026-08-29T18:00:00.000Z",
+            "event-time": "2PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.29_charlieparkerfest2",
+            "slug": "ny-2026-08-30-charlieparkerfest3-2",
+            "city-name": "NYC",
+            "venue-name": "Marcus Garvey Park",
+            "venue-link": "https://www.nycgovparks.org/parks/marcus-garvey-park"
+          }
+        },
         {
           "id": "6a52ee7cbdbcc760cefe0d90",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
