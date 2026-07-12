@@ -1,12 +1,56 @@
 {
-  "fetchedAt": "2026-07-12T19:14:33.158Z",
+  "fetchedAt": "2026-07-12T19:26:13.408Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 749,
+      "itemCount": 750,
       "items": [
+        {
+          "id": "6a53ea4a49f8b04e534ab169",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T19:26:02.499Z",
+          "lastUpdated": "2026-07-12T19:26:02.499Z",
+          "createdOn": "2026-07-12T19:26:02.499Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kid Merv & All That Jazz",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318b98db57c3c8fbba33fb",
+            "start-date": "2026-07-14T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p><strong>Kid Merv &amp; All That Jazz</strong> is a renowned New Orleans band led by trumpeter and vocalist <strong>Mervin Campbell</strong>. Known for his traditional jazz, brass, and funk performances, Campbell heavily emulates the classic styles of two of his largest influences, Louis Armstrong and Louis Prima. <strong>Mervin \"Kid Merv\" Campbell</strong> is a deeply rooted New Orleans musician. His career began in his youth, playing trumpet in the famous St. Augustine High School Marching 100 and the legendary <strong>Olympia Brass Band</strong>. He went on to form <strong>The</strong> <strong>Young Olympians</strong>, which ultimately morphed into the now globally recognized <strong>Soul Rebels Brass Band,</strong> aka now<strong> The Soul Rebels. </strong>Over his career, he has also played with notable groups like the Treme Brass Band, the Louis Armstrong Society Band, and the Original Royal Players Brass Band. Kid Merv &amp; All That Jazz are a staple on the local festival circuit, performing regularly at major events like the French Quarter Festival, Satchmo SummerFest, and the New Orleans Jazz &amp; Heritage Festival, among many others. </p><p>Catch a healthy dose of the Spirit of New Orleans on Monday nights with Kid Merv &amp;All That Jazz at the Bourbon 'O' Bar inside the Bourbon Orleans Hotel in the heart of the French Quarter and travel back in time a bit. </p><p>‍</p><p>No Cover!&nbsp;</p><p>One Drink Minimum per guest.</p><p>Full food &amp; drink menu available. | Table reservations available. </p>",
+            "button-text": "DETAILS & RESERVATIONS ",
+            "button-link": "https://www.bourbonorleans.com/eat-drink-jazz/bourbon-o-bar/#bourbon-o-bar",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3da8cbfa6118c2dd0e7287"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_13_merv_kid_atj",
+            "slug": "no-26-07-13-merv-kid-atj",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Bourbon 'O' Bar",
+            "venue-link": "https://www.bourbonorleans.com/eat-drink-jazz/bourbon-o-bar/#bourbon-o-bar",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "brass"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a53e78dbc2d869a6e34c9b2",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
