@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-12T14:24:51.732Z",
+  "fetchedAt": "2026-07-12T14:26:13.407Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 717,
+      "itemCount": 719,
       "items": [
+        {
+          "id": "6a53a3fabdbcc760ce1533ca",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T14:26:03.697Z",
+          "lastUpdated": "2026-07-12T14:26:03.697Z",
+          "createdOn": "2026-07-12T14:26:02.647Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Zahili Zamora",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cf2620cc80afc04d53b88",
+            "start-date": "2026-08-02T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.02_zamora",
+            "slug": "ny-2026-08-02-zamora",
+            "city-name": "NYC",
+            "venue-name": "David Rubenstein Atrium at Lincoln Center",
+            "venue-link": "https://www.lincolncenter.org/venue/atrium"
+          }
+        },
+        {
+          "id": "6a53a3a6e009ec4087b69825",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T14:25:20.796Z",
+          "lastUpdated": "2026-07-12T14:25:20.796Z",
+          "createdOn": "2026-07-12T14:24:38.624Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Qi Yu: Guzheng Meets Jazz",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cf2620cc80afc04d53b88",
+            "start-date": "2026-07-26T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.26_qi_yu",
+            "slug": "ny-2026-07-26-qi-yi",
+            "city-name": "NYC",
+            "venue-name": "David Rubenstein Atrium at Lincoln Center",
+            "venue-link": "https://www.lincolncenter.org/venue/atrium"
+          }
+        },
         {
           "id": "6a52f1e6e2850658bd03a291",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
