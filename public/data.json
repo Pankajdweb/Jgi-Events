@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T14:40:13.730Z",
+  "fetchedAt": "2026-07-12T14:43:11.000Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 728,
+      "itemCount": 729,
       "items": [
+        {
+          "id": "6a53a7f108f74ba8931a612b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T14:42:59.338Z",
+          "lastUpdated": "2026-07-12T14:42:59.338Z",
+          "createdOn": "2026-07-12T14:42:57.801Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Alex Dyring",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a3103ff7c84f317f18c2aed",
+            "start-date": "2026-08-29T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>West Harlem Summer Jazz Festival</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.29_dyring",
+            "slug": "ny-2026-08-29-dyring",
+            "city-name": "NYC",
+            "venue-name": "Montefiore Square Park",
+            "venue-link": "https://www.nycgovparks.org/parks/montefiore-square/"
+          }
+        },
         {
           "id": "6a53a7433ee14396ea344f2a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
