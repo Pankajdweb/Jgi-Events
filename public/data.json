@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-12T01:33:52.794Z",
+  "fetchedAt": "2026-07-12T01:37:40.055Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 709,
+      "itemCount": 711,
       "items": [
+        {
+          "id": "6a52efd8a697290302217090",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T01:37:35.991Z",
+          "lastUpdated": "2026-07-12T01:37:35.991Z",
+          "createdOn": "2026-07-12T01:37:28.133Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Samara Joy and Christian McBride + Mei Semones and Friends play 'Getz/Gilberto' + Sparklmami (DJ)",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ff06dedb67a5187242897",
+            "start-date": "2026-09-02T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>Verve Records 70th anniversary celebration</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.09.02_joy_mcbride",
+            "slug": "ny-2026-09-02-joy-mcbride",
+            "city-name": "NYC",
+            "venue-name": "Central Park SummerStage",
+            "venue-link": "https://cityparksfoundation.org/summerstage"
+          }
+        },
+        {
+          "id": "6a52eef5ac6671f077152ce2",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T01:34:05.862Z",
+          "lastUpdated": "2026-07-12T01:34:05.862Z",
+          "createdOn": "2026-07-12T01:33:41.076Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Charlie Parker Jazz Festival: Jazz at Lincoln Center Orchestra with Marquis Hill and Ekep Nkwelle + Bill Saxton Harlem All-Stars",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a34cbe72ec275c0538565e1",
+            "start-date": "2026-08-28T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.28_charlieparkerfest",
+            "slug": "ny-2026-08-28-charlieparkerfest",
+            "city-name": "NYC",
+            "venue-name": "Marcus Garvey Park",
+            "venue-link": "https://www.nycgovparks.org/parks/marcus-garvey-park"
+          }
+        },
         {
           "id": "6a52eeb170a960b63f5a9a91",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
