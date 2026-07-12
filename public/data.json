@@ -1,12 +1,57 @@
 {
-  "fetchedAt": "2026-07-12T22:20:35.644Z",
+  "fetchedAt": "2026-07-12T22:27:37.164Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 775,
+      "itemCount": 776,
       "items": [
+        {
+          "id": "6a5414ccf9e04447acfc3a05",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T22:27:24.185Z",
+          "lastUpdated": "2026-07-12T22:27:24.185Z",
+          "createdOn": "2026-07-12T22:27:24.185Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Tonya Boyd-Cannon with the Lawrence Sieberth Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-16T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><strong>2026 JGI&nbsp;New Orleans Jazz Cohort Fellow, Tonya Boyd-Cannon</strong> is a Mississippi-born, New Orleans-raised powerhouse vocalist, classically trained musician, and acclaimed educator whose soulful performances blend jazz, gospel, blues, funk, and rock with heartfelt storytelling. A Top 20 finalist on Season 8 of The Voice, she has earned critical acclaim with her album “MUZIC Is Life”. As a celebrated recording artist and dynamic live performer, Boyd-Cannon has graced stages around the world including the New Orleans Jazz &amp; Heritage Festival and Colombia's Mompox Jazz Festival. Beyond the stage, Tonya serves as Executive Director of the Rise My Child Foundation, directs the New Orleans Citywide Youth Choir, and leads vocal workshops around the world, using music to inspire, uplift, and transform. </p><p>Tonight. Boyd-Cannon performs with the Lawrence Sieberth trio.<br><br>New Orleans pianist, composer, and bandleader <strong>Lawrence Sieberth</strong> is known for his dynamic blend of modern jazz, funk, and Crescent City rhythms, having performed with artists including Nicholas Payton, Terrence Blanchard, Wessell Anderson, and James Singleton.<br><br><strong>Shows at 7:30pm &amp; 9:30pm </strong><br><strong>Doors at 7:00pm &amp; 9:00pm</strong> </p><p>‍</p><p><strong>Restaurant is Open 5pm - 10pm for dinner before or after your showtime:</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com !Advance Ticket-Holders can also make table reservations for dinner by Emailing <strong>reservations@snugjazz.com</strong> after your tickets have been purchased online and forwarding your E-ticket confirmation with dinner request info. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/davell-crawford-company/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "69de3d2f73b19959770800ba"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_16_boyd-cannon_tonya_sieberth",
+            "slug": "no-26-07-16-boyd-cannon-tonya-sieberth",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "13+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a541328e009ec4087c9e1ed",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
