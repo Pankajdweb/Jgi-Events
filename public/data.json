@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T01:15:06.800Z",
+  "fetchedAt": "2026-07-12T01:21:39.737Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 704,
+      "itemCount": 705,
       "items": [
+        {
+          "id": "6a52ec16ecfd46e075e9574f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T01:21:27.654Z",
+          "lastUpdated": "2026-07-12T01:21:27.654Z",
+          "createdOn": "2026-07-12T01:21:26.316Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jonathan Barber and Vision Ahead",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a52ea908b29e0a3f2add529",
+            "start-date": "2026-08-01T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.31_barber",
+            "slug": "ny-2026-07-31-barber",
+            "city-name": "NYC",
+            "venue-name": "Birds",
+            "venue-link": "https://birds-nyc.com"
+          }
+        },
         {
           "id": "6a52e98df9e04447acd11a0a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
