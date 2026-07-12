@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T01:27:09.017Z",
+  "fetchedAt": "2026-07-12T01:30:32.655Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 706,
+      "itemCount": 707,
       "items": [
+        {
+          "id": "6a52ed7a83065aa9c6bf355b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T01:27:35.389Z",
+          "lastUpdated": "2026-07-12T01:27:35.389Z",
+          "createdOn": "2026-07-12T01:27:22.553Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Cécile McLorin Salvant with Glenn Zaleski",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a52ed62a52b15bf928055bb",
+            "start-date": "2026-09-20T20:00:00.000Z",
+            "event-time": "4PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.09.20_salvant",
+            "slug": "ny-2026-09-20-salvant",
+            "city-name": "NYC",
+            "venue-name": "Trinity Church",
+            "venue-link": "https://trinitychurchnyc.org/"
+          }
+        },
         {
           "id": "6a52ed14c6b8791b212946bd",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
