@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T14:49:37.756Z",
+  "fetchedAt": "2026-07-12T15:34:56.899Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 735,
+      "itemCount": 736,
       "items": [
+        {
+          "id": "6a53a98f686a30b876fed00d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T14:50:07.493Z",
+          "lastUpdated": "2026-07-12T14:50:07.493Z",
+          "createdOn": "2026-07-12T14:49:51.399Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sista Zock",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a53a9758a3b83a3ed941eb7",
+            "start-date": "2026-08-07T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>West Harlem Summer Jazz Festival</p><p>‍</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.07_zock",
+            "slug": "ny-2026-08-07-zock",
+            "city-name": "NYC",
+            "venue-name": "Jackie Robinson Park Bandshell",
+            "venue-link": "https://www.nycgovparks.org/parks/jackie-robinson-park_manhattan"
+          }
+        },
         {
           "id": "6a53a913cbeb7e4ee692dfb3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
