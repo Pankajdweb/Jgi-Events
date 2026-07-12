@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-12T14:44:27.201Z",
+  "fetchedAt": "2026-07-12T14:45:58.259Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 731,
+      "itemCount": 732,
       "items": [
+        {
+          "id": "6a53a89b57a5ba608131cdbf",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-12T14:45:48.774Z",
+          "lastUpdated": "2026-07-12T14:45:48.774Z",
+          "createdOn": "2026-07-12T14:45:47.194Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Santi Debriano",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a3103ff7c84f317f18c2aed",
+            "start-date": "2026-08-08T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>West Harlem Summer Jazz Festival</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.08.08_debriano",
+            "slug": "ny-2026-08-08-debriano",
+            "city-name": "NYC",
+            "venue-name": "Montefiore Square Park",
+            "venue-link": "https://www.nycgovparks.org/parks/montefiore-square/"
+          }
+        },
         {
           "id": "6a53a83fb89f6b6fe8745574",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
