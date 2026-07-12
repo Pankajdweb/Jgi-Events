@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T01:07:32.375Z",
+  "fetchedAt": "2026-07-12T01:08:35.804Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -38,8 +38,8 @@
         {
           "id": "6a52e87d08f74ba89301deb8",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-12T01:06:06.247Z",
-          "lastUpdated": "2026-07-12T01:06:06.247Z",
+          "lastPublished": "2026-07-12T01:07:34.353Z",
+          "lastUpdated": "2026-07-12T01:07:34.353Z",
           "createdOn": "2026-07-12T01:06:05.166Z",
           "isArchived": false,
           "isDraft": false,
@@ -52,7 +52,7 @@
             "start-date": "2026-08-13T17:00:00.000Z",
             "event-time": "7PM",
             "event-description": null,
-            "button-text": "Buy tickets",
+            "button-text": null,
             "button-link": null,
             "tags": null,
             "thumbnail": null,
@@ -66,8 +66,8 @@
         {
           "id": "6a52e851d7ef7f7d887c8c83",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-12T01:05:22.829Z",
-          "lastUpdated": "2026-07-12T01:05:22.829Z",
+          "lastPublished": "2026-07-12T01:08:35.380Z",
+          "lastUpdated": "2026-07-12T01:08:35.380Z",
           "createdOn": "2026-07-12T01:05:21.484Z",
           "isArchived": false,
           "isDraft": false,
@@ -80,7 +80,7 @@
             "start-date": "2026-07-30T17:00:00.000Z",
             "event-time": "7PM",
             "event-description": null,
-            "button-text": "Buy tickets",
+            "button-text": null,
             "button-link": null,
             "tags": null,
             "thumbnail": null,
