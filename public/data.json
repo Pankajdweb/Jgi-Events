@@ -1,17 +1,73 @@
 {
-  "fetchedAt": "2026-07-13T05:06:22.324Z",
+  "fetchedAt": "2026-07-13T05:07:47.285Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 835,
+      "itemCount": 836,
       "items": [
+        {
+          "id": "6a54726d39c26a37457617f2",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:06:53.976Z",
+          "lastUpdated": "2026-07-13T05:06:53.976Z",
+          "createdOn": "2026-07-13T05:06:53.976Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kevin Louis & The Hometeam",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1387485d4aa63df2ceb86c",
+            "start-date": "2026-07-29T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Kevin Louis &amp; The Hometeam for two sets </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.mjhnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d8dccfbaf1d80d9b7c0e8",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.28_louis_kevin_hometeam Copy",
+            "slug": "no-26-07-28-louis-kevin-hometeam-copy",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Mahogany Jazz Hall",
+            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "trad jazz",
+              "classic jazz",
+              "swingin' jazz",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a547244b6e12e756ccee74c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-13T05:06:19.189Z",
-          "lastUpdated": "2026-07-13T05:06:19.189Z",
+          "lastPublished": "2026-07-13T05:06:19.390Z",
+          "lastUpdated": "2026-07-13T05:06:19.390Z",
           "createdOn": "2026-07-13T05:06:12.405Z",
           "isArchived": false,
           "isDraft": false,
