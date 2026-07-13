@@ -1,12 +1,62 @@
 {
-  "fetchedAt": "2026-07-13T06:12:02.832Z",
+  "fetchedAt": "2026-07-13T06:15:44.676Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 853,
+      "itemCount": 854,
       "items": [
+        {
+          "id": "6a54828500b9a2a6ce20cb3d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T06:15:33.847Z",
+          "lastUpdated": "2026-07-13T06:15:33.847Z",
+          "createdOn": "2026-07-13T06:15:33.847Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "BassX featuring Julius McKee ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31ce27bcdc72821f1231a8",
+            "start-date": "2026-07-26T01:00:00.000Z",
+            "event-time": "9:30PM",
+            "event-description": "<p>Redefining modern jazz through a sousaphone lens, <a href=\"https://us.list-manage.com/SXzkc0Wrw1p?e=2a4b8946ba&c2id=f7a968b7b5f00f0ee07cfb4545563b11\" target=\"_blank\"><strong>BassX</strong></a> is a rising New Orleans jazz fusion collective led by GRAMMY-nominated artist <strong>Julius McKee</strong>. Rooted in the city’s rich jazz tradition, <strong>BassX </strong>reimagines traditional jazz through a progressive lens—honoring its origins while allowing the music to evolve in real time. </p><p>Drawing from a classic New Orleans traditional setup, BassX revisits the early foundations of the music by reintroducing the sousaphone, an instrument that once played a central role in the tradition before the upright bass became standard. This approach reconnects the sound to its historical roots while opening space for new rhythmic, melodic, and textural possibilities. Rather than reproducing tradition note-for-note, BassX treats it as a living language. Performances balance structure and spontaneity, emphasizing groove, deep listening, and collective interaction. The result is music that feels familiar yet forward-looking—grounded in history, shaped by the moment, and responsive to the room.BassX operates as a collective, reminiscent of traditions of several eras past such as that of Art Blakey &amp; The Jazz Messengers or Herbie Hancock's Headhunters, collaborating with a rotating roster of New Orleans musicians drawn from the city’s deep and diverse jazz community. Line-ups vary by project, venue, and context, allowing the music to remain flexible and rooted in collaboration rather than fixed personnel. </p><p><strong>Doors at 9pm </strong></p><p><strong>Sets at 9:30pm &amp;&nbsp;11:00pm </strong></p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://dosjefes.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc0500a022a5481a97926",
+              "6a38c5fc888935521812a4b0",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.25_BassX",
+            "slug": "no-26-07-25-bassx",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Dos Jefes Bar & Cigar Lounge",
+            "venue-link": "https://dosjefes.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "classic jazz",
+              "modern jazz",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5481a5ddd009e53e0d1834",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
