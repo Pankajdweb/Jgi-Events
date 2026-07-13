@@ -1,12 +1,57 @@
 {
-  "fetchedAt": "2026-07-13T03:34:52.769Z",
+  "fetchedAt": "2026-07-13T03:42:28.224Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 820,
+      "itemCount": 821,
       "items": [
+        {
+          "id": "6a545e980379a4151a78f9c3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T03:42:16.619Z",
+          "lastUpdated": "2026-07-13T03:42:16.619Z",
+          "createdOn": "2026-07-13T03:42:16.619Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Little Freddie King’s 86th Birthday Bash with the Little Freddie King band, The Leopard Hounds +sg",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3191836c7556447bb46dc0",
+            "start-date": "2026-07-19T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p>Freddie's back home from bicycle accident recovery and ready to rock!&nbsp;</p><p>Celebrate our living legend, local hero and OG&nbsp;bluesman <strong>Little Freddie King's 86th Birthday</strong> with Waco Wade and the band, plus The Leopard Hounds and special guests. </p><p>‍</p><p>9pm - Until | $25 </p><p><strong><em>CASH ONLY</em></strong> at the door and at the bar </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.instagram.com/bjslounge/?hl=en",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3db58d49b3972da8b7b5f0",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.18_little_freddie_king_86th",
+            "slug": "no-26-07-18-little-freddie-king-86th",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "BJ's Bywater Lounge",
+            "venue-link": "https://www.facebook.com/bjs.bywater/",
+            "tags-name": [
+              "New Orleans",
+              "blues",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a545cd0117af85b889a7212",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
