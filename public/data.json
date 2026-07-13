@@ -1,12 +1,63 @@
 {
-  "fetchedAt": "2026-07-13T01:28:26.948Z",
+  "fetchedAt": "2026-07-13T01:30:20.160Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 799,
+      "itemCount": 800,
       "items": [
+        {
+          "id": "6a543fa0a4e27dc22b695a6e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T01:30:08.741Z",
+          "lastUpdated": "2026-07-13T01:30:08.741Z",
+          "createdOn": "2026-07-13T01:30:08.741Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Corey Henry & The Tremé Funktet",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3190743031319c406e4e1a",
+            "start-date": "2026-07-24T02:30:00.000Z",
+            "event-time": "10:30PM",
+            "event-description": "<p>One of New Orleans' longest running residencies, launched by Kermit Ruffins and passed on to the next young gun, 6th Ward trombone player <strong>Corey Henry</strong>, who's been lighting up this bywater watering hole since 2013 with the <strong>Tremé Funktet</strong> with rotating special guests weekly. </p><p><strong>Sets at 10:30pm &amp;&nbsp;12:30am </strong></p><p><em>*&nbsp;CASH&nbsp;ONLY!&nbsp;*&nbsp; </em></p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.facebook.com/p/Vaughans-Lounge-100039680183945/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38d5cd9d169080eff44009",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.23_henry_corey_treme_funktet",
+            "slug": "no-26-07-23-henry-corey-treme-funktet",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Vaughan's Lounge",
+            "venue-link": "https://www.facebook.com/p/Vaughans-Lounge-100039680183945/",
+            "tags-name": [
+              "New Orleans",
+              "funk",
+              "jazz",
+              "soul",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a543f30f1e0c88db34e7183",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
