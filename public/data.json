@@ -1,17 +1,64 @@
 {
-  "fetchedAt": "2026-07-13T05:53:22.563Z",
+  "fetchedAt": "2026-07-13T05:57:03.845Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 848,
+      "itemCount": 849,
       "items": [
+        {
+          "id": "6a547e24d783df3e9cc22061",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:56:52.864Z",
+          "lastUpdated": "2026-07-13T05:56:52.864Z",
+          "createdOn": "2026-07-13T05:56:52.864Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sunpie & The Louisiana Sunspots",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31ce27bcdc72821f1231a8",
+            "start-date": "2026-07-25T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p>Bruce \"Sunpie\" Barnes &amp; The Louisiana Sunspots for 2 sets </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://dosjefes.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a54158957b1163c1b863385",
+              "6a54681087e92148cf6b8c64",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.24_sunpie",
+            "slug": "no-26-07-24-sunpie",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Dos Jefes Bar & Cigar Lounge",
+            "venue-link": "https://dosjefes.com/",
+            "tags-name": [
+              "New Orleans",
+              "Louisiana",
+              "creole music",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a547d48fcb510891c85f790",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-13T05:53:12.020Z",
-          "lastUpdated": "2026-07-13T05:53:12.020Z",
+          "lastPublished": "2026-07-13T05:53:34.998Z",
+          "lastUpdated": "2026-07-13T05:53:34.998Z",
           "createdOn": "2026-07-13T05:53:12.020Z",
           "isArchived": false,
           "isDraft": false,
@@ -32,6 +79,7 @@
               "6a3d9aeece73087b968fb39b",
               "6a3dc0500a022a5481a97926",
               "6a3dc06345e26029b72db5fc",
+              "6a3dc08d493eb9ffc7940d0c",
               "698171062ef8be261a524681"
             ],
             "thumbnail": null,
@@ -48,9 +96,11 @@
               "lounge",
               "classic jazz",
               "swingin' jazz",
+              "straight ahead jazz",
               "21+"
             ],
             "tags-link": [
+              null,
               null,
               null,
               null,
