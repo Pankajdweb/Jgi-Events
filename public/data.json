@@ -1,12 +1,62 @@
 {
-  "fetchedAt": "2026-07-13T04:39:56.087Z",
+  "fetchedAt": "2026-07-13T04:43:27.807Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 828,
+      "itemCount": 829,
       "items": [
+        {
+          "id": "6a546ce5b6d9c82752adb8ba",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T04:43:17.871Z",
+          "lastUpdated": "2026-07-13T04:43:17.871Z",
+          "createdOn": "2026-07-13T04:43:17.871Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Charlie & The Tropicales plus Crys",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318bfe54c045b2f3bca972",
+            "start-date": "2026-07-20T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p><a href=\"https://snugjazz.us14.list-manage.com/track/click?u=35bfe4091f58407e2c8744a04&id=4ff2d455cb&e=7d064d8e7a\" target=\"_blank\"><strong>Charlie &amp; The Tropicales</strong></a> rejuvenate a wide swath of vintage Caribbean sounds, from cumbia, calypso, biguine and son Cubano to rocksteady and New Orleans R&amp;B-inspired rock &amp; roll. Led by trombonist and composer Charlie Halloran, The Tropicales breathe new life into 1950s-era tropical dance pop tunes while introducing new layers of fusion. Think: &nbsp;“Ruler of My Heart,” rocksteady-style, or Venezuela’s classic joropo “Alma Llanera” spiked with calypso energy. </p><p>The New Orleans-based 8-piece ensemble draws inspiration from Cuban son, mambo, and Caribbean music, reimagining traditional forms while honoring their roots, featuring rich horn lines, infectious percussion, and soulful improvisation. Known for high-energy performances and deep rhythmic feel, The Tropicales have become a standout presence in the New Orleans music scene, bringing tropical flavor and modern jazz sensibility to audiences near and far. </p><p>Tonight, they are joined on this double-bill with rising singer-songwriter siren, <strong>Crys. </strong></p><p>‍</p><p><strong>Sets at 9pm &amp; 10:30pm </strong></p><p>‍</p>",
+            "button-text": "DETAILS & TICKETS",
+            "button-link": "https://www.thesaturnbar.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38c8cd3d7a1c73c9aefaa9",
+              "6a3db8c855578f8c60ccdfde",
+              "6a3db8d5ea3bd0230cbe619f",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.19_Charlie_Tropicales_Crys",
+            "slug": "no-26-07-19-charlie-tropicales-crys",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Saturn Bar",
+            "venue-link": "https://www.thesaturnbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "world music",
+              "Caribbean music",
+              "singer-songwriter",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a546b9290c3dfa2b78b2132",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
