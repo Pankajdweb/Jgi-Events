@@ -1,12 +1,65 @@
 {
-  "fetchedAt": "2026-07-13T00:14:57.951Z",
+  "fetchedAt": "2026-07-13T00:21:09.184Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 786,
+      "itemCount": 787,
       "items": [
+        {
+          "id": "6a542f6ad692e1632e11d513",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T00:20:58.014Z",
+          "lastUpdated": "2026-07-13T00:20:58.014Z",
+          "createdOn": "2026-07-13T00:20:58.014Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Martin Masakowski & Sari Jordan Duo (FREE)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-25T20:30:00.000Z",
+            "event-time": "4:30PM",
+            "event-description": "<p><strong>Sari Jordan </strong>is a New Jersey-born, New Orleans-based vocalist, songwriter, and multi-instrumentalist whose music blends raw honesty, playful boldness, and genre-spanning creativity. Known for their distinctive voice and deeply personal songwriting, Jordan crafts songs that explore relationships, power, love, grief, and transformation with equal parts vulnerability and joy. Following the release of their acclaimed 2023 EP <em>Sing to the Moon</em>, Jordan continues to captivate audiences with a sound that is ethereal, funky, introspective, and unmistakably their own. Jordan's most recent record, <em>PERFECT BE THE ENEMY</em>, was released in the spring of 2026. </p><p>Bassist and luthier <strong>Martin Masakowski</strong> is a New Orleans-born musician whose wide-ranging influences span jazz, folk, classical, Eastern European, Indian, and experimental music. A graduate of the New Orleans Center for Creative Arts, the University of New Orleans, and the Rotterdam Conservatory in The Netherlands, Masakowski has performed throughout Europe and beyond, drawing inspiration from diverse musical traditions. Now based in New Orleans, he is known for his adventurous approach to the double bass, innovative instrument design, and dynamic performances at venues and festivals across the city. </p><p>Jordan and Masakowski join forces for this special, intimate duo performance.</p><p><strong>Doors: 4:00pm</strong><br><strong>Show: 4:30pm - 6:00pm</strong></p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE&nbsp;HAPPY&nbsp;HOUR&nbsp;SET&nbsp;SERIES</em>&nbsp; </p><p><br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show. </strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://snugjazz.com/tm-event/sari-jordan-with-martin-masakowski/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "69de3d2f73b19959770800ba",
+              "6a3db8d5ea3bd0230cbe619f",
+              "6a38c8cd3d7a1c73c9aefaa9"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_25_masakowski_martin_and_jordan_sari",
+            "slug": "no-26-07-25-masakowski-martin-and-jordan-sari",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Free",
+              "13+",
+              "singer-songwriter",
+              "world music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a542df470dbe02d7e902d3d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
