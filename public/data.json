@@ -1,12 +1,65 @@
 {
-  "fetchedAt": "2026-07-13T05:25:13.828Z",
+  "fetchedAt": "2026-07-13T05:30:22.437Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 840,
+      "itemCount": 841,
       "items": [
+        {
+          "id": "6a5477e26cb5b952dd3294c9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T05:30:10.178Z",
+          "lastUpdated": "2026-07-13T05:30:10.178Z",
+          "createdOn": "2026-07-13T05:30:10.178Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Miss Sophie Lee",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a13889917dbf6f16bce01fe",
+            "start-date": "2026-07-23T22:00:00.000Z",
+            "event-time": "6PM",
+            "event-description": "<p>Songstress <a href=\"https://www.magnolianola.com/miss-sophie-lee\"><strong>Miss Sophie Lee</strong></a> and her trio at 6pm for one the most delightful and longest running happy hour monthlies. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.spottedcatmusicclub.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db8d5ea3bd0230cbe619f",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.23_lee_sophie",
+            "slug": "no-26-07-23-lee-sophie",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Spotted Cat Music Club",
+            "venue-link": "https://www.spottedcatmusicclub.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "singer-songwriter",
+              "Free",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5476af3b45ec7d4e7269be",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
