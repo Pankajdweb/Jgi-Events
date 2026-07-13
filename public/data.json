@@ -1,12 +1,80 @@
 {
-  "fetchedAt": "2026-07-13T02:58:48.474Z",
+  "fetchedAt": "2026-07-13T03:13:43.408Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 817,
+      "itemCount": 818,
       "items": [
+        {
+          "id": "6a5457dc0df2b0c05a853f04",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T03:13:32.257Z",
+          "lastUpdated": "2026-07-13T03:13:32.257Z",
+          "createdOn": "2026-07-13T03:13:32.257Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Soul Rebels",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318c7c9cec0ea91a901f2f",
+            "start-date": "2026-07-18T02:00:00.000Z",
+            "event-time": "10PM",
+            "event-description": "<p><a href=\"https://thesoulrebels.com/\"><strong>The Soul Rebels</strong></a> are an eight-piece New Orleans brass band known for mashing up traditional jazz and marching band roots with funk, hip-hop, soul, and rock. Founded in 1991 by percussionists Lumar LeBlanc and Derrick Moss, they have become a globally touring phenomenon. </p><p>Originating from the Young Olympia Brass Band, the members decided to break away to incorporate contemporary radio hits and hip-hop into their arrangements. Performing at the iconic Uptown New Orleans club Tipitina's in 1991, Cyril Neville suggested they name their group after the Bob Marley song \"Soul Rebels,\" cementing their new progressive direction. </p><p>The collective has since become renowned for crossing genres and performing with massive stars. They have collaborated with hip-hop and pop legends including Nas, Katy Perry, Metallica, GZA (Wu-Tang Clan), G-Eazy, and DMX. Their energetic sound has also made them a staple in film and television, scoring original music for Disney's 2023 movie <em>Haunted Mansion</em> and appearing on the soundtrack for <em>Girls Trip. </em>They have also appeared on <em>The Late Show with Stephen Colbert </em>and <em>NPR</em>'s Tiny Desk.</p><p>Among several other hits, their song \"Let Your Mind Be Free\"&nbsp;remains one of the most popular New Orleans brass band staples to-date. </p><p>Catch them tonight at their monthly Frenchmen Street residency - one of only two rare opportunities these days to experience The Rebels live in a tony intimate room, the size of the ones they started out in over 30+&nbsp;years ago.</p><p><strong>Two Sets at 10pm &amp;&nbsp;Midnight</strong></p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.dbaneworleans.com/shows",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3da8cbfa6118c2dd0e7287",
+              "6a3da8d7d1dfdb84877495ad",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519",
+              "6a38d5cd9d169080eff44009",
+              "6a5409e42bdfdb9477100c16",
+              "6a3e1976c393eb65ce7dee38",
+              "6a3db10d06a35758469acd07",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.17_soul_rebels_dba",
+            "slug": "no-26-07-17-soul-rebels-dba",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "d.b.a. New Orleans ",
+            "venue-link": "https://www.dbaneworleans.com/",
+            "tags-name": [
+              "New Orleans",
+              "brass",
+              "brass band",
+              "jazz",
+              "jazz fusion",
+              "contemporary jazz",
+              "funk",
+              "funk fusion",
+              "hip-hop",
+              "R&B",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a54545bb97359ee7ab05357",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
