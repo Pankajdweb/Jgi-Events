@@ -1,12 +1,81 @@
 {
-  "fetchedAt": "2026-07-13T02:36:28.215Z",
+  "fetchedAt": "2026-07-13T02:43:14.547Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 815,
+      "itemCount": 816,
       "items": [
+        {
+          "id": "6a5450b74c8fb6e869fb4855",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T02:43:03.428Z",
+          "lastUpdated": "2026-07-13T02:43:03.428Z",
+          "createdOn": "2026-07-13T02:43:03.428Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Yusa",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a3d9fe14e20c8f7fb6fa280",
+            "start-date": "2026-07-24T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Regarded as a top Ambassador of 21st Century Cuban Music and one of the leading voices of Cuban music today, guitarist, bassist, vocalist, composer and tres player, <strong>YUSA </strong>is no stranger to New Orleans, as she has been spending time in the city and collaborating with many of our esteemed musicians for a several years, now a New Orleans resident. </p><p>Born in Havana, music and the ocean have been central to her artistic production as a singer-songwriter. Her compositions have earned the acclaim of both her contemporaries on the island and international admirers. She signed to Tumi Music in 2002 and since released a handful of albums to critical acclaim, including multiple <strong>Cubadisco Awards </strong>and <strong>BBC Radio World Music Awards</strong>. In 2008, she founded her own label, Yusa Music, on which she released her 5th album in 2012. </p><p>YUSA blazed trails in early years as a member of the all-women quintet <strong>Quasi Jazz,</strong> cementing her voice in the jazz fusion world, but she is perhaps most known as a core member of and composer for the popular Cuban band <strong>Interactivo. </strong></p><p>She brings her vibrant blend of trova, son, pop, jazz, Cuban and Brasilian rhythms to the stage and leaves the audience always wanting more. Yusa draws the listener in with her uncommon and very personal style, integrating Cuban music with music from around the globe, avoiding clichés and achieving the ever elusive “fusion.”</p><p>Join us tonight for Yusa's monthly residency at Good Measure, where each time is something completely fresh and different. </p><p><strong>Two Sets at 8pm &amp; 10pm </strong></p><p>‍</p><p>NO&nbsp;COVER!&nbsp; But seating is limited, so early arrival is strongly suggested. One Drink Minimum per guest. Full Bar &amp;&nbsp;Food Menu Available. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://goodmeasurenola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a38c5fc888935521812a4b0",
+              "6a3dbe6a496c109a25be6519",
+              "6a3dae4ebc327d4be01ff69c",
+              "6a3d9097305f37f9c96853be",
+              "6a544bb79e83058b040e74b2",
+              "6a3d90a72a61bee173063f0b",
+              "6a38c8cd3d7a1c73c9aefaa9",
+              "698171062ef8be261a524683"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.23_yusa_GM",
+            "slug": "no-26-07-23-yusa-gm",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Good Measure at The Barnett Hotel",
+            "venue-link": "https://goodmeasurenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "modern jazz",
+              "contemporary jazz",
+              "Latin Jazz",
+              "Cuban jazz",
+              "Cuban son",
+              "Cuban music",
+              "world music",
+              "Free"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a544e72b97359ee7aaf0822",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
