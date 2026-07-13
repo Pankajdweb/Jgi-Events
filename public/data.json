@@ -1,12 +1,65 @@
 {
-  "fetchedAt": "2026-07-13T01:12:58.926Z",
+  "fetchedAt": "2026-07-13T01:17:06.750Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 795,
+      "itemCount": 796,
       "items": [
+        {
+          "id": "6a543c863b45ec7d4e658795",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T01:16:54.792Z",
+          "lastUpdated": "2026-07-13T01:16:54.792Z",
+          "createdOn": "2026-07-13T01:16:54.792Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Johnny Vidacovich Trio",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318a7a46aaea2ff1e0e135",
+            "start-date": "2026-07-17T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Johnny Vidacovich Trio with Tony Dagradi &amp; Lex Warshawsky </p><p>Two Sets, One Ticket: Sets at 8pm &amp; 10pm </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.mapleleafbar.com/leaf",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d5cd9d169080eff44009",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a5409e42bdfdb9477100c16",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_16_vidacovich_trio",
+            "slug": "no-26-07-16-vidacovich-trio",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Maple Leaf Bar",
+            "venue-link": "https://www.mapleleafbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "funk",
+              "jazz fusion",
+              "funk fusion",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a543b8d4580c5e573db1033",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
