@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-13T03:13:43.408Z",
+  "fetchedAt": "2026-07-13T03:19:18.962Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -2088,8 +2088,8 @@
         {
           "id": "6a54248bb89f6b6fe8880db9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-12T23:34:35.766Z",
-          "lastUpdated": "2026-07-12T23:34:35.766Z",
+          "lastPublished": "2026-07-13T03:19:10.310Z",
+          "lastUpdated": "2026-07-13T03:19:10.310Z",
           "createdOn": "2026-07-12T23:34:35.766Z",
           "isArchived": false,
           "isDraft": false,
@@ -2112,7 +2112,7 @@
               "69de3d2f73b19959770800ba"
             ],
             "thumbnail": null,
-            "name": "no_26_07_18_marsalis_jason_beach_boys",
+            "name": "no_26.07.18_marsalis_jason_beach_boys",
             "slug": "no-26-07-18-marsalis-jason-beach-boys",
             "city-name": "NOLA",
             "feature-name": "JGI Pick",
