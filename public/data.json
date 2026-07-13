@@ -1,12 +1,56 @@
 {
-  "fetchedAt": "2026-07-13T00:31:42.162Z",
+  "fetchedAt": "2026-07-13T00:36:56.184Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 789,
+      "itemCount": 790,
       "items": [
+        {
+          "id": "6a54331bd30ccba53357bc5f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T00:36:43.040Z",
+          "lastUpdated": "2026-07-13T00:36:43.040Z",
+          "createdOn": "2026-07-13T00:36:43.040Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Sanone, Fohl & Worrell ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-07-28T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><strong>Sansone, Fohl &amp; Worrel</strong>l unites three veteran New Orleans musicians whose collective résumés span decades of performances with some of the biggest names in American music. Guitarist, vocalist, and songwriter<strong> Johnny Sansone</strong> is a multiple Blues Music Award winner known for his work with John Lee Hooker, Dr. John, Cyril Neville, and Jimmy Thackery, as well as his acclaimed solo career. Drummer<strong> Doug Fohl </strong>has been a mainstay of the New Orleans music scene for more than four decades, performing and recording with artists including Irma Thomas, Marcia Ball, Earl King, and Tommy Ridgley. Keyboardist Pianist, vocalist, and multi-instrumentalist<strong> Tom Worrell</strong> is a veteran of both the road and the New Orleans scene, having toured internationally with Solomon Burke before becoming a fixture in the Crescent City. Known for channeling the spirits of Professor Longhair and James Booker, Worrell has worked with Walter \"Wolfman\" Washington, the Wild Magnolias, Deacon John, the 101 Runners, Brother Tyrone, Big Marva Wright, and many others.<br><br>Together, these three masters deliver an electrifying mix of blues, funk, R&amp;B, jazz, and classic New Orleans groove, fueled by decades of experience and undeniable chemistry.</p><p><strong>Shows at 7:30pm &amp; 9:30pm</strong></p><p><strong>Doors at 7:00pm &amp; 9:00pm </strong></p><p>‍</p><p><strong>Restaurant is Open 5pm - 11pm for dinner <em>before</em> or <em>after</em> your ticketed showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room nextdoor to the Music room online via OpenTable.com</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/sansone-fohl-worrell/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a3db10d06a35758469acd07"
+            ],
+            "thumbnail": null,
+            "name": "no_26_07_28_sanson_fohl_worrell",
+            "slug": "no-26-07-28-sanson-fohl-worrell",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "blues",
+              "R&B"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5431e3e2850658bd369497",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
