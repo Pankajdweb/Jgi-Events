@@ -1,12 +1,62 @@
 {
-  "fetchedAt": "2026-07-13T04:09:53.394Z",
+  "fetchedAt": "2026-07-13T04:13:36.201Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 822,
+      "itemCount": 823,
       "items": [
+        {
+          "id": "6a5463c626c550c1d15ad791",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-13T04:10:05.290Z",
+          "lastUpdated": "2026-07-13T04:10:05.290Z",
+          "createdOn": "2026-07-13T04:04:22.240Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "James Jordan & The Situation",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a546434e92c95e5de68b42c",
+            "start-date": "2026-07-19T03:00:00.000Z",
+            "event-time": "11PM",
+            "event-description": "<p>Rising young New Orleans jazzy R&amp;B&nbsp;soul star James Jordan presents his band The Situation. One to watch!&nbsp;</p><p>Sets at 11pm &amp;&nbsp;12:30am |&nbsp;$10 </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://lbtrnola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a38d5cd9d169080eff44009",
+              "6a3db10d06a35758469acd07",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.18_jordan_james_situation",
+            "slug": "no-26-07-18-jordan-james-situation",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Le Bon Temps Roule",
+            "venue-link": "https://lbtrnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "soul",
+              "funk",
+              "R&B",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a546336cbb865bb49ac9792",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
