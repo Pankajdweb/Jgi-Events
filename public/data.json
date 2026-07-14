@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T12:02:06.565Z",
+  "fetchedAt": "2026-07-14T13:21:51.579Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -10,8 +10,8 @@
         {
           "id": "6a55612074d8645462e5acea",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-14T04:31:05.305Z",
-          "lastUpdated": "2026-07-13T22:05:24.470Z",
+          "lastPublished": "2026-07-14T13:21:41.762Z",
+          "lastUpdated": "2026-07-14T13:21:41.762Z",
           "createdOn": "2026-07-13T22:05:20.037Z",
           "isArchived": false,
           "isDraft": false,
@@ -23,7 +23,7 @@
             "venue": "6a199afc96df4f62c2da2655",
             "start-date": "2026-08-20T23:00:00.000Z",
             "event-time": "7 PM",
-            "event-description": "<p>Tap dancer&nbsp;Christina Carminucci performs with a full band for this week's Soundoff Session. Sets at 8&nbsp;and 9:30, Soundoff Sessions until late. Creatives, bring your axe — whatever it is — and your energy. </p>",
+            "event-description": "<p>Tap dancer&nbsp;Christina Carminucci performs with a full band for this week's Soundoff Session. Sets at 8&nbsp;and 9:30, Soundoff Sessions until late. Creatives, bring your axe — whatever it is — and your energy. []</p>",
             "button-text": null,
             "button-link": null,
             "tags": [
