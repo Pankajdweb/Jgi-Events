@@ -1,12 +1,79 @@
 {
-  "fetchedAt": "2026-07-15T05:46:42.608Z",
+  "fetchedAt": "2026-07-15T05:51:53.569Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 881,
+      "itemCount": 883,
       "items": [
+        {
+          "id": "6a571f6564c0fa47e0fd1c27",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T05:49:27.899Z",
+          "lastUpdated": "2026-07-15T05:49:27.899Z",
+          "createdOn": "2026-07-15T05:49:25.747Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Trap Music Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cae5d0d1b3a1110e62d06",
+            "start-date": "2026-08-05T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.05_trap",
+            "slug": "ny-26-08-05-trap",
+            "city-name": "NYC",
+            "venue-name": "Jazz Gallery",
+            "venue-link": "https://jazzgallery.org/"
+          }
+        },
+        {
+          "id": "6a571efe216ed23b538cad79",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T05:47:44.907Z",
+          "lastUpdated": "2026-07-15T05:47:44.907Z",
+          "createdOn": "2026-07-15T05:47:42.137Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Marta Sanchez, Kanoa Mendenhall and Mark Whitfield jr.",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-08-08T00:00:00.000Z",
+            "event-time": "8PM & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.07_sanchez",
+            "slug": "ny-26-08-07-sanchez",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a571d89b15e7ce079ab5137",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
