@@ -1,12 +1,129 @@
 {
-  "fetchedAt": "2026-07-15T05:29:49.001Z",
+  "fetchedAt": "2026-07-15T05:38:19.689Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 877,
+      "itemCount": 880,
       "items": [
+        {
+          "id": "6a571c2bc252f0ab8d5c944a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T05:35:41.775Z",
+          "lastUpdated": "2026-07-15T05:35:41.775Z",
+          "createdOn": "2026-07-15T05:35:39.663Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kazemde George, Tyrone Allen II and Kayvon Gordon",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-08-02T23:30:00.000Z",
+            "event-time": "7:30PM & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.02_george",
+            "slug": "ny-26-08-02-george",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a571b93481519a67cd630b5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T05:33:12.984Z",
+          "lastUpdated": "2026-07-15T05:33:12.984Z",
+          "createdOn": "2026-07-15T05:33:07.168Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kush Abadey, Melissa Aldana, Emmanuel Michael, Sam Yahel and Pablo Menares",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-08-02T00:00:00.000Z",
+            "event-time": "8PM & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.01_abadey",
+            "slug": "ny-26-08-01-abadey",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a571ad2b5ccf02d2dfa607a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T05:29:55.524Z",
+          "lastUpdated": "2026-07-15T05:29:55.524Z",
+          "createdOn": "2026-07-15T05:29:54.047Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vinnie Sperrazza, Steve Nelson, Jacob Sacks and Dave Ambrosio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-07-18T00:00:00.000Z",
+            "event-time": "8PM & 10AM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.07.17_sperrazza",
+            "slug": "ny-26-07-17-sperrazza",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a5717f86f87cf0231ce27c0",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
