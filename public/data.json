@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-15T12:51:57.590Z",
+  "fetchedAt": "2026-07-15T12:56:27.033Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 944,
+      "itemCount": 946,
       "items": [
+        {
+          "id": "6a5782821b67df5d6f4d0665",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T12:52:21.646Z",
+          "lastUpdated": "2026-07-15T12:52:21.646Z",
+          "createdOn": "2026-07-15T12:52:18.178Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Steve Ash Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc9622243172b566077be",
+            "start-date": "2026-08-05T01:00:00.000Z",
+            "event-time": "9 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.04_ash",
+            "slug": "ny-26-08-04-ash",
+            "city-name": "NYC",
+            "venue-name": "Mezzrow",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
         {
           "id": "6a5781c8fc8cd8159089af79",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -1482,6 +1510,42 @@
             "thumbnail": null,
             "name": "ny_26.08.07_garrett",
             "slug": "ny-26-08-07-garrett",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [
+              "Full menu"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a5726fbef8929dda9cdf9d4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T12:53:32.662Z",
+          "lastUpdated": "2026-07-15T12:53:32.662Z",
+          "createdOn": "2026-07-15T06:21:47.289Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kenny Garrett",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-08-07T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.06_garrett",
+            "slug": "ny-26-08-06-garrett",
             "city-name": "NYC",
             "venue-name": "Blue Note",
             "venue-link": "https://www.bluenotejazz.com/nyc/",
