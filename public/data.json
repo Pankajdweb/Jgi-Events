@@ -1,12 +1,98 @@
 {
-  "fetchedAt": "2026-07-15T07:06:51.209Z",
+  "fetchedAt": "2026-07-15T07:15:29.529Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 920,
+      "itemCount": 923,
       "items": [
+        {
+          "id": "6a573350ad567f21e0adacb2",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T07:14:26.150Z",
+          "lastUpdated": "2026-07-15T07:14:26.150Z",
+          "createdOn": "2026-07-15T07:14:24.346Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "William Hill III Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc9622243172b566077be",
+            "start-date": "2026-08-02T01:00:00.000Z",
+            "event-time": "9 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.08.01_hill",
+            "slug": "ny-26-08-01-hill",
+            "city-name": "NYC",
+            "venue-name": "Mezzrow",
+            "venue-link": "https://www.smallslive.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6a5732711ed64361f8b92ce9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T07:10:44.535Z",
+          "lastUpdated": "2026-07-15T07:10:44.535Z",
+          "createdOn": "2026-07-15T07:10:41.707Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Stephan Crump feat. Darius Jones and Eric Mcpherson",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ff99a978244087d26e1e2",
+            "start-date": "2026-08-01T00:00:00.000Z",
+            "event-time": "8 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.07.31_crump",
+            "slug": "ny-26-07-31-crump",
+            "city-name": "NYC",
+            "venue-name": "Bar Bayeaux",
+            "venue-link": "https://www.barbayeux.com/"
+          }
+        },
+        {
+          "id": "6a5731fb83a3bb2c95dd378f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-15T07:08:48.454Z",
+          "lastUpdated": "2026-07-15T07:08:48.454Z",
+          "createdOn": "2026-07-15T07:08:43.448Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "VEN Trio feat. Vinicius Gomes, Noah Garabedian and Ele Howell",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ff99a978244087d26e1e2",
+            "start-date": "2026-08-08T00:00:00.000Z",
+            "event-time": "8 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.07_ven",
+            "slug": "ny-26-08-07-ven",
+            "city-name": "NYC",
+            "venue-name": "Bar Bayeaux",
+            "venue-link": "https://www.barbayeux.com/"
+          }
+        },
         {
           "id": "6a57317bc797add4d4fed031",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -12287,8 +12373,8 @@
         {
           "id": "6a4ddc3b07abb90adf14944e",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-08T09:27:40.347Z",
-          "lastUpdated": "2026-07-08T05:12:31.567Z",
+          "lastPublished": "2026-07-15T07:14:38.768Z",
+          "lastUpdated": "2026-07-15T07:14:38.768Z",
           "createdOn": "2026-07-08T05:12:27.880Z",
           "isArchived": false,
           "isDraft": false,
@@ -12303,24 +12389,15 @@
             "event-description": null,
             "button-text": null,
             "button-link": null,
-            "tags": [
-              "6a1bb52f86c77558acd19067",
-              "698171062ef8be261a524675"
-            ],
+            "tags": [],
             "thumbnail": null,
             "name": "ny_26.07.31_hill",
             "slug": "ny-26-07-31-hill",
             "city-name": "NYC",
             "venue-name": "Mezzrow",
             "venue-link": "https://www.smallslive.com/",
-            "tags-name": [
-              "Full menu",
-              "All ages"
-            ],
-            "tags-link": [
-              null,
-              null
-            ]
+            "tags-name": [],
+            "tags-link": []
           }
         },
         {
