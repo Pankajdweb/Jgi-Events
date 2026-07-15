@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T05:23:19.640Z",
+  "fetchedAt": "2026-07-15T05:29:49.001Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -10130,8 +10130,8 @@
         {
           "id": "6a5136b7a3a9bc6f2e1e2bd5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-11T03:11:09.163Z",
-          "lastUpdated": "2026-07-10T18:15:25.259Z",
+          "lastPublished": "2026-07-15T05:26:03.979Z",
+          "lastUpdated": "2026-07-15T05:26:03.979Z",
           "createdOn": "2026-07-10T18:15:19.320Z",
           "isArchived": false,
           "isDraft": false,
@@ -10149,7 +10149,7 @@
             "tags": null,
             "thumbnail": null,
             "name": "ny_26.07.17_noriega",
-            "slug": "ny-26-07-17-noriega-copy",
+            "slug": "ny-26-07-17-noriega",
             "city-name": "NYC",
             "venue-name": "Barbès",
             "venue-link": "https://www.barbesbrooklyn.com/"
@@ -13808,13 +13808,13 @@
         {
           "id": "6a44aaffc756d243444e5442",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-11T03:11:09.163Z",
-          "lastUpdated": "2026-07-10T19:38:40.394Z",
+          "lastPublished": "2026-07-15T05:27:43.363Z",
+          "lastUpdated": "2026-07-15T05:27:43.363Z",
           "createdOn": "2026-07-01T05:51:59.795Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Alfredo Colon, Amy Azzara, Jonathan Paik, Steve Williams and Marcelo Camacho",
+            "event-title": "Alfredo Colon, Amy Azzara, Ryan Easter, Jonathan Paik, Steve Williams and Marcelo Camacho",
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
