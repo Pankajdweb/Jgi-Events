@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-21T19:03:03.841Z",
+  "fetchedAt": "2026-07-21T19:33:44.127Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 945,
+      "itemCount": 947,
       "items": [
+        {
+          "id": "6a5fc8f561d561078f05d698",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-21T19:31:02.563Z",
+          "lastUpdated": "2026-07-21T19:31:02.563Z",
+          "createdOn": "2026-07-21T19:31:01.016Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Aurora Nealand + Saudia Young + Jan Bell",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a30f483ad5e887f0c0eebc2",
+            "start-date": "2026-07-24T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.24_nealand",
+            "slug": "ny-2026-07-24-nealand",
+            "city-name": "NYC",
+            "venue-name": "Brooklyn Botanic Garden",
+            "venue-link": "https://www.bbg.org/"
+          }
+        },
+        {
+          "id": "6a5fc89c5d6fda5d296161e4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-21T19:29:34.932Z",
+          "lastUpdated": "2026-07-21T19:29:34.932Z",
+          "createdOn": "2026-07-21T19:29:32.915Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Aurora Nealand and the Royal Roses North",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cf37b3f9feeabc2cb34a8",
+            "start-date": "2026-07-26T02:00:00.000Z",
+            "event-time": "10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.25_nealand",
+            "slug": "ny-2026-07-25-nealand",
+            "city-name": "NYC",
+            "venue-name": "Barbès",
+            "venue-link": "https://www.barbesbrooklyn.com/"
+          }
+        },
         {
           "id": "6a5782821b67df5d6f4d0665",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
