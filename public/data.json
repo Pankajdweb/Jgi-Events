@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-21T21:40:42.586Z",
+  "fetchedAt": "2026-07-21T22:22:32.803Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 951,
+      "itemCount": 952,
       "items": [
+        {
+          "id": "6a5ff08e0582ffd26ccf825a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-21T22:20:02.236Z",
+          "lastUpdated": "2026-07-21T22:20:02.236Z",
+          "createdOn": "2026-07-21T22:19:58.549Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "JoVia Armstrong, alana amore colvin and Luke Stewart + Amirtha Kidambi and Warren \"Trae\" Crudup III + Hans Young-Binter",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a5ff02dcec9de5f8a634785",
+            "start-date": "2026-07-27T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.07.27_armstrong",
+            "slug": "ny-2026-07-27-armstrong",
+            "city-name": "NYC",
+            "venue-name": "Brothers Wash & Dry",
+            "venue-link": "https://www.instagram.com/brotherswashanddry"
+          }
+        },
         {
           "id": "6a5fd8b29b0a35c32956ee8f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
