@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-22T20:23:11.276Z",
+  "fetchedAt": "2026-07-22T20:41:14.846Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -4027,8 +4027,8 @@
         {
           "id": "6a55612074d8645462e5acea",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-16T09:54:39.694Z",
-          "lastUpdated": "2026-07-14T13:21:41.762Z",
+          "lastPublished": "2026-07-22T20:41:15.249Z",
+          "lastUpdated": "2026-07-22T20:41:15.249Z",
           "createdOn": "2026-07-13T22:05:20.037Z",
           "isArchived": false,
           "isDraft": false,
@@ -4047,8 +4047,8 @@
               "698171062ef8be261a524683"
             ],
             "thumbnail": {
-              "fileId": "6a55611daac2f89e31dd0064",
-              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a55611daac2f89e31dd0064_0.webp",
+              "fileId": "6a612ae89afbb60b2d8d760c",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a612ae89afbb60b2d8d760c_8.20.26.jpg",
               "alt": null
             },
             "name": "soundoff_Christina Carminucci",
