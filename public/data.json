@@ -1,12 +1,90 @@
 {
-  "fetchedAt": "2026-07-22T16:46:33.413Z",
+  "fetchedAt": "2026-07-22T16:55:05.149Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 954,
+      "itemCount": 956,
       "items": [
+        {
+          "id": "6a60f49ceb55a3d5db874d3b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-22T16:49:34.587Z",
+          "lastUpdated": "2026-07-22T16:49:34.587Z",
+          "createdOn": "2026-07-22T16:49:32.027Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Dean Torrey, Matt Knoegel and Billy Drummond",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-08-16T23:30:00.000Z",
+            "event-time": "7:30PM & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.17_torrey",
+            "slug": "ny-26-08-17-torrey",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a60f41c8f7ba307f5dd83b3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-22T16:47:28.889Z",
+          "lastUpdated": "2026-07-22T16:47:28.889Z",
+          "createdOn": "2026-07-22T16:47:24.567Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "David Leon, Brandon Seabrook, Henry Fraser and Kayvon Gordon",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a44a4397db284ef146de9bb",
+            "start-date": "2026-08-16T23:30:00.000Z",
+            "event-time": "7:30PM & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.16_leon",
+            "slug": "ny-26-08-16-leon",
+            "city-name": "NYC",
+            "venue-name": "Close Up",
+            "venue-link": "https://www.closeupnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a60f2ed46db3e71b35061b0",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
