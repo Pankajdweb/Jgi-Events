@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-22T16:55:05.149Z",
+  "fetchedAt": "2026-07-22T17:02:48.422Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 956,
+      "itemCount": 957,
       "items": [
         {
           "id": "6a60f49ceb55a3d5db874d3b",
@@ -2633,6 +2633,42 @@
             "thumbnail": null,
             "name": "ny_26.08.06_cyrille",
             "slug": "ny-26-08-06-cyrille",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a5717937f08f9f5fbcb00ff",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-22T17:00:17.978Z",
+          "lastUpdated": "2026-07-22T17:00:17.978Z",
+          "createdOn": "2026-07-15T05:16:03.435Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Andrew Cyrille Quartet feat. Bill Frisell, David Virelles and Ben Street ",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-08-06T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.08.05_cyrille",
+            "slug": "ny-26-08-05-cyrille",
             "city-name": "NYC",
             "venue-name": "Village Vanguard",
             "venue-link": "https://villagevanguard.com/",
@@ -13584,8 +13620,8 @@
         {
           "id": "6a4cecdf12ecf9d950d56d4c",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-11T03:11:09.163Z",
-          "lastUpdated": "2026-07-10T15:23:28.093Z",
+          "lastPublished": "2026-07-22T16:58:40.722Z",
+          "lastUpdated": "2026-07-22T16:58:40.722Z",
           "createdOn": "2026-07-07T12:11:11.074Z",
           "isArchived": false,
           "isDraft": false,
@@ -13597,7 +13633,7 @@
             "venue": "6a4ced0e67da0d853229f949",
             "start-date": "2026-08-08T16:00:00.000Z",
             "event-time": "12PM",
-            "event-description": "<p>Main Stage<br>1PM: Linda May Han Oh Quartet<br>3PM: Marcus Gilmore’s Journey to the New<br>5:15PM: Chris Potter Quartet feat. Craig Taborn, Joe Martin, Kendrick Scott<br>7:30PM: “First Meeting” feat. Gonzalo Rubalcaba, Chris Potter, Larry Grenadier and Eric Harland<br>9:00PM: Jason Moran and the Bandwagon feat. Special Guests Akili Bradley &amp; Devon Gates</p><p>‍</p><p>Side Stage<br>12:00PM: Vinicius Gomes and Bailinho<br>2:00PM: Joel Ross’ Good Vibes<br>4:00PM: Brooklyn All-Stars Play Miles Davis’s 'In a Silent Way' feat. Vernon Reid<br>6:15PM: Bobby Sanabria’s Ascenció</p><p>‍</p><p>‍</p>",
+            "event-description": "<p>Main Stage<br>1PM: Linda May Han Oh Quartet<br>3PM: Marcus Gilmore’s Journey to the New<br>5:15PM: Chris Potter Quartet feat. Craig Taborn, Joe Martin, Kendrick Scott<br>7:30PM: “First Meeting” feat. Gonzalo Rubalcaba, Chris Potter, Larry Grenadier and Eric Harland<br>9:00PM: Jason Moran and the Bandwagon feat. Special Guests Akili Bradley and Devon Gates</p><p>‍</p><p>Side Stage<br>12:00PM: Vinicius Gomes and Bailinho<br>2:00PM: Joel Ross’ Good Vibes<br>4:00PM: Brooklyn All-Stars Play Miles Davis’s 'In a Silent Way' feat. Vernon Reid<br>6:15PM: Bobby Sanabria’s Ascenció</p><p>‍</p><p>‍</p>",
             "button-text": null,
             "button-link": null,
             "tags": null,
