@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-22T02:55:33.799Z",
+  "fetchedAt": "2026-07-22T03:15:28.841Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -13435,8 +13435,8 @@
         {
           "id": "6a4d4bf36b8392d7e81e2fd9",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-22T02:51:27.780Z",
-          "lastUpdated": "2026-07-22T02:51:27.780Z",
+          "lastPublished": "2026-07-22T03:11:20.451Z",
+          "lastUpdated": "2026-07-22T03:11:20.451Z",
           "createdOn": "2026-07-07T18:56:51.662Z",
           "isArchived": false,
           "isDraft": false,
@@ -24725,8 +24725,8 @@
         {
           "id": "6a31a6076293a3eb2bc4d8d1",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-16T09:54:39.694Z",
-          "lastUpdated": "2026-07-15T22:35:11.049Z",
+          "lastPublished": "2026-07-22T03:11:36.480Z",
+          "lastUpdated": "2026-07-22T03:11:36.480Z",
           "createdOn": "2026-06-16T19:37:43.269Z",
           "isArchived": false,
           "isDraft": false,
@@ -24745,8 +24745,8 @@
               "698171062ef8be261a524683"
             ],
             "thumbnail": {
-              "fileId": "6a31a69a8a43ee4a10ef4d48",
-              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a31a69a8a43ee4a10ef4d48_Screenshot%202026-06-16%20at%203.39.35%E2%80%AFPM.png",
+              "fileId": "6a6034e4ff2d43e7c5d45f75",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a6034e4ff2d43e7c5d45f75_circle%20session.avif",
               "alt": null
             },
             "name": "soundoff_The Circle",
