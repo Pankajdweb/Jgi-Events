@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-22T18:24:42.585Z",
+  "fetchedAt": "2026-07-22T18:33:14.677Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 981,
+      "itemCount": 983,
       "items": [
+        {
+          "id": "6a610c1bf3842a5ae3c75282",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-22T18:29:50.618Z",
+          "lastUpdated": "2026-07-22T18:29:50.618Z",
+          "createdOn": "2026-07-22T18:29:47.878Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Bill Frisell Four",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-08-19T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.18_frisell",
+            "slug": "ny-26-08-18-frisell",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/"
+          }
+        },
+        {
+          "id": "6a610b2c67f517c864d74c12",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-22T18:25:51.861Z",
+          "lastUpdated": "2026-07-22T18:25:51.861Z",
+          "createdOn": "2026-07-22T18:25:48.359Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Bill Frisell Trio",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-08-17T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.16_frisell",
+            "slug": "ny-26-08-16-frisell",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/"
+          }
+        },
         {
           "id": "6a610ae6f3842a5ae3c6610b",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
