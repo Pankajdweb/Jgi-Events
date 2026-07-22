@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-22T19:10:01.771Z",
+  "fetchedAt": "2026-07-22T19:23:55.757Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 994,
+      "itemCount": 995,
       "items": [
+        {
+          "id": "6a6117cf616a9457be22b5f6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-22T19:19:45.701Z",
+          "lastUpdated": "2026-07-22T19:19:45.701Z",
+          "createdOn": "2026-07-22T19:19:43.958Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kelly Green Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a30175caceea1e67533e8c0",
+            "start-date": "2026-08-26T23:00:00.000Z",
+            "event-time": "7 & 8:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.26_green",
+            "slug": "ny-26-08-26-green",
+            "city-name": "NYC",
+            "venue-name": "Zinc Bar",
+            "venue-link": "https://www.zincbar.com/"
+          }
+        },
         {
           "id": "6a6114f1d507946c79022e14",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
