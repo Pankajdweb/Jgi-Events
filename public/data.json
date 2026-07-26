@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-26T20:27:46.048Z",
+  "fetchedAt": "2026-07-26T20:36:09.100Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1077,
+      "itemCount": 1078,
       "items": [
+        {
+          "id": "6a666ebc60c55a67beea1b39",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-26T20:31:56.792Z",
+          "lastUpdated": "2026-07-26T20:31:56.792Z",
+          "createdOn": "2026-07-26T20:31:56.792Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Yirmeyahu Yisrael Project",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cd673359de5208fc576e",
+            "start-date": "2026-07-30T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>Yirmeyahu Yisrael Project </p><p>‍</p><p>Two Sets at 8pm &amp;&nbsp;9:45pm </p><p>‍</p><p>No Cover. One Drink Minimum per Guest. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelmonteleone.com/dine-drink/carousel-bar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dbe6a496c109a25be6519",
+              "6a3dc06345e26029b72db5fc",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.29_yisrael_yirmeyahu",
+            "slug": "no-26-07-29-yisrael-yirmeyahu",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Carousel Bar & Lounge (Hotel Monteleone) ",
+            "venue-link": "https://www.hotelmonteleone.com/dine-drink/carousel-bar/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "contemporary jazz",
+              "swingin' jazz",
+              "Free",
+              "No Cover",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a666c9ab6dcc4a8a90330db",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
