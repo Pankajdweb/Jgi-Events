@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-07-27T08:59:16.147Z",
+  "fetchedAt": "2026-07-27T09:07:45.767Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1080,
+      "itemCount": 1081,
       "items": [
+        {
+          "id": "6a671e05a71a4fadd271b0a9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T08:59:52.491Z",
+          "lastUpdated": "2026-07-27T08:59:52.491Z",
+          "createdOn": "2026-07-27T08:59:49.909Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ricky Ford Quartet feat. Mark Soskin, Jerome Harris and Barry Altschul",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-08-08T22:00:00.000Z",
+            "event-time": "6 & 7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.08_ford",
+            "slug": "ny-26-08-08-ford",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
         {
           "id": "6a671cea35c4e3114009d0e8",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
