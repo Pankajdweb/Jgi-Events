@@ -1,17 +1,73 @@
 {
-  "fetchedAt": "2026-07-27T17:52:37.652Z",
+  "fetchedAt": "2026-07-27T18:01:18.174Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1108,
+      "itemCount": 1110,
       "items": [
+        {
+          "id": "6a679cc2471b87ac763d33cd",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T18:00:34.828Z",
+          "lastUpdated": "2026-07-27T18:00:34.828Z",
+          "createdOn": "2026-07-27T18:00:34.828Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Nayo Jones Experience ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cd673359de5208fc576e",
+            "start-date": "2026-08-01T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": "<p><a href=\"https://www.nayojones.com/\"><strong>Nayo Jones </strong></a>(pronounced Nīyō) was born in Chicago, Illinois into a family of musicians and destined to be in show business. As an accomplished jazz musician and music educator, her father William “Doc” Jones groomed and nurtured her natural ability from a very young age. Nayo grew up listening to Jazz standards that proved to be a solid foundation and would later become a signature in her own show. Accomplished in her own right, Jones is also a classically trained flutist.</p><p>Currently Nayo is based in New Orleans, LA where she performs regularly with her band <strong>“The Nayo Jones Experience”.</strong> In addition to her own show, Ms. Jones also tours alongside New Orleans iconic jazz trumpeter, <strong>Kermit Ruffins </strong>as the featured vocalist and has toured with the <strong>New Orleans Jazz Orchestra lead by Adonis Rose</strong> and is a featured vocalist on their album celebrating the famed Allen Toussaint with a beautiful rendition of <em>\"Ruler of My Heart.\"</em></p><p>Nayo’s vocal range has been compared to the likes of Natalie Cole, Nancy Wilson, even Whitney Houston. She has been the opening act for artists such as the legendary George Benson, Chris Botti, Rick Braun &amp; Richard Elliot and more.</p><p>Nayo has performed at the New Orleans Jazz &amp; Heritage Festival, French Quarter Fest, Satchmo SummerFest, and many other Louisiana festivals annually since 2012. She has consistently drawn rave reviews for her performances. Nayo and her band, “The Nayo Jones Experience” has a &nbsp;longstanding residency at the Carousel Lounge located in the historic <strong>Hotel Montelone</strong> and The Jazz Playhouse at the <strong>Royal Sonesta Hotel </strong>in the French Quarter. She has also performed at the Scottsdale Jazz Festival, Twin Cities Jazz Festival, Iowa City Jazz Festival and the Ascona, Switzerland Jazz Festival with the New Orleans Jazz Orchestra and more</p><p>Nayo’s body of original work includes the realses <em>\"Nayo, My Name is Nayo Jones,\"</em> a holiday album, <em>\"The Nayo Jones Experience Live at the Kerr Cultural Center,\" </em>and most recently her EP entitled, <em>\"With Love, Nayo Jones,\"</em> which is available on all music streaming platforms. </p><p><strong>9:00pm Showtime </strong></p><p>Sets at 9pm &amp; 10:45pm </p><p>‍</p><p>NO&nbsp;COVER, but seating is limited and first-come, first-served, so early arrival is suggested. One drink minimum per guest. </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.hotelmonteleone.com/dine-drink/carousel-bar/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d9aeece73087b968fb39b",
+              "6a3dc0500a022a5481a97926",
+              "6a3dc06345e26029b72db5fc",
+              "6a3dc08d493eb9ffc7940d0c",
+              "698171062ef8be261a524681"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.31_jones_nayo_experience",
+            "slug": "no-26-07-31-jones-nayo-experience",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Carousel Bar & Lounge (Hotel Monteleone) ",
+            "venue-link": "https://www.hotelmonteleone.com/dine-drink/carousel-bar/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "lounge",
+              "classic jazz",
+              "swingin' jazz",
+              "straight ahead jazz",
+              "21+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a679a17c87978afaf5de31d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-27T17:49:12.953Z",
-          "lastUpdated": "2026-07-27T17:49:12.953Z",
+          "lastPublished": "2026-07-27T17:55:29.849Z",
+          "lastUpdated": "2026-07-27T17:55:29.849Z",
           "createdOn": "2026-07-27T17:49:11.245Z",
           "isArchived": false,
           "isDraft": false,
@@ -23,7 +79,7 @@
             "venue": "6a679a00d1eb080b78420c33",
             "start-date": "2026-08-01T23:00:00.000Z",
             "event-time": "7PM",
-            "event-description": null,
+            "event-description": "<p>Featuring Akili Bradley, Dylan Smith, Gary Jones III, Guillermo López, Idris Frederick, Jack Kuelling, Julian Frazier, Keenyn Omari,&nbsp;Kevin Oliver Jr. and Nathaniel Coben.</p>",
             "button-text": null,
             "button-link": null,
             "tags": null,
@@ -33,6 +89,66 @@
             "city-name": "NYC",
             "venue-name": "Brooklyn Conservatory of Music",
             "venue-link": "https://bkcm.org/"
+          }
+        },
+        {
+          "id": "6a6799e913dea09d3d54a7ce",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T17:56:13.751Z",
+          "lastUpdated": "2026-07-27T17:56:13.751Z",
+          "createdOn": "2026-07-27T17:48:25.428Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Saigon Jazz Revival featuring Đồng Lan ",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a679a5b26cb83b93d4bd7c8",
+            "start-date": "2026-07-31T23:00:00.000Z",
+            "event-time": "7:00 & 9:30PM",
+            "event-description": "<p>Simmering new local project <strong>Saigon Jazz Revival</strong> presents the second installation of its deep dive into the (often unexpected) connections between Vietnamese Traditional Music and the Black American Music born in the Port of New Orleans on Friday, 7/31 at 3116 Studios. The brainchild of filmmaker and creative director <strong>Marion Hoàng Ngọc Hill, </strong>SJR hosted 1960s breakout South Vietnam vocal star Carol Kim last November for one sultry night in collaboration with an ensemble of premiere New Orleans jazz musicians. This summer, the heavyweight collective of Oscar Rossignoli, Steve Lands, Cesar Bacaro-Ley, Jafet Perez, Amari Ansari, Nick Salcido, and guest <strong>Brian Bùi,</strong> collaborates with rising young singer <strong>Đồng Lan </strong>to explore what happens when Vietnamese song and Latin rhythms meet. </p><p>This Friday's pair of performances is presented in partnership with COUCHES. </p><p>‍</p><p>Two Separately Ticketed Sets at 7:00pm &amp; 9:30pm. </p><p>Capacity is limited inside this intimate studio performance, which is a special decut preview of forthcoming recordings, so advance tickets are strongly suggested. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://couchesrecords.com/#event=c8faa745-8324-4521-9c98-ec2f85692ac0",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a679b79d5c5b86cf550d178",
+              "6a679b8d7d676dcc4bf8c821",
+              "6a3832d81051ca44000ec45e",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a5401c170dbe02d7e893dca",
+              "6a3dae4ebc327d4be01ff69c",
+              "6a3dbe6a496c109a25be6519"
+            ],
+            "thumbnail": null,
+            "name": "no_26.07.31_saigon_jazz_revival",
+            "slug": "no-26-07-31-saigon-jazz-revival",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "3 One One 6 Studios",
+            "venue-link": "https://www.facebook.com/3OneOne6/",
+            "tags-name": [
+              "New Orleans",
+              "Vietnam",
+              "Vietnamese Traditional Music",
+              "jazz",
+              "Black American Music",
+              "BAM",
+              "Latin Jazz",
+              "contemporary jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
           }
         },
         {
