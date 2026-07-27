@@ -1,12 +1,112 @@
 {
-  "fetchedAt": "2026-07-27T09:40:36.287Z",
+  "fetchedAt": "2026-07-27T09:49:05.811Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1097,
+      "itemCount": 1100,
       "items": [
+        {
+          "id": "6a672952a5e61ce04f4da499",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T09:48:07.758Z",
+          "lastUpdated": "2026-07-27T09:48:07.758Z",
+          "createdOn": "2026-07-27T09:48:02.299Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Gaby Moreno and Jon Cowherd",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ede601f174bbdee8a8980",
+            "start-date": "2026-08-10T01:00:00.000Z",
+            "event-time": "9 & 10:15PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.09_moreno",
+            "slug": "ny-26-08-09-moreno",
+            "city-name": "NYC",
+            "venue-name": "LunÀtico",
+            "venue-link": "https://www.barlunatico.com/"
+          }
+        },
+        {
+          "id": "6a6727c6900b66cceee70899",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T09:41:29.615Z",
+          "lastUpdated": "2026-07-27T09:41:29.615Z",
+          "createdOn": "2026-07-27T09:41:26.920Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-09-29T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.09.28_vanguard",
+            "slug": "ny-26-09-28-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a6727aecfadff37a56eb14c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T09:41:05.433Z",
+          "lastUpdated": "2026-07-27T09:41:05.433Z",
+          "createdOn": "2026-07-27T09:41:02.093Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-09-22T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.09.21_vanguard",
+            "slug": "ny-26-09-21-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a67277d0f59b2323e66bfb5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
