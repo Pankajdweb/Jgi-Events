@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-27T09:16:00.525Z",
+  "fetchedAt": "2026-07-27T09:32:03.211Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1087,
+      "itemCount": 1089,
       "items": [
+        {
+          "id": "6a6724d60a58a12ba1a3bf53",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T09:28:56.519Z",
+          "lastUpdated": "2026-07-27T09:28:56.519Z",
+          "createdOn": "2026-07-27T09:28:54.153Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jerome Jennings Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-08-10T22:00:00.000Z",
+            "event-time": "6 & 7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.10_jennings",
+            "slug": "ny-26-08-10-jennings",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
+        {
+          "id": "6a67249876c8ee47253b52ba",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-27T09:27:55.139Z",
+          "lastUpdated": "2026-07-27T09:27:55.139Z",
+          "createdOn": "2026-07-27T09:27:52.725Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Eviatar Slivnik Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-08-11T01:00:00.000Z",
+            "event-time": "9 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.10_slivnik",
+            "slug": "ny-26-08-10-slivnik",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
         {
           "id": "6a6721c56153eb8fab27c661",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
