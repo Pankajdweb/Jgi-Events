@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-07-30T11:11:50.156Z",
+  "fetchedAt": "2026-07-30T11:26:02.523Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1133,
+      "itemCount": 1135,
       "items": [
+        {
+          "id": "6a6b3468f9a255a1670725bb",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-30T11:24:55.492Z",
+          "lastUpdated": "2026-07-30T11:24:55.492Z",
+          "createdOn": "2026-07-30T11:24:24.680Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Caroline Davis Portals feat. Julian Shore, Chris Tordini and Tim Angulo",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ede601f174bbdee8a8980",
+            "start-date": "2026-08-20T01:00:00.000Z",
+            "event-time": "9 & 10:15PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.19_davis",
+            "slug": "ny-26-08-19-davis",
+            "city-name": "NYC",
+            "venue-name": "LunÀtico",
+            "venue-link": "https://www.barlunatico.com/"
+          }
+        },
+        {
+          "id": "6a6b33cb502008adff4a124c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-07-30T11:21:50.881Z",
+          "lastUpdated": "2026-07-30T11:21:50.881Z",
+          "createdOn": "2026-07-30T11:21:47.460Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Miguel Russell, Tyrone Allen, Lex Korten, Maria Grand and David Leon",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ede601f174bbdee8a8980",
+            "start-date": "2026-08-19T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.18_russell_miguel",
+            "slug": "ny-26-08-18-russell-miguel",
+            "city-name": "NYC",
+            "venue-name": "LunÀtico",
+            "venue-link": "https://www.barlunatico.com/"
+          }
+        },
         {
           "id": "6a6b2e1183d3031330eb1235",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
