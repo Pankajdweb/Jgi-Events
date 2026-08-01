@@ -1,12 +1,161 @@
 {
-  "fetchedAt": "2026-08-01T17:35:41.211Z",
+  "fetchedAt": "2026-08-01T19:16:05.988Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1159,
+      "itemCount": 1162,
       "items": [
+        {
+          "id": "6a6e40f031ddb47c80bb0602",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-01T18:54:40.497Z",
+          "lastUpdated": "2026-08-01T18:54:40.497Z",
+          "createdOn": "2026-08-01T18:54:40.497Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "James Jordan with Lawrence Sieberth (FREE)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-08-02T20:30:00.000Z",
+            "event-time": "4:30PM",
+            "event-description": "<p>Rising young New Orleans singer <strong>James Jordan </strong>joins award-winning pianist and composer <strong>Lawrence Sieberth </strong>for a new intimate collaboration.</p><p>‍</p><p><strong>Doors: 4:00pm</strong><br><strong>Show: 4:30pm - 6:00pm</strong></p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE&nbsp;HAPPY&nbsp;HOUR&nbsp;SET&nbsp;SERIES</em>&nbsp; </p><p><br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show. </strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://snugjazz.com/tm-event/james-jordan-lawrence-sieberth/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "69de3d2f73b19959770800ba"
+            ],
+            "thumbnail": null,
+            "name": "no_26_08.02_jordan_and_sieberth",
+            "slug": "no-26-08-02-jordan-and-sieberth",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Free",
+              "13+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a6e3cf46962197ac06ee5b1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-01T18:37:40.595Z",
+          "lastUpdated": "2026-08-01T18:37:40.595Z",
+          "createdOn": "2026-08-01T18:37:40.595Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vincent Hsu & The Soy La Ley Afro-Cuban Jazz Ensemble",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-08-02T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p>Internationally acclaimed bassist and composer <strong>Vincent Tsung-Yu Hsu</strong> brings his <strong>Soy La Ley Afro-Cuban Jazz Band</strong> to Snug Harbor for <strong>“Spirits From Both Sides,”</strong> an inspiring performance that blends jazz, Afro-Cuban rhythms, and the musical traditions of Taiwan. Joined by acclaimed musicians from Taiwan and New Orleans, Hsu creates a vibrant sound that bridges cultures while celebrating the shared spirit of music around the world.</p><p>A graduate of New York University and protégé of jazz greats Victor Venegas, Andy González, and Cecil McBee, Hsu has performed at renowned festivals and venues across the globe. The evening will feature music from his upcoming album <strong><em>Spirits From Both Sides</em>, </strong>new works inspired by his travels in West Africa, and the U.S. premiere of his suite <em>Danza Para Miró</em>—a captivating celebration of culture, rhythm, and artistic connection.<br><br><strong>This performance features:</strong><br>Vincent Hsu - bass<br>David Navarro - trumpet<br>Brent Rose - saxophone<br>Victor Campbell - piano<br>Shih-Chun Lee - guitar<br>Kuan-Liang Lin - drums</p><p>‍</p><p><strong>Shows at 7:30pm &amp; 9:30pm </strong><br>Doors at 7pm &amp; 9pm </p><p><strong>Restaurant is Open 5pm - 10pm for dinner before or after your ticketed showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room nextdoor online via OpenTable.com</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/vincent-hsu-jazz-ensemble/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d9097305f37f9c96853be",
+              "6a3dbe6a496c109a25be6519",
+              "6a38c8cd3d7a1c73c9aefaa9"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.02_hsu_vincent",
+            "slug": "no-26-08-02-hsu-vincent",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Cuban jazz",
+              "contemporary jazz",
+              "world music"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a6e3720227f32c0687dbd1e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-01T18:12:48.304Z",
+          "lastUpdated": "2026-08-01T18:12:48.304Z",
+          "createdOn": "2026-08-01T18:12:48.304Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Erica Falls",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "6a6e344a56d8da3ef4de8e37",
+            "venue": "6a6e33a83734a5898cda30e0",
+            "start-date": "2026-08-02T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>An intimate summer evening featuring a performance followed by artist conversation with New Orleans vocalist <a href=\"https://www.ericafalls.com/\"><strong>Erica Falls</strong></a><strong>. </strong></p><p>‍</p><p>6:30pm Doors </p><p>7:00pm Performance </p><p>8:00pm End </p>",
+            "button-text": "VENUE INFO",
+            "button-link": "https://thechloenola.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3d97dc2feaaf8b3f175efa",
+              "6a3db10d06a35758469acd07",
+              "6a3db8d5ea3bd0230cbe619f"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.02_falls_erica",
+            "slug": "no-26-08-02-falls-erica",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Performance + Conversation",
+            "category-link": null,
+            "venue-name": "The Chloe",
+            "venue-link": "https://thechloenola.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "soul",
+              "R&B",
+              "singer-songwriter"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a6dc1926a5c1d82a32f17d7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
