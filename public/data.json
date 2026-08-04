@@ -1,12 +1,58 @@
 {
-  "fetchedAt": "2026-08-04T17:58:02.573Z",
+  "fetchedAt": "2026-08-04T19:48:36.450Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1321,
+      "itemCount": 1322,
       "items": [
+        {
+          "id": "6a7240036aba6c0637ea3702",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-04T19:39:50.733Z",
+          "lastUpdated": "2026-08-04T19:39:50.733Z",
+          "createdOn": "2026-08-04T19:39:47.909Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "An Oral History Program Series co- hosted by Herlin Riley and Lula Elzy; featuring Germaine Bazzle, and Lawrence Cotton",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69159bffd22204943fdcacac",
+            "venue": "6a723f242564851862aa7a1f",
+            "start-date": "2026-08-17T21:00:00.000Z",
+            "event-time": "5:00PM",
+            "event-description": "<p>Jazz Generations Initiative New Orleans, in partnership with Lula Elzy and co-sponsored by the Jazz and Heritage Foundation Wein Center invites you to <em>Live Music in Conversation: </em>An Oral History Program co-hosted by Lula Elzy and Herlin Riley, featuring the “First Lady of Jazz” vocalist&nbsp; Germaine Bazzle and American R&amp;B and jazz pianist Lawrence Cotton.</p><p>‍</p><p>Riley and Elzy will take audiences on musical journeys chronicling the lives, musical influences, joys and challenges of these legendary New Orleans jazz artists while they tell their stories in their own words. The program will also feature a live set with Derek Douget, Oscar Rossignoli, Peter Harris, and Herlin Riley.</p><p>‍</p><p>5PM \t\tDoors</p><p>5:30PM\t\tProgram Begins</p><p>7:30PM\t\tProgram Concludes</p><p>‍</p><p>‍</p><p>Donations of $10 are appreciated.&nbsp;</p><p>‍</p><p>Tickets are available at Eventbrite: seating is limited 150</p><p>‍</p>",
+            "button-text": "Register Here",
+            "button-link": "https://www.eventbrite.com/e/live-music-in-conversation-an-oral-history-series-tickets-1996467478973",
+            "tags": [
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524679"
+            ],
+            "thumbnail": {
+              "fileId": "6a723ffa4a1f8e4c51684924",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a723ffa4a1f8e4c51684924_Lawrence-Cotton--scaled.jpg",
+              "alt": null
+            },
+            "name": "Live Music in Conversation: An Oral History Program Series ",
+            "slug": "live-music-in-conversation-an-oral-history-program-series",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Conversation",
+            "category-link": null,
+            "venue-name": "The George and Joyce Wein Jazz & Heritage Center",
+            "venue-link": "https://www.jazzandheritage.org/the-wein-center/",
+            "tags-name": [
+              "jazz",
+              "Limited seating"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a72002441dea047a9ba56a4",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
