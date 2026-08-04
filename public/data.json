@@ -1,12 +1,55 @@
 {
-  "fetchedAt": "2026-08-04T19:48:36.450Z",
+  "fetchedAt": "2026-08-04T21:16:09.841Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1322,
+      "itemCount": 1323,
       "items": [
+        {
+          "id": "6a724560495f8f18b149fd88",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-04T20:03:02.528Z",
+          "lastUpdated": "2026-08-04T20:03:02.528Z",
+          "createdOn": "2026-08-04T20:02:40.320Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mbongi of Drums, featuring Papa Titos Sompa",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "232cceb32b7640f81ef61d250000f0bd",
+            "category": "69bd70d4f6233027dda7ae08",
+            "venue": "6a137dfbef532a5e2f39f34b",
+            "start-date": "2026-09-01T21:30:00.000Z",
+            "event-time": "5:30PM",
+            "event-description": "<p><em>Mbongi </em>[Bone-gee] in the Kikongo language and Congolese culture can refer to “a learning circle”. Composer, band leader, and master Congolese drummer Papa Titos Sompa will hold drumming workshops that will take place over the course of the Fall, leading up to a performance on December 15, 2026. Participants will learn Congolese terms for rhythms and songs, and understand the significance of the <em>mbongi</em> as a theory of music engagement/practice that is deeply respectful of community, promotes active listening and empathy, and foments togetherness.</p><p>‍</p><p>Participants of all ages are welcome. No prior drumming experience required. Please dress comfortably and bring your own drum, if you have one. There will also be extra drums on hand.</p><p>‍</p><p>MATONDO!</p><p>‍</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a724550b5f0805650ff6b38"
+            ],
+            "thumbnail": {
+              "fileId": "6a72457203e587c821185e4d",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a72457203e587c821185e4d_Kingdom%2Bof%2BKongo%2Bpress%2Bphoto.webp",
+              "alt": null
+            },
+            "name": "Mbongi of Drums, featuring Papa Titos Sompa",
+            "slug": "mbongi-of-drums-featuring-papa-titos-sompa",
+            "city-name": "NOLA",
+            "feature-name": "JGI LIVE",
+            "category-name": "Workshop",
+            "category-link": null,
+            "venue-name": "Historic St. Luke's Episcopal Church",
+            "venue-link": "https://stlukesneworleans.org/",
+            "tags-name": [
+              "drumming workshop"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
         {
           "id": "6a7240036aba6c0637ea3702",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
