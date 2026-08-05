@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-08-05T18:24:30.576Z",
+  "fetchedAt": "2026-08-05T20:09:28.641Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1330,
+      "itemCount": 1331,
       "items": [
+        {
+          "id": "6a7384b88e3d0ba63ec92b7d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-05T18:45:15.106Z",
+          "lastUpdated": "2026-08-05T18:45:15.106Z",
+          "createdOn": "2026-08-05T18:45:12.814Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Caelan Cardello",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc9622243172b566077be",
+            "start-date": "2026-08-30T03:55:00.000Z",
+            "event-time": "11:55PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.29_cardello",
+            "slug": "ny-26-08-29-cardello",
+            "city-name": "NYC",
+            "venue-name": "Mezzrow",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
         {
           "id": "6a737bdc4c92b6a880a7173f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
