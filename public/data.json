@@ -1,12 +1,247 @@
 {
-  "fetchedAt": "2026-08-07T17:24:11.533Z",
+  "fetchedAt": "2026-08-07T18:23:23.730Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1373,
+      "itemCount": 1379,
       "items": [
+        {
+          "id": "6a762234e7a4398941ef51f8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-07T18:21:46.908Z",
+          "lastUpdated": "2026-08-07T18:21:46.908Z",
+          "createdOn": "2026-08-07T18:21:40.215Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Patitucci Trio feat. Chris Potter and Brian Blade",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-09-07T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.09.06_patitucci",
+            "slug": "ny-26-09-06-patitucci",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/"
+          }
+        },
+        {
+          "id": "6a762217b4f5a04db601827c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-07T18:21:17.015Z",
+          "lastUpdated": "2026-08-07T18:21:17.015Z",
+          "createdOn": "2026-08-07T18:21:11.092Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Patitucci Trio feat. Chris Potter and Brian Blade",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-09-06T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.09.05_patitucci",
+            "slug": "ny-26-09-05-patitucci",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/"
+          }
+        },
+        {
+          "id": "6a7618175f4d64cb54ea88a2",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-07T17:38:31.636Z",
+          "lastUpdated": "2026-08-07T17:38:31.636Z",
+          "createdOn": "2026-08-07T17:38:31.636Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Julian Lee Quartet",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-08-13T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><strong>Julian Lee</strong> is one of the most exciting and versatile saxophonists of his generation, earning the 2017 Lincoln Center Emerging Artist Award from Jazz at Lincoln Center. A regular member of the Jazz at Lincoln Center Orchestra, he has performed with Wynton Marsalis, Christian McBride, Herlin Riley, Jon Batiste, and the Mingus Big Band, while appearing at premierer venues and festivals including the Blue Note, Birdland, Newport Jazz Festival, and Monterey Jazz Festival. A Juilliard graduate, Lee showcases his dynamic artistry on his acclaimed debut album, <em>\"Clementine.\" </em></p><p>Tonight, he presents his New Orleans quartet for two shows. </p><p><strong>Shows at 7:30pm &amp; 9:30pm </strong></p><p>Doors at 7:00pm &amp; 9:00pm </p><p>‍</p><p><strong>Restaurant is Open 5pm - 11pm for dinner before or after your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com </p><p>Advance Ticket-Holders can also make table reservations for dinner by forwarding your E-ticket confirmation with dinner request info to <strong>reservations@snugjazz.com</strong> <em>after</em> your tickets have been purchased online. Dinner Service without Advance Concert Tickets is first-come, first-served based on availability upon arrival.</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/julian-lee-quartet/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc06345e26029b72db5fc",
+              "6a38c5fc888935521812a4b0"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.13_lee_julian",
+            "slug": "no-26-08-13-lee-julian",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "swingin' jazz",
+              "modern jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a7615ef2667401d62f261f3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-07T17:29:19.486Z",
+          "lastUpdated": "2026-08-07T17:29:19.486Z",
+          "createdOn": "2026-08-07T17:29:19.486Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Delfeayo Marsalis & The Uptown Jazz Orchestra",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-08-26T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><a href=\"https://theujo.org/\"><strong>The Uptown Jazz Orchestra</strong></a><strong> </strong>is a powerhouse New Orleans big band founded by acclaimed trombonist and NEA Jazz Master, <a href=\"https://www.dmarsalis.com/\"><strong>Delfeayo Marsalis</strong></a>. Blending traditional swing with contemporary energy, the orchestra showcases a deep commitment to preserving and evolving the city’s rich jazz heritage. Known for its tight arrangements, soulful improvisation, and dynamic live performances, the ensemble features some of the finest musicians in New Orleans and often collaborates with special guests across generations. It's truly a marvel to experience this 12-15 piece big band take over the intimate Snug stage. </p><p><br><strong>Shows at 7:30pm &amp; 9:30pm </strong><br><strong>Doors at 7:00pm &amp; 9:00pm</strong> </p><p><strong>Restaurant nextdoor to the club is Open 5pm - 10pm for dinner <em>before </em>or<em> after </em>your showtime: </strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com or reservations@snugjazz.com </p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/delfeayo-marsalis-the-uptown-jazz-orchestra-5/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a6edef93fac150f055dfe4e"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.26_marsalis_delfeayo_UJO",
+            "slug": "no-26-08-26-marsalis-delfeayo-ujo",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Big Band"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a7615be85fdc37c85f3f361",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-07T17:28:30.639Z",
+          "lastUpdated": "2026-08-07T17:28:30.639Z",
+          "createdOn": "2026-08-07T17:28:30.639Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Delfeayo Marsalis & The Uptown Jazz Orchestra",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-08-19T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><a href=\"https://theujo.org/\"><strong>The Uptown Jazz Orchestra</strong></a><strong> </strong>is a powerhouse New Orleans big band founded by acclaimed trombonist and NEA Jazz Master, <a href=\"https://www.dmarsalis.com/\"><strong>Delfeayo Marsalis</strong></a>. Blending traditional swing with contemporary energy, the orchestra showcases a deep commitment to preserving and evolving the city’s rich jazz heritage. Known for its tight arrangements, soulful improvisation, and dynamic live performances, the ensemble features some of the finest musicians in New Orleans and often collaborates with special guests across generations. It's truly a marvel to experience this 12-15 piece big band take over the intimate Snug stage. </p><p><br><strong>Shows at 7:30pm &amp; 9:30pm </strong><br><strong>Doors at 7:00pm &amp; 9:00pm</strong> </p><p><strong>Restaurant nextdoor to the club is Open 5pm - 10pm for dinner <em>before </em>or<em> after </em>your showtime: </strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com or reservations@snugjazz.com </p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/delfeayo-marsalis-the-uptown-jazz-orchestra-3/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a6edef93fac150f055dfe4e"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.19_marsalis_delfeayo_UJO",
+            "slug": "no-26-08-19-marsalis-delfeayo-ujo",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Big Band"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a761528dee346e6d24a5c64",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-07T17:27:43.153Z",
+          "lastUpdated": "2026-08-07T17:27:43.153Z",
+          "createdOn": "2026-08-07T17:26:00.491Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Delfeayo Marsalis & The Uptown Jazz Orchestra",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-08-12T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><a href=\"https://theujo.org/\"><strong>The Uptown Jazz Orchestra</strong></a><strong> </strong>is a powerhouse New Orleans big band founded by acclaimed trombonist and NEA Jazz Master, <a href=\"https://www.dmarsalis.com/\"><strong>Delfeayo Marsalis</strong></a>. Blending traditional swing with contemporary energy, the orchestra showcases a deep commitment to preserving and evolving the city’s rich jazz heritage. Known for its tight arrangements, soulful improvisation, and dynamic live performances, the ensemble features some of the finest musicians in New Orleans and often collaborates with special guests across generations. It's truly a marvel to experience this 12-15 piece big band take over the intimate Snug stage. </p><p><br><strong>Shows at 7:30pm &amp; 9:30pm </strong><br><strong>Doors at 7:00pm &amp; 9:00pm</strong> </p><p><strong>Restaurant nextdoor to the club is Open 5pm - 10pm for dinner <em>before </em>or<em> after </em>your showtime: </strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com or reservations@snugjazz.com </p><p>‍</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/delfeayo-marsalis-the-uptown-jazz-orchestra/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a6edef93fac150f055dfe4e"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.12_marsalis_delfeayo_UJO",
+            "slug": "no-26-08-12-marsalis-delfeayo-ujo",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Big Band"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a754ae4dd02d4cd1adc6b78",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
