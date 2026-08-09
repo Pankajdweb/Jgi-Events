@@ -1,12 +1,59 @@
 {
-  "fetchedAt": "2026-08-09T15:02:00.512Z",
+  "fetchedAt": "2026-08-09T15:58:52.805Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1409,
+      "itemCount": 1404,
       "items": [
+        {
+          "id": "6a78a223b2ad1918e64329c5",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-09T15:52:03.087Z",
+          "lastUpdated": "2026-08-09T15:52:03.087Z",
+          "createdOn": "2026-08-09T15:52:03.087Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Grayson Brockamp's Wildlife Duo (FREE)",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-08-15T20:30:00.000Z",
+            "event-time": "4:30PM",
+            "event-description": "<p><strong>The Wildlife Duo</strong> showcases the music of bassist, composer, and arranger <strong>Grayson Brockamp</strong>, whose repertoire spans Wayne Shorter to Eminem and Geri Allen to Busta Rhymes. Equally at home singing a traditional New Orleans tune or delivering a spoken-word poem about a feisty chihuahua, Brockamp explores the shared threads connecting blues, gospel, hip-hop, and other musical traditions. For this performance, he is joined by pianist <strong>Joe Ashlar.</strong></p><p><strong>Doors: 4:00pm</strong><br><strong>Show: 4:30pm - 6:00pm</strong></p><p><em>This set is FREE and open to the public as part of Snug Harbor's FREE&nbsp;HAPPY&nbsp;HOUR&nbsp;SET&nbsp;SERIES</em>&nbsp; </p><p><br><br>This is a free performance with no ticketing. &nbsp;Seating is on a first come-first served basis.<br><br><strong>Bar Opens at 4:00pm for beverages. Restaurant is Open 5pm - 11pm for dinner after the show. </strong></p><p>Youth 13+ are permitted is accompanied for the entire set by a parent or guardian. </p>",
+            "button-text": "DETAILS ",
+            "button-link": "https://snugjazz.com/tm-event/grayson-brockamps-wildlife-trio/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "698171062ef8be261a524683",
+              "69de3d2f73b19959770800ba"
+            ],
+            "thumbnail": null,
+            "name": "no_26_08_15_brockamp_grayson_wildlife_duo",
+            "slug": "no-26-08-15-brockamp-grayson-wildlife-duo",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "Free",
+              "13+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a76326141a09711d598613f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -2552,56 +2599,6 @@
             "thumbnail": null,
             "name": "no_26.08.17_jr_porter_george",
             "slug": "no-26-08-17-jr-porter-george",
-            "city-name": "NOLA",
-            "category-name": "Concert",
-            "category-link": null,
-            "venue-name": "Maple Leaf Bar",
-            "venue-link": "https://www.mapleleafbar.com/",
-            "tags-name": [
-              "New Orleans",
-              "funk",
-              "soul",
-              "jam",
-              "21+"
-            ],
-            "tags-link": [
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          }
-        },
-        {
-          "id": "6a75473766cb33ce026a7caa",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-07T02:47:19.189Z",
-          "lastUpdated": "2026-08-07T02:47:19.189Z",
-          "createdOn": "2026-08-07T02:47:19.189Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "George Porter Jr. Trio",
-            "city": "7a45f5b9b635e884a5956aaa2193dc09",
-            "feature": null,
-            "category": "690c1347dcc89dd7991187eb",
-            "venue": "6a318a7a46aaea2ff1e0e135",
-            "start-date": "2026-08-11T00:00:00.000Z",
-            "event-time": "8PM",
-            "event-description": "<p>This is your weekly chance to catch the original bassist from legendary funk pioneers, <strong><em>The Meters</em>, George Porter Jr. </strong>in his element, up close and personal, with his own rotating trio of guests at his Monday night residency as he leads an intimate evening of originals, interpretations, and improv jams inside one of the Crescent City's longest running staples for the New Orleans - and the world's - funk lexicon. </p><p>Two sets with a break for one ticket, 8pm - 12am. </p><p>Sets at 8pm &amp; 10pm. </p><p>Doors Open at 7pm. </p>",
-            "button-text": "TICKETS",
-            "button-link": "https://www.mapleleafbar.com/calendar",
-            "tags": [
-              "6a34485985c35bb1302af3f2",
-              "6a38d5cd9d169080eff44009",
-              "6a3d97dc2feaaf8b3f175efa",
-              "6a53e1fbdad8a3ee74b90c63",
-              "698171062ef8be261a524681"
-            ],
-            "thumbnail": null,
-            "name": "no_26.08.10_jr_porter_george",
-            "slug": "no-26-08-10-jr-porter-george",
             "city-name": "NOLA",
             "category-name": "Concert",
             "category-link": null,
@@ -5398,13 +5395,13 @@
         {
           "id": "6a703435ca872d1b5a3db9af",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T06:24:53.008Z",
-          "lastUpdated": "2026-08-03T06:24:53.008Z",
+          "lastPublished": "2026-08-09T15:52:29.906Z",
+          "lastUpdated": "2026-08-09T15:52:29.906Z",
           "createdOn": "2026-08-03T06:24:53.008Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Preservation Hall All-Stars feat. Greg Stafford",
+            "event-title": "Preservation Hall All-Stars feat. Gregg Stafford",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
@@ -5445,13 +5442,13 @@
         {
           "id": "6a7034199e2205658e5356fd",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T06:24:30.046Z",
-          "lastUpdated": "2026-08-03T06:24:30.046Z",
+          "lastPublished": "2026-08-09T15:52:43.101Z",
+          "lastUpdated": "2026-08-09T15:52:43.101Z",
           "createdOn": "2026-08-03T06:24:25.950Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Preservation Hall All-Stars feat. Greg Stafford",
+            "event-title": "Preservation Hall All-Stars feat. Gregg Stafford",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
@@ -5492,13 +5489,13 @@
         {
           "id": "6a7033f6b4534034706201fb",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T06:23:50.180Z",
-          "lastUpdated": "2026-08-03T06:23:50.180Z",
+          "lastPublished": "2026-08-09T15:52:57.972Z",
+          "lastUpdated": "2026-08-09T15:52:57.972Z",
           "createdOn": "2026-08-03T06:23:50.180Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Preservation Hall All-Stars feat. Greg Stafford",
+            "event-title": "Preservation Hall All-Stars feat. Gregg Stafford",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
@@ -5539,13 +5536,13 @@
         {
           "id": "6a7033d47c6dd0cbdbe099ad",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T06:23:16.118Z",
-          "lastUpdated": "2026-08-03T06:23:16.118Z",
+          "lastPublished": "2026-08-09T15:53:17.149Z",
+          "lastUpdated": "2026-08-09T15:53:17.149Z",
           "createdOn": "2026-08-03T06:23:16.118Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Preservation Hall All-Stars feat. Greg Stafford",
+            "event-title": "Preservation Hall All-Stars feat. Gregg Stafford",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
@@ -8102,112 +8099,6 @@
           }
         },
         {
-          "id": "6a6ff09cc890abdc80a75015",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T01:36:33.464Z",
-          "lastUpdated": "2026-08-03T01:36:33.464Z",
-          "createdOn": "2026-08-03T01:36:28.724Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Johnny Vidacovich Trio",
-            "city": "7a45f5b9b635e884a5956aaa2193dc09",
-            "feature": null,
-            "category": "690c1347dcc89dd7991187eb",
-            "venue": "6a318a7a46aaea2ff1e0e135",
-            "start-date": "2026-08-14T00:00:00.000Z",
-            "event-time": "8PM",
-            "event-description": "<p>Johnny Vidacovich Trio with Tony Dagradi &amp; Lex Warshawsky each and every Thursday for Johnny V's longtime weekly residency at The Leaf. </p><p>Two Sets, One Ticket: Sets at 8pm &amp; 10pm </p>",
-            "button-text": "TICKETS",
-            "button-link": "https://www.mapleleafbar.com/leaf",
-            "tags": [
-              "6a34485985c35bb1302af3f2",
-              "6a3832d81051ca44000ec45e",
-              "6a38d5cd9d169080eff44009",
-              "6a3dc9a31d702c15e46d73e2",
-              "6a5409e42bdfdb9477100c16",
-              "698171062ef8be261a524681"
-            ],
-            "thumbnail": null,
-            "name": "no_26_08_13_vidacovich_trio",
-            "slug": "no-26-08-13-vidacovich-trio",
-            "city-name": "NOLA",
-            "category-name": "Concert",
-            "category-link": null,
-            "venue-name": "Maple Leaf Bar",
-            "venue-link": "https://www.mapleleafbar.com/",
-            "tags-name": [
-              "New Orleans",
-              "jazz",
-              "funk",
-              "jazz fusion",
-              "funk fusion",
-              "21+"
-            ],
-            "tags-link": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          }
-        },
-        {
-          "id": "6a6ff089a1ff6f59ec71f3ce",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T01:36:09.091Z",
-          "lastUpdated": "2026-08-03T01:36:09.091Z",
-          "createdOn": "2026-08-03T01:36:09.091Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Johnny Vidacovich Trio",
-            "city": "7a45f5b9b635e884a5956aaa2193dc09",
-            "feature": null,
-            "category": "690c1347dcc89dd7991187eb",
-            "venue": "6a318a7a46aaea2ff1e0e135",
-            "start-date": "2026-08-07T00:00:00.000Z",
-            "event-time": "8PM",
-            "event-description": "<p>Johnny Vidacovich Trio with Tony Dagradi &amp; Lex Warshawsky each and every Thursday for Johnny V's longtime weekly residency at The Leaf. </p><p>Two Sets, One Ticket: Sets at 8pm &amp; 10pm </p>",
-            "button-text": "TICKETS",
-            "button-link": "https://www.mapleleafbar.com/leaf",
-            "tags": [
-              "6a34485985c35bb1302af3f2",
-              "6a3832d81051ca44000ec45e",
-              "6a38d5cd9d169080eff44009",
-              "6a3dc9a31d702c15e46d73e2",
-              "6a5409e42bdfdb9477100c16",
-              "698171062ef8be261a524681"
-            ],
-            "thumbnail": null,
-            "name": "no_26_08_06_vidacovich_trio",
-            "slug": "no-26-08-06-vidacovich-trio",
-            "city-name": "NOLA",
-            "category-name": "Concert",
-            "category-link": null,
-            "venue-name": "Maple Leaf Bar",
-            "venue-link": "https://www.mapleleafbar.com/",
-            "tags-name": [
-              "New Orleans",
-              "jazz",
-              "funk",
-              "jazz fusion",
-              "funk fusion",
-              "21+"
-            ],
-            "tags-link": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          }
-        },
-        {
           "id": "6a6ff0416ecb7a47b5608ae6",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
           "lastPublished": "2026-08-03T01:34:57.926Z",
@@ -10186,56 +10077,6 @@
               "funk",
               "jazz",
               "soul",
-              "21+"
-            ],
-            "tags-link": [
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          }
-        },
-        {
-          "id": "6a6ed766e6f68c68c766f3dd",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-02T05:36:38.757Z",
-          "lastUpdated": "2026-08-02T05:36:38.757Z",
-          "createdOn": "2026-08-02T05:36:38.757Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "George Porter Jr. Trio",
-            "city": "7a45f5b9b635e884a5956aaa2193dc09",
-            "feature": null,
-            "category": "690c1347dcc89dd7991187eb",
-            "venue": "6a318a7a46aaea2ff1e0e135",
-            "start-date": "2026-08-04T00:00:00.000Z",
-            "event-time": "8PM",
-            "event-description": "<p>This is your weekly chance to catch the original bassist from legendary funk pioneers, <strong><em>The Meters</em>, George Porter Jr. </strong>in his element, up close and personal, with his own rotating trio of guests at his Monday night residency as he leads an intimate evening of originals, interpretations, and improv jams inside one of the Crescent City's longest running staples for the New Orleans - and the world's - funk lexicon. </p><p>Two sets with a break for one ticket, 8pm - 12am. </p><p>Sets at 8pm &amp; 10pm. </p><p>Doors Open at 7pm. </p>",
-            "button-text": "TICKETS",
-            "button-link": "https://www.mapleleafbar.com/calendar",
-            "tags": [
-              "6a34485985c35bb1302af3f2",
-              "6a38d5cd9d169080eff44009",
-              "6a3d97dc2feaaf8b3f175efa",
-              "6a53e1fbdad8a3ee74b90c63",
-              "698171062ef8be261a524681"
-            ],
-            "thumbnail": null,
-            "name": "no_26.08.03_jr_porter_george",
-            "slug": "no-26-08-03-jr-porter-george",
-            "city-name": "NOLA",
-            "category-name": "Concert",
-            "category-link": null,
-            "venue-name": "Maple Leaf Bar",
-            "venue-link": "https://www.mapleleafbar.com/",
-            "tags-name": [
-              "New Orleans",
-              "funk",
-              "soul",
-              "jam",
               "21+"
             ],
             "tags-link": [
@@ -24284,59 +24125,6 @@
           }
         },
         {
-          "id": "6a543cf001eb7af28d76c190",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-13T01:18:40.130Z",
-          "lastUpdated": "2026-07-13T01:18:40.130Z",
-          "createdOn": "2026-07-13T01:18:40.130Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Johnny Vidacovich Trio",
-            "city": "7a45f5b9b635e884a5956aaa2193dc09",
-            "feature": null,
-            "category": "690c1347dcc89dd7991187eb",
-            "venue": "6a318a7a46aaea2ff1e0e135",
-            "start-date": "2026-07-31T00:00:00.000Z",
-            "event-time": "8PM",
-            "event-description": "<p>Johnny Vidacovich Trio with Tony Dagradi &amp; Lex Warshawsky each and every Thursday for Johnny V's longtime weekly residency at The Leaf. </p><p>Two Sets, One Ticket: Sets at 8pm &amp; 10pm </p>",
-            "button-text": "TICKETS",
-            "button-link": "https://www.mapleleafbar.com/leaf",
-            "tags": [
-              "6a34485985c35bb1302af3f2",
-              "6a3832d81051ca44000ec45e",
-              "6a38d5cd9d169080eff44009",
-              "6a3dc9a31d702c15e46d73e2",
-              "6a5409e42bdfdb9477100c16",
-              "698171062ef8be261a524681"
-            ],
-            "thumbnail": null,
-            "name": "no_26_07_30_vidacovich_trio",
-            "slug": "no-26-07-30-vidacovich-trio",
-            "city-name": "NOLA",
-            "category-name": "Concert",
-            "category-link": null,
-            "venue-name": "Maple Leaf Bar",
-            "venue-link": "https://www.mapleleafbar.com/",
-            "tags-name": [
-              "New Orleans",
-              "jazz",
-              "funk",
-              "jazz fusion",
-              "funk fusion",
-              "21+"
-            ],
-            "tags-link": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          }
-        },
-        {
           "id": "6a543cd2a493f166bfe98f2f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
           "lastPublished": "2026-07-13T01:18:10.131Z",
@@ -26774,56 +26562,6 @@
               "brass"
             ],
             "tags-link": [
-              null,
-              null,
-              null
-            ]
-          }
-        },
-        {
-          "id": "6a53e78dbc2d869a6e34c9b2",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-07-12T19:14:21.321Z",
-          "lastUpdated": "2026-07-12T19:14:21.321Z",
-          "createdOn": "2026-07-12T19:14:21.321Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "George Porter Jr. Trio",
-            "city": "7a45f5b9b635e884a5956aaa2193dc09",
-            "feature": null,
-            "category": "690c1347dcc89dd7991187eb",
-            "venue": "6a318a7a46aaea2ff1e0e135",
-            "start-date": "2026-07-28T00:00:00.000Z",
-            "event-time": "8PM",
-            "event-description": "<p>This is your weekly chance to catch the original bassist from legendary funk pioneers, <strong><em>The Meters</em>, George Porter Jr. </strong>in his element, up close and personal, with his own rotating trio of guests at his Monday night residency as he leads an intimate evening of originals, interpretations, and improv jams inside one of the Crescent City's longest running staples for the New Orleans - and the world's - funk lexicon. </p><p>Two sets with a break for one ticket, 8pm - 12am. </p><p>Sets at 8pm &amp; 10pm. </p><p>Doors Open at 7pm. </p>",
-            "button-text": "TICKETS",
-            "button-link": "https://www.mapleleafbar.com/calendar",
-            "tags": [
-              "6a34485985c35bb1302af3f2",
-              "6a38d5cd9d169080eff44009",
-              "6a3d97dc2feaaf8b3f175efa",
-              "6a53e1fbdad8a3ee74b90c63",
-              "698171062ef8be261a524681"
-            ],
-            "thumbnail": null,
-            "name": "no_26.07.27_jr_porter_george",
-            "slug": "no-26-07-27-jr-porter-george",
-            "city-name": "NOLA",
-            "category-name": "Concert",
-            "category-link": null,
-            "venue-name": "Maple Leaf Bar",
-            "venue-link": "https://www.mapleleafbar.com/",
-            "tags-name": [
-              "New Orleans",
-              "funk",
-              "soul",
-              "jam",
-              "21+"
-            ],
-            "tags-link": [
-              null,
-              null,
               null,
               null,
               null
