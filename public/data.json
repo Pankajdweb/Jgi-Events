@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-08-13T12:11:17.263Z",
+  "fetchedAt": "2026-08-13T13:59:01.662Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1667,
+      "itemCount": 1669,
       "items": [
+        {
+          "id": "6a7dc15417820876cd2eacaa",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-13T13:06:33.919Z",
+          "lastUpdated": "2026-08-13T13:06:33.919Z",
+          "createdOn": "2026-08-13T13:06:28.969Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Amblur Trio with Brad Shepik, Ben Monder and Diego Voglino",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ff99a978244087d26e1e2",
+            "start-date": "2026-09-02T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.09.01_amblur",
+            "slug": "ny-26-09-01-amblur",
+            "city-name": "NYC",
+            "venue-name": "Bar Bayeaux",
+            "venue-link": "https://www.barbayeux.com/"
+          }
+        },
+        {
+          "id": "6a7dba1c78d236fd9806728a",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-13T12:35:48.156Z",
+          "lastUpdated": "2026-08-13T12:35:48.156Z",
+          "createdOn": "2026-08-13T12:35:40.834Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "End Trio: Aurora Nealand, Josh Dunn and Rob Adkin",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ede601f174bbdee8a8980",
+            "start-date": "2026-08-17T01:00:00.000Z",
+            "event-time": "9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.16_nealand",
+            "slug": "ny-26-08-16-nealand",
+            "city-name": "NYC",
+            "venue-name": "LunÀtico",
+            "venue-link": "https://www.barlunatico.com/"
+          }
+        },
         {
           "id": "6a7da3ef73c63f74e03aea04",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
