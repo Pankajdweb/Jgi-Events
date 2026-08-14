@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T20:06:11.756Z",
+  "fetchedAt": "2026-08-14T20:57:11.167Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -10,8 +10,8 @@
         {
           "id": "6a7f4a6f26f00601805686c7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-14T19:32:17.880Z",
-          "lastUpdated": "2026-08-14T19:32:17.880Z",
+          "lastPublished": "2026-08-14T20:17:23.301Z",
+          "lastUpdated": "2026-08-14T20:17:23.301Z",
           "createdOn": "2026-08-14T17:03:43.187Z",
           "isArchived": false,
           "isDraft": false,
@@ -20,7 +20,7 @@
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": "232cceb32b7640f81ef61d250000f0bd",
             "category": "6a10bdf5c8f6338c6fee5020",
-            "venue": "6a7f48e5b572e64a80d78b0d",
+            "venue": "6a2f18997b5b07887569c7bd",
             "start-date": "2026-10-15T23:00:00.000Z",
             "event-time": "7 PM",
             "event-description": "<p><strong>Art of Solo: James Brandon Lewis, Nicole Mitchell, Janel Leppin, Jenna Camille, Kalia Vandever, Val Jeanty, Shara Lunon, and Alexis Marcelo</strong></p><p><em>“The artists represented tonight I’ve admired for a long time. I’ve dreamed of a bill just focusing on their solo work and it’s finally happening. Playing solo is no easy feat: There’s nothing to fall back on, and it’s the most intimate musical experience — direct communication with the audience.” — James Brandon Lewis</em></p><p>Award-winning saxophonist and composer <strong>James Brandon Lewis</strong>, a <strong>Jazz Generations Initiative (JGI) Continuum Fellow</strong>, presents a three-night residency at Roulette as part of his 2026 fellowship. The series brings together improvisers, poets, musicians, and multidisciplinary artists from across media and generations.</p><p>This evening’s performance will feature a series of solo sets by<strong> James Brandon Lewis</strong>, flutist/composer <strong>Nicole Mitchell</strong>, cellist/vocalist <strong>Janel Leppin</strong>, singer/producer <strong>Jenna Camille</strong>, trombonist/composer <strong>Kalia Vandever</strong>, Grammy-winning sound chemist <strong>Val Jeanty, </strong>transdisciplinary artist <strong>Shara Lunon, </strong>and pianist/composer <strong>Alexis Marcelo</strong>.</p>",
@@ -38,15 +38,15 @@
             "feature-name": "JGI LIVE",
             "category-name": "Continuum",
             "category-link": null,
-            "venue-name": "Roulette Intermedium",
+            "venue-name": "Roulette",
             "venue-link": "https://roulette.org/"
           }
         },
         {
           "id": "6a7f4a0acedc5bab9b8c30ea",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-14T19:22:32.962Z",
-          "lastUpdated": "2026-08-14T19:22:32.962Z",
+          "lastPublished": "2026-08-14T20:17:31.251Z",
+          "lastUpdated": "2026-08-14T20:17:31.251Z",
           "createdOn": "2026-08-14T17:02:02.976Z",
           "isArchived": false,
           "isDraft": false,
@@ -55,7 +55,7 @@
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": "232cceb32b7640f81ef61d250000f0bd",
             "category": "6a10bdf5c8f6338c6fee5020",
-            "venue": "6a7f48e5b572e64a80d78b0d",
+            "venue": "6a2f18997b5b07887569c7bd",
             "start-date": "2026-10-09T23:00:00.000Z",
             "event-time": "7 PM",
             "event-description": "<p><strong>Find Your Own Voice: James Brandon Lewis // Abiodun Oyewole and Taylor Pace // Oliver Lake and Josh Werner // Tuesday Taylor and Melanie Dyer</strong></p><p><em>“Poet Jayne Cortez once spoke the words, ‘Find your own voice and use it, use your own voice and find it.’ There is a through-line that connects poetry, music and visual art … Both are comprised of units of sound, all have a relationship with rhythm … Tonight we attempt to merge these worlds while still respecting the nuance of each … We are all human, however each with a signature uniquely our own.” — James Brandon Lewis</em></p><p>Award-winning saxophonist and composer <strong>James Brandon Lewis</strong>, a <strong>Jazz Generations Initiative (JGI) Continuum Fellow</strong>, presents a three-night residency at Roulette as part of his 2026 fellowship. The series brings together improvisers, poets, musicians, and multidisciplinary artists from across media and generations.</p><p>This evening’s performance features a full ensemble set by <strong>James Brandon Lewis</strong>, along with duo performances by <strong>Abiodun Oyewole</strong> and <strong>Taylor Pace</strong>, <strong>Oliver Lake</strong> and <strong>Josh Werner</strong>, and <strong>Tuesday Taylor</strong> and <strong>Melanie Dyer</strong>.</p>",
@@ -63,8 +63,8 @@
             "button-link": "https://roulette.org/event/james-brandon-lewis-abiodun-oyweyole-taylor-pace-tuesday-taylor/",
             "tags": null,
             "thumbnail": {
-              "fileId": "6a7f6af00854c4e2520c28e1",
-              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a7f6af00854c4e2520c28e1_jbl%20continuum%20image%2010-9-26.png",
+              "fileId": "6a7f76fa8d62cc1797b98638",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a7f76fa8d62cc1797b98638_jbl%20continuum%20image%2010-9-26%20(2).png",
               "alt": null
             },
             "name": "ny_2026.10.09_continuum_find-your-own-voice",
@@ -73,15 +73,15 @@
             "feature-name": "JGI LIVE",
             "category-name": "Continuum",
             "category-link": null,
-            "venue-name": "Roulette Intermedium",
+            "venue-name": "Roulette",
             "venue-link": "https://roulette.org/"
           }
         },
         {
           "id": "6a7f4978854f448147fff0c8",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-14T19:13:52.888Z",
-          "lastUpdated": "2026-08-14T19:13:52.888Z",
+          "lastPublished": "2026-08-14T20:17:39.726Z",
+          "lastUpdated": "2026-08-14T20:17:39.726Z",
           "createdOn": "2026-08-14T16:59:36.601Z",
           "isArchived": false,
           "isDraft": false,
@@ -90,7 +90,7 @@
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": "232cceb32b7640f81ef61d250000f0bd",
             "category": "6a10bdf5c8f6338c6fee5020",
-            "venue": "6a7f48e5b572e64a80d78b0d",
+            "venue": "6a2f18997b5b07887569c7bd",
             "start-date": "2026-09-29T23:00:00.000Z",
             "event-time": "7 PM",
             "event-description": "<p><strong>Bathed in Sound: James Brandon Lewis Trio // Trap Music Orchestra // Angelica Sanchez // Sheela Bringi &amp; Clinton Patterson</strong></p><p><em>“I’ve always dreamed of having a night of music of various genres that bring us together rather than separate us. The world is full of sound and we should immerse ourselves in our shared experiences rather than difference. That experience is the love of sound.”</em>—James Brandon Lewis</p><p>Award-winning saxophonist and composer <strong>James Brandon Lewis</strong>, a <strong>JGI Continuum Fellow</strong>, presents a three-night residency at Roulette as part of his 2026 fellowship. The series brings together improvisers, poets, musicians, and multidisciplinary artists from across media and generations.</p><p>The series kicks off with a diverse night of music, featuring the <strong>James Brandon Lewis Trio</strong>, the<strong> Trap Music Orchestra</strong>, <strong>Angelica Sanchez, </strong>and <strong>Sheela Bringi and Clinton Patterson.</strong></p><p>‍</p>",
@@ -108,7 +108,7 @@
             "feature-name": "JGI LIVE",
             "category-name": "Continuum",
             "category-link": null,
-            "venue-name": "Roulette Intermedium",
+            "venue-name": "Roulette",
             "venue-link": "https://roulette.org/"
           }
         },
