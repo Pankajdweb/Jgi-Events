@@ -1,12 +1,40 @@
 {
-  "fetchedAt": "2026-08-15T08:34:07.206Z",
+  "fetchedAt": "2026-08-15T09:30:06.150Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1672,
+      "itemCount": 1673,
       "items": [
+        {
+          "id": "6a802b43b13e7b4116e7cd78",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-15T09:03:02.211Z",
+          "lastUpdated": "2026-08-15T09:03:02.211Z",
+          "createdOn": "2026-08-15T09:02:59.871Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Kevin Sun Quartet with Max Light, Walter Stinson and Jon Starks",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ff99a978244087d26e1e2",
+            "start-date": "2026-09-20T00:00:00.000Z",
+            "event-time": "8 & 9:30PM",
+            "event-description": "<p>Album release</p>",
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.09.19_sun",
+            "slug": "ny-26-09-19-sun",
+            "city-name": "NYC",
+            "venue-name": "Bar Bayeaux",
+            "venue-link": "https://www.barbayeux.com/"
+          }
+        },
         {
           "id": "6a7f4a6f26f00601805686c7",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
