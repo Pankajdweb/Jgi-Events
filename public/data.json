@@ -1,12 +1,109 @@
 {
-  "fetchedAt": "2026-08-16T19:46:09.054Z",
+  "fetchedAt": "2026-08-16T20:27:56.596Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1708,
+      "itemCount": 1710,
       "items": [
+        {
+          "id": "6a8215c23669cd7106554f27",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-16T19:55:46.398Z",
+          "lastUpdated": "2026-08-16T19:55:46.398Z",
+          "createdOn": "2026-08-16T19:55:46.398Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Karen Shiraishi Quartet",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a1385be6a7695c7cb52d9c0",
+            "start-date": "2026-08-20T23:30:00.000Z",
+            "event-time": "7:30 & 9:30PM",
+            "event-description": "<p><strong>Karen Shiraishi</strong> is a British-Japanese pianist and composer based in New Orleans. A recipient of the Chamber Music America Performance Plus grant, Shiraishi’s debut album featuring Herlin Riley, Max Moran, Andrew Baham and Julian Lee, is set to be released in 2026. Already having developed a self-assured, recognisable voice as a composer and improviser, her music is melodically driven, harmonically rich, and imbued with swing. She has gained attention in the traditional music scene, appearing with Shannon Powell, Kermit Ruffins, Stephen Walker and the Preservation Hall All-Stars. She has also established herself as a highly sought-after side player in the straight-ahead scene. </p><p>‍</p><p><strong>Shows at 7:30pm &amp; 9:30pm</strong> </p><p><strong>Doors at 7:00pm &amp; 9:00pm </strong></p><p>‍</p><p>‍<strong>Restaurant is Open 5pm - 10pm for dinner before or after your showtime: </strong></p><p><strong>‍</strong>Advance Ticket Holders can now automatically make dinner table reservations for the Dining Room online via OpenTable.com</p>",
+            "button-text": "TICKETS",
+            "button-link": "https://snugjazz.com/tm-event/karen-shiraishi-quartet/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38c5fc888935521812a4b0",
+              "6a3dc06345e26029b72db5fc",
+              "6a3dc08d493eb9ffc7940d0c"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.20_shiraishi_karen_quartet",
+            "slug": "no-26-08-20-shiraishi-karen-quartet",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Snug Harbor Jazz Bistro",
+            "venue-link": "https://snugjazz.com/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "modern jazz",
+              "swingin' jazz",
+              "straight ahead jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a8214d9049a52dd8123767f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-16T19:51:53.851Z",
+          "lastUpdated": "2026-08-16T19:51:53.851Z",
+          "createdOn": "2026-08-16T19:51:53.851Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ogden AfterHours feat. Kristin Diable",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a821376426ababfb536a1ab",
+            "start-date": "2026-08-20T22:00:00.000Z",
+            "event-time": "6PM - 8PM",
+            "event-description": "<p>The Ogden's Monthly Music Series, Ogden AfterHours (OAH)&nbsp;presents: </p><p>KRISTIN&nbsp;DIABLE&nbsp;for a live set, and a live artist interview </p><p><strong>Kristin Diable</strong> is a Louisiana singer-songwriter whose blend of Southern Americana and dream pop has earned acclaim from NPR, American Songwriter and Southern Living. A captivating live performer, she has appeared everywhere from Austin City Limits and the New Orleans Jazz &amp; Heritage Festival to intimate listening rooms across the country. Her music has been featured on HBO, Netflix, CBS and Amazon, and her acclaimed new album, “Impossible Things,” continues her signature style of pairing poetic storytelling with cinematic, soul-stirring sound.</p><p>‍</p><p>‍</p><p>$15 GA | FREE&nbsp;for Ogden Museum Members | All Ages </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://ogdenmuseum.org/event/ogden-after-hours-33/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a3db8d5ea3bd0230cbe619f",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.20_diable_kristin",
+            "slug": "no-26-08-20-diable-kristin",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Ogden Museum of Southern Art",
+            "venue-link": "https://ogdenmuseum.org/",
+            "tags-name": [
+              "New Orleans",
+              "blues",
+              "singer-songwriter",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a8210410090a05089eb7e77",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
