@@ -1,12 +1,171 @@
 {
-  "fetchedAt": "2026-08-16T19:23:38.903Z",
+  "fetchedAt": "2026-08-16T19:46:09.054Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1705,
+      "itemCount": 1708,
       "items": [
+        {
+          "id": "6a8210410090a05089eb7e77",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-16T19:42:00.748Z",
+          "lastUpdated": "2026-08-16T19:42:00.748Z",
+          "createdOn": "2026-08-16T19:32:17.907Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Leaux Fye Tribe",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a8210771aedb0161fa01ec5",
+            "start-date": "2026-08-19T21:00:00.000Z",
+            "event-time": "5PM - 7PM (FREE)",
+            "event-description": "<p>Free Happy Hour Set Every Wednesday with Leaux Fye Tribe </p><p>‍</p><p><a href=\"https://www.instagram.com/leauxfyetribe/\"><strong>Leaux Fye Tribe</strong></a> is a New Orleans-based music collective and live band known for their signature blend of neo-soul, R&amp;B, jazz fusion, and live-produced electronic beats. Operating under the motto \"Leaux Fidelity, Never Leaux Vibrational\", they mix organic instrumentation with live looping, finger-drumming, and analog textures. </p><p>‍</p><p><strong>LFT players include: </strong></p><p>Lauren Fuller - keys, vocoder, live loops </p><p>Jonquel Holiday - vocals, Ableton beats </p><p>Austin \"Auttie\" Clements - bass, synths </p><p>Wino Willy - percussion, MPC&nbsp;beats, drum machines, loops </p><p>+ special guests </p><p>‍</p><p>NO&nbsp;COVER&nbsp; | 21+&nbsp; </p><p>Happy Hour Drink &amp;&nbsp;Small Bite Specials 4pm - 6pm</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.instagram.com/commonsclubnola/?hl=en",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519",
+              "6a38d43dfeb11fdc96ee3b41",
+              "6a8212437a61e6094a1229d4",
+              "6a3db10d06a35758469acd07",
+              "6a821259426ababfb536600c",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.19_leaux_fye_tribe",
+            "slug": "no-26-08-19-leaux-fye-tribe",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Commons Club at The Virgin Hotel",
+            "venue-link": "https://virginhotels.com/new-orleans/eat-drink/commons-club/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "contemporary jazz",
+              "experimental jazz",
+              "electronic jazz",
+              "R&B",
+              "broken beat",
+              "Free",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a820ff14ee11ce5794f7cff",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-16T19:30:57.794Z",
+          "lastUpdated": "2026-08-16T19:30:57.794Z",
+          "createdOn": "2026-08-16T19:30:57.794Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Joe Krown",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a820ecd23ca7a92f4807077",
+            "start-date": "2026-08-19T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>Joe Krown solo piano, or sometimes his trio.</p><p>‍</p><p><strong>Joe Krown</strong> is a New Orleans piano and B-3 master, known for his prowess in the funk, blues, boogie-woogie and jazz arenas, and for his work with The Joe Krown Organ Combo, for his legacy with the late Clarence “Gatemouth” Brown and, presently, as a member of the hard-touring Kenny Wayne Shepard Band, among others. </p><p>‍</p><p>‍</p><p>NO&nbsp;COVER&nbsp;</p><p>Full Bar &amp;&nbsp;Kitchen Available </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.buffasbar.com/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a3832d81051ca44000ec45e",
+              "6a3db8d5ea3bd0230cbe619f"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.19_krown_joe",
+            "slug": "no-26-08-19-krown-joe",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Buffa's Bar & Lounge ",
+            "venue-link": "https://www.buffasbar.com/",
+            "tags-name": [
+              "New Orleans",
+              "blues",
+              "jazz",
+              "singer-songwriter"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a820e4a23ca7a92f4805367",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-16T19:23:54.794Z",
+          "lastUpdated": "2026-08-16T19:23:54.794Z",
+          "createdOn": "2026-08-16T19:23:54.794Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Atlas Chrysalis + Congloperus Trio + Chris Alford",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a318d963e5f1f8d15e2934e",
+            "start-date": "2026-08-18T23:30:00.000Z",
+            "event-time": "7:30PM",
+            "event-description": "<h2>Atlas Chrysalis + Congloperus Trio + Chris Alford </h2><p>‍</p><p>7:00pm Doors </p><p>7:30pm Show </p><p>$10 </p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.zeitgeistnola.org/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a38d42dce24c9008ae4c85a",
+              "6a38d43dfeb11fdc96ee3b41"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.18_atlas_chrysalis",
+            "slug": "no-26-08-18-atlas-chrysalis",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Zeitgeist Multi-Disciplinary Arts Center",
+            "venue-link": "https://www.zeitgeistnola.org/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "free jazz",
+              "experimental jazz"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a820d32fd8dc3da5ccbb0e3",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -17969,20 +18128,20 @@
         {
           "id": "6a6ff0b59059c0485e931243",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T01:36:53.168Z",
-          "lastUpdated": "2026-08-03T01:36:53.168Z",
+          "lastPublished": "2026-08-16T19:44:37.634Z",
+          "lastUpdated": "2026-08-16T19:44:37.634Z",
           "createdOn": "2026-08-03T01:36:53.168Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Johnny Vidacovich Trio",
+            "event-title": "Johnny Vidacovich Trio w/Ashlin Parker & Joe Ashlar",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a318a7a46aaea2ff1e0e135",
             "start-date": "2026-08-21T00:00:00.000Z",
             "event-time": "8PM",
-            "event-description": "<p>Johnny Vidacovich Trio with Tony Dagradi &amp; Lex Warshawsky each and every Thursday for Johnny V's longtime weekly residency at The Leaf. </p><p>Two Sets, One Ticket: Sets at 8pm &amp; 10pm </p>",
+            "event-description": "<p><strong>Johnny Vidacovich Trio</strong> each and every Thursday for Johnny V's longtime weekly residency at The Leaf. </p><p>Different rotating trio members each week!&nbsp;</p><p>‍</p><p><strong>THIS&nbsp;WEEK: </strong></p><p>Johnny V - drums </p><p>Joe Ashlar - keys </p><p>Ashlin Parker - trumpet </p><p>‍</p><p>‍</p><p>Two Sets, One Ticket: Sets at 8pm &amp; 10pm </p>",
             "button-text": "TICKETS",
             "button-link": "https://www.mapleleafbar.com/leaf",
             "tags": [
