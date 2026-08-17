@@ -1,12 +1,179 @@
 {
-  "fetchedAt": "2026-08-17T03:03:55.995Z",
+  "fetchedAt": "2026-08-17T04:19:44.746Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1733,
+      "itemCount": 1736,
       "items": [
+        {
+          "id": "6a828af9796b88993a5c146d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-17T04:15:53.326Z",
+          "lastUpdated": "2026-08-17T04:15:53.326Z",
+          "createdOn": "2026-08-17T04:15:53.326Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Healing Gems",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31d05b6ddbdc35b7c69506",
+            "start-date": "2026-08-29T02:00:00.000Z",
+            "event-time": "10PM",
+            "event-description": "<p><a href=\"https://music.apple.com/us/artist/healing-gems/1422259640\"><strong>Healing Gems</strong></a> is a Los Angeles-based six-piece exotica band known for its vibrant, genre-spanning sound. Drawing from a rich musical palette, the group explores international jazz, Latin rhythms, and the lush textures of tropicalia, blending these influences into a distinctive and immersive listening experience.</p><p>Their performances are defined by an eclectic mix of unconventional instruments, including lap steel guitar, marimba, vibraphone, vintage 1960s and ’70s synthesizers and keyboards, and stylish surf guitars. This unique instrumentation gives Healing Gems a warm, atmospheric sound that feels both nostalgic and fresh. Perfectly suited for poolside parties, lounges, tiki bars, and venues of all sizes, the band creates an inviting groove that pairs effortlessly with a favorite drink and a relaxed state of mind.</p><p><strong>9pm Doors |&nbsp;10pm Show </strong></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ticketweb.com/event/healing-gems-gasa-gasa-tickets/14920583",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a38c8cd3d7a1c73c9aefaa9",
+              "6a544b7dbed6c6d576f29300",
+              "6a3832d81051ca44000ec45e",
+              "6a3dae4ebc327d4be01ff69c",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519",
+              "698171062ef8be261a524677"
+            ],
+            "thumbnail": {
+              "fileId": "6a828af17fe16f1cc5752318",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a828af17fe16f1cc5752318_Healing%20Gems%20posed%20band%20pic.jpeg",
+              "alt": null
+            },
+            "name": "no_26.08.28_healing_gems",
+            "slug": "no-26-08-28-healing-gems",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "GASA GASA",
+            "venue-link": "https://www.gasagasanola.com/",
+            "tags-name": [
+              "New Orleans",
+              "world music",
+              "tropicalia",
+              "jazz",
+              "Latin Jazz",
+              "jazz fusion",
+              "contemporary jazz",
+              "18+"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a8288909d6c4574bf49b2c8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-17T04:05:36.497Z",
+          "lastUpdated": "2026-08-17T04:05:36.497Z",
+          "createdOn": "2026-08-17T04:05:36.497Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Gary Clark Jr.",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31d039e63a7701aa51dcb0",
+            "start-date": "2026-08-30T23:00:00.000Z",
+            "event-time": "7PM",
+            "event-description": "<p>Austin, Texas-born <a href=\"https://www.garyclarkjr.com/\"><strong>Gary Clark Jr.</strong></a><strong> </strong>is a Grammy Award-winning guitarist, singer and songwriter known for his distinct style of blues-rock that weaves soul, funk, and R&amp;B subtly through traditional blues and rock. </p><p>After Eric Clapton discovered him at 26 and invited him to play the Crossroads Guitar Festival, Clark catapulted onto the national scene, and released his major label debut, <em>\"Blak &amp;&nbsp;Blu,\"</em> just a year later. </p><p>Two years later, he won his first Grammy Award for <em>\"Please Come Home\"</em> (2014) in the Traditional R&amp;B category, and another in 2020 for<em> \"This Land\" </em>in the Rock category. </p><p>Clark has shared stages with legends such as The Rolling Stones and B.B. King, but it's his own guitar-driven 21st century blend of Black American Music that fuses Americana with punk and hip-hop through emotional solos and raw soul vocals that makes him one to watch. </p>",
+            "button-text": "TICKETS",
+            "button-link": "https://www.ticketmaster.com/gary-clark-jr-new-orleans-louisiana-08-30-2026/event/1B0064BBC48C28A3?utm_medium=affiliate&utm_content=hotevent&irgwc=1&afsrc=1&clickid=2ulWjJUSHxyZWwRWlFwdnRGWUkr0uk1BrwBd1s0&camefrom=CFC_BUYAT_1234554&impradid=1234554&REFERRAL_ID=tmfeedbuyat1234554&wt.mc_id=aff_BUYAT_1234554&utm_source=1234554-Songkick&impradname=Songkick&ircid=4272",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3db58d49b3972da8b7b5f0",
+              "6a67a09b27af7e5827de11ef",
+              "6a5401d60e7b1cfef7fd6a81",
+              "6a82843212d5e1afb618736c",
+              "6a3db10d06a35758469acd07",
+              "6a3d97dc2feaaf8b3f175efa"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.30_clark_gary_jr",
+            "slug": "no-26-08-30-clark-gary-jr",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Orpheum Theater",
+            "venue-link": "https://orpheumnola.com/",
+            "tags-name": [
+              "New Orleans",
+              "blues",
+              "Black Americana",
+              "Black American Music",
+              "blues-rock",
+              "R&B",
+              "soul"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6a82831ca09d17de48046acb",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-17T03:42:20.886Z",
+          "lastUpdated": "2026-08-17T03:42:20.886Z",
+          "createdOn": "2026-08-17T03:42:20.886Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Buddy Guy at 90",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": "bfc03e88f9ceafa688540946cd9a5b81",
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a31cfc5ca89ec5edd9a56fd",
+            "start-date": "2026-08-26T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": "<p>At nearly 90 years old, <strong>Buddy Guy</strong> remains a singular force in American music. Fresh off earning his ninth Grammy® Award in 2025 for Best Traditional Blues Album (Ain’t Done with the Blues), the Rock &amp; Roll Hall of Fame inductee and one of the last living architects of electric blues will celebrate a historic milestone with the <strong>Buddy Guy 90 Tour</strong>, featuring select headline performances across North America in summer 2026. </p><p>Following his widely celebrated <em>Damn Right Farewell and Damn Right Encore</em> tours, Buddy Guy continues to defy expectations, proving that the blues is not only alive, it’s thriving. The Buddy Guy 90 Tour honors a career that has shaped generations of musicians while showcasing the fire, emotion, and authenticity that have defined his live performances for more than seven decades. </p><p>Born in Lettsworth, Louisiana, and forged in the clubs of Chicago, Buddy Guy pioneered the explosive West Side sound that influenced artists ranging from Jimi Hendrix and Eric Clapton to Stevie Ray Vaughan and John Mayer. His blistering guitar work, raw vocals, and unmistakable showmanship helped rewrite the language of electric blues, bridging tradition and innovation in equal measure. </p><p>2025 made it clear that Buddy has no intention of slowing down. From a pivotal role in Ryan Coogler’s cultural phenomenon <em>Sinners </em>to the release of <em>Ain’t Done With the Blues</em>, a critically acclaimed album produced by longtime collaborator Tom Hambridge and featuring The Blind Boys of Alabama, Joe Walsh, Peter Frampton, Christone “Kingfish” Ingram, and Joe Bonamassa. Released on his 89th birthday, the album reaffirmed what fans already know: Buddy Guy is still creating vital, relevant music with urgency, grit, and soul. </p><p>The Buddy Guy 90 Tour offers audiences a rare opportunity to witness a living legend on some of the world’s most storied stages, including the Ryman Auditorium in Nashville and the Hollywood Bowl in Los Angeles. A celebration not just of longevity, but of an artist who continues to perform with the passion and power that made him an icon, these shows are a tribute to the blues, its past, its future, and one of its greatest champions. </p><p>‍</p><p><strong>Join us TONIGHT for his New Orleans tour date on his BUDDY&nbsp;GUY&nbsp;at 90 international tour. </strong></p><p>7:00pm Doors | 8:00pm Show </p><p>with opening set from <strong>D.K. Harrell </strong></p>",
+            "button-text": "TICKETS",
+            "button-link": "https://us.atgtickets.com/events/buddy-guy/saenger-theatre/",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3db58d49b3972da8b7b5f0"
+            ],
+            "thumbnail": {
+              "fileId": "6a828318392bf87586e758df",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a828318392bf87586e758df_buddy_guy_90__polkadots_hero_3000x1687-CROP.jpg",
+              "alt": null
+            },
+            "name": "no_26.08.25_Buddy_Guy_90",
+            "slug": "no-26-08-25-buddy-guy-90",
+            "city-name": "NOLA",
+            "feature-name": "JGI Pick",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "The Saenger Theatre",
+            "venue-link": "https://www.saengertheatreneworleans.com/#google_vignette",
+            "tags-name": [
+              "New Orleans",
+              "blues"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a8273b736e0f8748bf567c5",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
