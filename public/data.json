@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T21:28:34.325Z",
+  "fetchedAt": "2026-08-18T21:51:31.763Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -7,6 +7,71 @@
       "displayName": "collection",
       "itemCount": 1740,
       "items": [
+        {
+          "id": "6a84d211015d81c71b67b942",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-18T21:43:45.817Z",
+          "lastUpdated": "2026-08-18T21:43:45.817Z",
+          "createdOn": "2026-08-18T21:43:45.817Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Leaux Fye Tribe",
+            "city": "7a45f5b9b635e884a5956aaa2193dc09",
+            "feature": null,
+            "category": "690c1347dcc89dd7991187eb",
+            "venue": "6a8210771aedb0161fa01ec5",
+            "start-date": "2026-08-26T21:00:00.000Z",
+            "event-time": "5PM - 7PM (FREE)",
+            "event-description": "<p>Free Happy Hour Set Every Wednesday with Leaux Fye Tribe </p><p>‍</p><p><a href=\"https://www.instagram.com/leauxfyetribe/\"><strong>Leaux Fye Tribe</strong></a> is a New Orleans-based music collective and live band known for their signature blend of neo-soul, R&amp;B, jazz fusion, and live-produced electronic beats. Operating under the motto \"Leaux Fidelity, Never Leaux Vibrational\", they mix organic instrumentation with live looping, finger-drumming, and analog textures. </p><p>‍</p><p><strong>LFT players include: </strong></p><p>Lauren Fuller - keys, vocoder, live loops </p><p>Jonquel Holiday - vocals, Ableton beats </p><p>Austin \"Auttie\" Clements - bass, synths </p><p>Wino Willy - percussion, MPC&nbsp;beats, drum machines, loops </p><p>+ special guests </p><p>‍</p><p>NO&nbsp;COVER&nbsp; | 21+&nbsp; </p><p>Happy Hour Drink &amp;&nbsp;Small Bite Specials 4pm - 6pm</p>",
+            "button-text": "DETAILS",
+            "button-link": "https://www.instagram.com/commonsclubnola/?hl=en",
+            "tags": [
+              "6a34485985c35bb1302af3f2",
+              "6a3832d81051ca44000ec45e",
+              "6a3dc9a31d702c15e46d73e2",
+              "6a3dbe6a496c109a25be6519",
+              "6a38d43dfeb11fdc96ee3b41",
+              "6a8212437a61e6094a1229d4",
+              "6a3db10d06a35758469acd07",
+              "6a821259426ababfb536600c",
+              "698171062ef8be261a524683",
+              "698171062ef8be261a52467b"
+            ],
+            "thumbnail": null,
+            "name": "no_26.08.26_leaux_fye_tribe",
+            "slug": "no-26-08-26-leaux-fye-tribe",
+            "city-name": "NOLA",
+            "category-name": "Concert",
+            "category-link": null,
+            "venue-name": "Commons Club at The Virgin Hotel",
+            "venue-link": "https://virginhotels.com/new-orleans/eat-drink/commons-club/",
+            "tags-name": [
+              "New Orleans",
+              "jazz",
+              "jazz fusion",
+              "contemporary jazz",
+              "experimental jazz",
+              "electronic jazz",
+              "R&B",
+              "broken beat",
+              "Free",
+              "No Cover"
+            ],
+            "tags-link": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        },
         {
           "id": "6a83ba1fd492a2518eabb22a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
@@ -17829,56 +17894,6 @@
             "thumbnail": null,
             "name": "no_26.08.29_chocolate_kid_MJHAS",
             "slug": "no-26-08-29-chocolate-kid-mjhas",
-            "city-name": "NOLA",
-            "category-name": "Concert",
-            "category-link": null,
-            "venue-name": "Mahogany Jazz Hall",
-            "venue-link": "https://www.instagram.com/mahoganyjazz_hall/?hl=en",
-            "tags-name": [
-              "New Orleans",
-              "classic jazz",
-              "swingin' jazz",
-              "Free",
-              "21+"
-            ],
-            "tags-link": [
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          }
-        },
-        {
-          "id": "6a703017dc811fd00ef96691",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T06:07:19.779Z",
-          "lastUpdated": "2026-08-03T06:07:19.779Z",
-          "createdOn": "2026-08-03T06:07:19.779Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Kid Chocolate & The Mahogany Jazz Hall All-Stars",
-            "city": "7a45f5b9b635e884a5956aaa2193dc09",
-            "feature": null,
-            "category": "690c1347dcc89dd7991187eb",
-            "venue": "6a1387485d4aa63df2ceb86c",
-            "start-date": "2026-08-09T01:30:00.000Z",
-            "event-time": "9:30PM",
-            "event-description": "<p>Trumpet phenom Kid Chocolate leads the Mahogany Jazz Hall All-Stars for 2 sets </p><p>‍</p><p>NO&nbsp;COVER!&nbsp;</p>",
-            "button-text": "DETAILS",
-            "button-link": "https://www.mjhnola.com/",
-            "tags": [
-              "6a34485985c35bb1302af3f2",
-              "6a3dc0500a022a5481a97926",
-              "6a3dc06345e26029b72db5fc",
-              "698171062ef8be261a524683",
-              "698171062ef8be261a524681"
-            ],
-            "thumbnail": null,
-            "name": "no_26.08.08_chocolate_kid_MJHAS",
-            "slug": "no-26-08-08-chocolate-kid-mjhas",
             "city-name": "NOLA",
             "category-name": "Concert",
             "category-link": null,
