@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T14:39:57.222Z",
+  "fetchedAt": "2026-08-20T15:37:52.612Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -38,20 +38,20 @@
         {
           "id": "6a8613590c8d9708b81c8b02",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-19T20:34:33.569Z",
-          "lastUpdated": "2026-08-19T20:34:33.569Z",
+          "lastPublished": "2026-08-20T15:16:59.400Z",
+          "lastUpdated": "2026-08-20T15:16:59.400Z",
           "createdOn": "2026-08-19T20:34:33.569Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "The Sacred & The Sinful: Hymns & Blues in New Orleans Jazz with Dr. Michal White & The Original Liberty Jazz Band",
+            "event-title": "The Sacred & The Sinful: Hymns & Blues in New Orleans Jazz with Dr. Michael White & The Original Liberty Jazz Band",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": "bfc03e88f9ceafa688540946cd9a5b81",
             "category": "6a6e344a56d8da3ef4de8e37",
             "venue": "6a860abbeeb7e63e390055a2",
             "start-date": "2026-08-23T19:00:00.000Z",
             "event-time": "3PM",
-            "event-description": "<p><strong>Dr. Michael White</strong>, renowned dixieland jazz clarinetist, esteemed music historian, and retired Xavier University professor, presents his performance and lecture series, <strong><em>\"The Sacred and The Sinful: Hymns and Blues in New Orleans Jazz,\"</em></strong> alsofeaturing his <strong>Original Liberty Jazz Band. </strong></p><p>Presented by the Music, Worship, and Fine Arts Ministry of the Second Free Mission Baptist Church, with sponsorship support from the New Orleans Jazz &amp; Heritage Foundation.</p><p>‍</p><p>This event is free, all ages, and open to the public.</p><p>Doors Open at 2pm </p><p>Program Begins at 3pm </p>",
+            "event-description": "<p><strong>Dr. Michael White</strong>, renowned dixieland jazz clarinetist, esteemed music historian, and retired Xavier University professor, presents his performance and lecture series, <strong><em>\"The Sacred and The Sinful: Hymns and Blues in New Orleans Jazz,\"</em></strong> also featuring his <strong>Original Liberty Jazz Band. </strong></p><p>Presented by the Music, Worship, and Fine Arts Ministry of the Second Free Mission Baptist Church, with sponsorship support from the New Orleans Jazz &amp; Heritage Foundation.</p><p>‍</p><p>This event is free, all ages, and open to the public.</p><p>Doors Open at 2pm </p><p>Program Begins at 3pm </p>",
             "button-text": "DETAILS",
             "button-link": "https://www.facebook.com/share/18GNJ93H9s/",
             "tags": [
@@ -17986,11 +17986,11 @@
           }
         },
         {
-          "id": "6a7030a18860947ad7ef2558",
+          "id": "6a703017dc811fd00ef96691",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-03T06:09:37.324Z",
-          "lastUpdated": "2026-08-03T06:09:37.324Z",
-          "createdOn": "2026-08-03T06:09:37.324Z",
+          "lastPublished": "2026-08-20T15:17:36.633Z",
+          "lastUpdated": "2026-08-20T15:17:36.633Z",
+          "createdOn": "2026-08-03T06:07:19.779Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
@@ -17999,7 +17999,7 @@
             "feature": null,
             "category": "690c1347dcc89dd7991187eb",
             "venue": "6a1387485d4aa63df2ceb86c",
-            "start-date": "2026-08-30T01:30:00.000Z",
+            "start-date": "2026-08-09T01:30:00.000Z",
             "event-time": "9:30PM",
             "event-description": "<p>Trumpet phenom Kid Chocolate leads the Mahogany Jazz Hall All-Stars for 2 sets </p><p>‍</p><p>NO&nbsp;COVER!&nbsp;</p>",
             "button-text": "DETAILS",
@@ -18012,8 +18012,8 @@
               "698171062ef8be261a524681"
             ],
             "thumbnail": null,
-            "name": "no_26.08.29_chocolate_kid_MJHAS",
-            "slug": "no-26-08-29-chocolate-kid-mjhas",
+            "name": "no_26.08.08_chocolate_kid_MJHAS",
+            "slug": "no-26-08-08-chocolate-kid-mjhas",
             "city-name": "NOLA",
             "category-name": "Concert",
             "category-link": null,
