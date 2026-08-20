@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-20T20:33:36.245Z",
+  "fetchedAt": "2026-08-20T21:32:11.956Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1745,
+      "itemCount": 1746,
       "items": [
         {
           "id": "6a872354cdf2b8e320fed67e",
@@ -58,6 +58,34 @@
             "thumbnail": null,
             "name": "ny_26.08.26_wilson",
             "slug": "ny-26-08-26-wilson",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a87230ad3f523de8325b01d",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-20T20:42:09.539Z",
+          "lastUpdated": "2026-08-20T20:42:09.539Z",
+          "createdOn": "2026-08-20T15:53:46.880Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Matt Wilson's Good Trouble",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-09-25T23:00:00.000Z",
+            "event-time": "7 & 9:30 PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.25_wilson",
+            "slug": "ny-26-08-25-wilson",
             "city-name": "NYC",
             "venue-name": "Birdland",
             "venue-link": "https://www.birdlandjazz.com/"
@@ -40965,8 +40993,8 @@
         {
           "id": "6a51546208f2a9dd6885745f",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-18T14:26:52.659Z",
-          "lastUpdated": "2026-08-18T14:26:52.659Z",
+          "lastPublished": "2026-08-20T20:49:46.113Z",
+          "lastUpdated": "2026-08-20T20:49:46.113Z",
           "createdOn": "2026-07-10T20:21:54.982Z",
           "isArchived": false,
           "isDraft": false,
@@ -40975,9 +41003,9 @@
             "city": "44424b8b22ba115f8f892c62ff807f18",
             "feature": null,
             "category": null,
-            "venue": "6a34bef0dcd860cf218771ed",
-            "start-date": "2026-08-20T22:00:00.000Z",
-            "event-time": "6PM",
+            "venue": "6a8766d71fd2332a303b1be6",
+            "start-date": "2026-08-21T23:00:00.000Z",
+            "event-time": "7PM",
             "event-description": "<p>Local arts presenter Pique-nique regularly offers some of the most thoughtful jazz (and jazz-adjacent) curation in the city. Complementing their popular Take Two series showcasing fresh interpretations of classic albums is Unheard, which presents from-scratch improvisations courtesy of a featured artist and their handpicked collaborators. We can’t wait to see who comes on board to join the rising tenor-saxophone star Emilio Modeste — known for his work with Kassa Overall, Stanley Clarke and Cindy Blackman Santana — in this week’s installment.</p>",
             "button-text": null,
             "button-link": null,
@@ -40986,8 +41014,8 @@
             "name": "ny_26.08.20_modeste",
             "slug": "ny-26-08-20-modeste",
             "city-name": "NYC",
-            "venue-name": "Domino Park",
-            "venue-link": "https://www.dominopark.com/"
+            "venue-name": "Banker's Anchor",
+            "venue-link": "https://www.instagram.com/bankersanchor/?hl=en"
           }
         },
         {
