@@ -1,12 +1,68 @@
 {
-  "fetchedAt": "2026-08-20T15:37:52.612Z",
+  "fetchedAt": "2026-08-20T16:39:43.921Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1743,
+      "itemCount": 1745,
       "items": [
+        {
+          "id": "6a872354cdf2b8e320fed67e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-20T15:55:02.835Z",
+          "lastUpdated": "2026-08-20T15:55:02.835Z",
+          "createdOn": "2026-08-20T15:55:00.828Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Matt Wilson's Good Trouble",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-09-27T23:00:00.000Z",
+            "event-time": "7 & 9:30 PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.27_wilson",
+            "slug": "ny-26-08-27-wilson",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
+        {
+          "id": "6a87232b2c372fce1546357e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-08-20T15:54:21.888Z",
+          "lastUpdated": "2026-08-20T15:54:21.888Z",
+          "createdOn": "2026-08-20T15:54:19.366Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Matt Wilson's Good Trouble",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-09-26T23:00:00.000Z",
+            "event-time": "7 & 9:30 PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.08.26_wilson",
+            "slug": "ny-26-08-26-wilson",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/"
+          }
+        },
         {
           "id": "6a866513a0b1ddeffd3d582d",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
