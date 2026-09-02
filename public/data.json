@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-02T21:38:52.707Z",
+  "fetchedAt": "2026-09-02T23:55:28.003Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
@@ -7462,8 +7462,8 @@
         {
           "id": "6a7f4a0acedc5bab9b8c30ea",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-09-02T18:22:46.172Z",
-          "lastUpdated": "2026-09-02T18:22:46.172Z",
+          "lastPublished": "2026-09-02T23:43:48.507Z",
+          "lastUpdated": "2026-09-02T23:43:48.507Z",
           "createdOn": "2026-08-14T17:02:02.976Z",
           "isArchived": false,
           "isDraft": false,
@@ -7479,7 +7479,11 @@
             "button-text": "TICKETS",
             "button-link": "https://roulette.org/event/james-brandon-lewis-abiodun-oyweyole-taylor-pace-tuesday-taylor/",
             "tags": null,
-            "thumbnail": null,
+            "thumbnail": {
+              "fileId": "6a98b4acac7f6fbb9d595af2",
+              "url": "https://cdn.prod.website-files.com/6909c3972c42c20cbc4f1f17/6a98b4acac7f6fbb9d595af2_jbl%20continuum%20image%2010-9-26%20(1).png",
+              "alt": null
+            },
             "name": "ny_2026.10.09_continuum_find-your-own-voice",
             "slug": "james-brandon-lewis-roulette-oliver-lake",
             "city-name": "NYC",
