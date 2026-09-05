@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-04T22:57:57.938Z",
+  "fetchedAt": "2026-09-05T00:50:02.266Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 1946,
+      "itemCount": 1942,
       "items": [
         {
           "id": "6a9b0289b1dfe3452613ace0",
@@ -8773,13 +8773,13 @@
         {
           "id": "6a88dde16abd673b63edb77a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-22T05:30:48.462Z",
-          "lastUpdated": "2026-08-21T23:24:20.029Z",
+          "lastPublished": "2026-09-04T22:58:27.259Z",
+          "lastUpdated": "2026-09-04T22:58:27.259Z",
           "createdOn": "2026-08-21T23:23:13.920Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "event-title": "Art Workshop: Mickalene Tomas, featuring artist Amy Bryan",
+            "event-title": "Art Workshop: Mickalene Thomas, featuring artist Amy Bryan",
             "city": "7a45f5b9b635e884a5956aaa2193dc09",
             "feature": "232cceb32b7640f81ef61d250000f0bd",
             "category": "69bd70d4f6233027dda7ae08",
@@ -8787,7 +8787,7 @@
             "start-date": "2026-09-05T14:00:00.000Z",
             "event-time": "10:00AM",
             "event-description": "<p>Explore the bold, glamorous world of Mickalene Thomas, whose portraits celebrate Black women, beauty, identity, and power through pattern, color, and collage. Inspired by her distinctive visual language, participants will create their own expressive portrait filled with color, texture, and personality.</p><p>‍</p>",
-            "button-text": "Register",
+            "button-text": "REGISTER HERE",
             "button-link": "https://www.eventbrite.com/e/art-workshop-mickalene-thomas-featuring-artist-amy-bryan-tickets-1998448257535?aff=oddtdtcreator",
             "tags": [
               "6a88ddad28354cce4ed956c7",
@@ -11113,62 +11113,6 @@
           }
         },
         {
-          "id": "6a80e418a5af0347998a1bac",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-18T02:37:22.121Z",
-          "lastUpdated": "2026-08-15T22:11:39.059Z",
-          "createdOn": "2026-08-15T22:11:36.442Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "John Coltrane Centennial 2026: Celebrating Jimmy Garrison",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": null,
-            "category": null,
-            "venue": "6a2cf8a03f65f5442c14c791",
-            "start-date": "2026-09-17T22:00:00.000Z",
-            "event-time": "6PM",
-            "event-description": "<p>6:00–6:50 PM — Freedom First<br>7:00–7:50 PM — Ravi Coltrane, Marcus Gilmore, Matt Garrison<br>7:50–8:05 PM — Intermission<br>8:05–8:35 PM — Talks on John, Alice and Jimmy: Yasuhiro \"Fuji\" Fujioka, Matt, Ravi, Marcus, Roberta Escamilla Garrison, Robbie Garrison, Joy Garrison, Maia Claire Garrison<br>8:35–8:45 PM — Brief Intermission<br>8:45–9:30 PM — Ravi Coltrane, Marcus Gilmore, Matt Garrison + Special Guests (TBA)</p><p>‍</p>",
-            "button-text": null,
-            "button-link": null,
-            "tags": null,
-            "thumbnail": null,
-            "name": "ny_2026.09.17_coltranecentennial",
-            "slug": "ny-2026-09-17-coltranecentennial",
-            "city-name": "NYC",
-            "venue-name": "Shapeshifter Lab",
-            "venue-link": "https://www.shapeshifterplus.org"
-          }
-        },
-        {
-          "id": "6a80e3dd8867286a53808140",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-18T02:37:22.121Z",
-          "lastUpdated": "2026-08-15T22:10:41.362Z",
-          "createdOn": "2026-08-15T22:10:37.940Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "John Coltrane Centennial 2026: Celebrating Jimmy Garrison",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": null,
-            "category": null,
-            "venue": "6a2cf8a03f65f5442c14c791",
-            "start-date": "2026-09-16T21:30:00.000Z",
-            "event-time": "5:30PM",
-            "event-description": "<p>5:30–6:45 PM — Afro Latin Jazz Orchestra / Winnie Dahlgren / Ravi Coltrane, Marcus Gilmore &amp; Matt Garrison<br>6:45–7:10 PM — Intermission<br>7:10–7:20 PM — Reggie Workman: Words on Jimmy / Solo Performance<br>7:25–7:35 PM — Stanley Clarke: Words on Jimmy / Solo Performance<br>7:40–7:50 PM — John Patitucci: Words on Jimmy / Solo Performance<br>7:50–8:00 PM — Brief Intermission<br>8:00–8:30 PM — Talks on John, Alice and Jimmy: Yasuhiro \"Fuji\" Fujioka + Special Guests<br>8:40–9:00 PM — Fat Cats<br>9:00–9:30 PM — SSL Ensemble + Guests</p><p>‍</p>",
-            "button-text": null,
-            "button-link": null,
-            "tags": null,
-            "thumbnail": null,
-            "name": "ny_2026.09.16_coltranecentennial",
-            "slug": "ny-2026-09-16-coltranecentennial",
-            "city-name": "NYC",
-            "venue-name": "Shapeshifter Lab",
-            "venue-link": "https://www.shapeshifterplus.org"
-          }
-        },
-        {
           "id": "6a80e2f9def184bc7fa47d04",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
           "lastPublished": "2026-08-18T02:37:22.121Z",
@@ -11756,34 +11700,6 @@
             "category-link": null,
             "venue-name": "The National Jazz Museum in Harlem",
             "venue-link": "https://jmih.org/"
-          }
-        },
-        {
-          "id": "6a80d66e567b588e66d0dec2",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-18T02:37:22.121Z",
-          "lastUpdated": "2026-08-15T21:14:12.051Z",
-          "createdOn": "2026-08-15T21:13:18.340Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Chris McCarthy with Vanisha Gould, Takuya Kuroda, Eden Bareket, Sam Minaie and Steven Crammer",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": null,
-            "category": null,
-            "venue": "6a2d579ad79d95a10f908184",
-            "start-date": "2026-09-18T01:00:00.000Z",
-            "event-time": "9PM",
-            "event-description": null,
-            "button-text": null,
-            "button-link": null,
-            "tags": null,
-            "thumbnail": null,
-            "name": "ny_2026.09.17_mccarthy",
-            "slug": "ny-2026-09-17-mccarthy-974bm",
-            "city-name": "NYC",
-            "venue-name": "Ornithology",
-            "venue-link": "https://ornithologyjazzclub.com/"
           }
         },
         {
@@ -17486,34 +17402,6 @@
             "city-name": "NYC",
             "venue-name": "Nublu",
             "venue-link": "https://nublu.net/"
-          }
-        },
-        {
-          "id": "6a7b54991cc023d9e7d2a2e3",
-          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
-          "lastPublished": "2026-08-14T18:38:19.354Z",
-          "lastUpdated": "2026-08-11T16:58:03.653Z",
-          "createdOn": "2026-08-11T16:58:01.548Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "event-title": "Festival of New Trumpet Music: Akili Bradley + Kal Ferretti Big Band feat. Ingrid Jensen",
-            "city": "44424b8b22ba115f8f892c62ff807f18",
-            "feature": null,
-            "category": null,
-            "venue": "6a2cae5d0d1b3a1110e62d06",
-            "start-date": "2026-09-17T23:00:00.000Z",
-            "event-time": "7PM",
-            "event-description": null,
-            "button-text": null,
-            "button-link": null,
-            "tags": null,
-            "thumbnail": null,
-            "name": "ny_2026.09.17_bradley",
-            "slug": "ny-2026-09-17-bradley",
-            "city-name": "NYC",
-            "venue-name": "Jazz Gallery",
-            "venue-link": "https://jazzgallery.org/"
           }
         },
         {
