@@ -1,12 +1,1067 @@
 {
-  "fetchedAt": "2026-09-21T14:58:19.698Z",
+  "fetchedAt": "2026-09-21T19:56:33.806Z",
   "siteId": "69032fdb6b02b3d538173e9e",
   "collections": {
     "697b17d1196b23a749bea2c1": {
       "id": "697b17d1196b23a749bea2c1",
       "displayName": "collection",
-      "itemCount": 2343,
+      "itemCount": 2374,
       "items": [
+        {
+          "id": "6ab17ee33f3c985b1bb7d0e8",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T19:00:52.432Z",
+          "lastUpdated": "2026-09-21T19:00:52.432Z",
+          "createdOn": "2026-09-21T19:00:51.081Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "John Ellis",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a74a40181c88692d570b802",
+            "start-date": "2026-10-03T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.10.02_ellis",
+            "slug": "ny-2026-10-02-ellis",
+            "city-name": "NYC",
+            "venue-name": "Cocina Consuelo",
+            "venue-link": "https://www.cocinaconsuelonyc.com/live-music"
+          }
+        },
+        {
+          "id": "6ab17ec77d7318203abdbbe7",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T19:00:25.245Z",
+          "lastUpdated": "2026-09-21T19:00:25.245Z",
+          "createdOn": "2026-09-21T19:00:23.762Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Emilio Modeste and alana amore colvin",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a74a40181c88692d570b802",
+            "start-date": "2026-09-26T00:00:00.000Z",
+            "event-time": "8PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_2026.09.25_modeste",
+            "slug": "ny-2026-09-25-modeste",
+            "city-name": "NYC",
+            "venue-name": "Cocina Consuelo",
+            "venue-link": "https://www.cocinaconsuelonyc.com/live-music"
+          }
+        },
+        {
+          "id": "6ab1566337e59fb1799dff72",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T18:58:57.099Z",
+          "lastUpdated": "2026-09-21T18:58:57.099Z",
+          "createdOn": "2026-09-21T16:08:03.109Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Michaël Attias Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-10-07T01:00:00.000Z",
+            "event-time": "9 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.06_attias",
+            "slug": "ny-26-10-06-attias",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6ab155fa9f4f370fdb4bdb18",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T16:06:23.220Z",
+          "lastUpdated": "2026-09-21T16:06:23.220Z",
+          "createdOn": "2026-09-21T16:06:18.685Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Arturo O’Farrill and the Afro Latin Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-10-27T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.27_o'farrill_arturo",
+            "slug": "ny-26-10-27-ofarrill-arturo",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab155dfd07167bfed763fd4",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T16:05:54.767Z",
+          "lastUpdated": "2026-09-21T16:05:54.767Z",
+          "createdOn": "2026-09-21T16:05:51.102Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Arturo O’Farrill and the Afro Latin Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-10-20T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.20_o'farrill_arturo",
+            "slug": "ny-26-10-20-ofarrill-arturo",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab155c7c3954e117c84a828",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T16:05:30.737Z",
+          "lastUpdated": "2026-09-21T16:05:30.737Z",
+          "createdOn": "2026-09-21T16:05:27.687Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Arturo O’Farrill and the Afro Latin Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-10-13T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.13_o'farrill_arturo",
+            "slug": "ny-26-10-13-ofarrill-arturo",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab1559708f0df315b6d419f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T16:05:00.446Z",
+          "lastUpdated": "2026-09-21T16:05:00.446Z",
+          "createdOn": "2026-09-21T16:04:39.218Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Arturo O’Farrill and the Afro Latin Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-10-06T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.06_o'farrill_arturo",
+            "slug": "ny-26-10-06-ofarrill-arturo",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab15551860b7f5383b9ba1c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T16:03:32.440Z",
+          "lastUpdated": "2026-09-21T16:03:32.440Z",
+          "createdOn": "2026-09-21T16:03:29.977Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Bluesday: Doug Wamble Blues in the Present Tense",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ee19e1ea9436a608308f5",
+            "start-date": "2026-10-06T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.06_wamble",
+            "slug": "ny-26-10-06-wamble",
+            "city-name": "NYC",
+            "venue-name": "Dizzy's Club",
+            "venue-link": "https://jazz.org/dizzys",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6ab154ea90b359d493089af9",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T16:01:50.602Z",
+          "lastUpdated": "2026-09-21T16:01:50.602Z",
+          "createdOn": "2026-09-21T16:01:46.758Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "The Michael Brecker Quindectet feat. Donny McCaslin",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2cc7721ad72d3a0dfb6763",
+            "start-date": "2026-10-06T23:00:00.000Z",
+            "event-time": "7 & 9:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.06_brecker",
+            "slug": "ny-26-10-06-brecker",
+            "city-name": "NYC",
+            "venue-name": "Birdland",
+            "venue-link": "https://www.birdlandjazz.com/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6ab1545327bac39e56bf2386",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:59:18.067Z",
+          "lastUpdated": "2026-09-21T15:59:18.067Z",
+          "createdOn": "2026-09-21T15:59:15.214Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Marcus Gilmore’s New Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-12T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.11_gilmore",
+            "slug": "ny-26-10-11-gilmore",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab15441490990d815fee7ff",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:58:59.857Z",
+          "lastUpdated": "2026-09-21T15:58:59.857Z",
+          "createdOn": "2026-09-21T15:58:57.460Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Marcus Gilmore’s New Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-11T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.10_gilmore",
+            "slug": "ny-26-10-10-gilmore",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab15430490990d815fede92",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:58:43.020Z",
+          "lastUpdated": "2026-09-21T15:58:43.020Z",
+          "createdOn": "2026-09-21T15:58:40.497Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Marcus Gilmore’s New Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-10T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.09_gilmore",
+            "slug": "ny-26-10-09-gilmore",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab1541f2104bd9006bb3a5f",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:58:25.675Z",
+          "lastUpdated": "2026-09-21T15:58:25.675Z",
+          "createdOn": "2026-09-21T15:58:23.235Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Marcus Gilmore’s New Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-09T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.08_gilmore",
+            "slug": "ny-26-10-08-gilmore",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab1540ba8aae72121339717",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:58:08.390Z",
+          "lastUpdated": "2026-09-21T15:58:08.390Z",
+          "createdOn": "2026-09-21T15:58:03.722Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Marcus Gilmore’s New Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-08T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.07_gilmore",
+            "slug": "ny-26-10-07-gilmore",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab153f0a8aae7212133871e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:57:41.177Z",
+          "lastUpdated": "2026-09-21T15:57:41.177Z",
+          "createdOn": "2026-09-21T15:57:36.890Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Marcus Gilmore’s New Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-07T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.06_gilmore",
+            "slug": "ny-26-10-06-gilmore",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab151e15a97121ecbfb987c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:48:53.113Z",
+          "lastUpdated": "2026-09-21T15:48:53.113Z",
+          "createdOn": "2026-09-21T15:48:49.326Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Joe Farnsworth Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a301a000738cb3116ed868f",
+            "start-date": "2026-10-05T22:00:00.000Z",
+            "event-time": "6 & 7:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.05_farnsworth",
+            "slug": "ny-26-10-05-farnsworth",
+            "city-name": "NYC",
+            "venue-name": "Smalls",
+            "venue-link": "https://www.smallslive.com/"
+          }
+        },
+        {
+          "id": "6ab1516d1113875ed5cdd648",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:46:57.843Z",
+          "lastUpdated": "2026-09-21T15:46:57.843Z",
+          "createdOn": "2026-09-21T15:46:53.594Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Asaf Yuria Quartet with George Cables, Santi Debriano and Billy Hart",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef6142243172b56b3a991",
+            "start-date": "2026-10-05T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.05_yuria",
+            "slug": "ny-26-10-05-yuria",
+            "city-name": "NYC",
+            "venue-name": "Jazzcultural",
+            "venue-link": "https://www.jazzcultural.com/"
+          }
+        },
+        {
+          "id": "6ab15032691b03ab80756257",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:41:41.520Z",
+          "lastUpdated": "2026-09-21T15:41:41.520Z",
+          "createdOn": "2026-09-21T15:41:38.954Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Ted Nash Big Band: Presidential Suite",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ee19e1ea9436a608308f5",
+            "start-date": "2026-10-05T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.05_nash",
+            "slug": "ny-26-10-05-nash",
+            "city-name": "NYC",
+            "venue-name": "Dizzy's Club",
+            "venue-link": "https://jazz.org/dizzys"
+          }
+        },
+        {
+          "id": "6ab14f7bc36c4c1807e5d4e1",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:38:42.326Z",
+          "lastUpdated": "2026-09-21T15:38:42.326Z",
+          "createdOn": "2026-09-21T15:38:35.687Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-12-01T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.30_vanguard",
+            "slug": "ny-26-11-30-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab14f6411c42f2a1c6bb8f6",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:38:14.467Z",
+          "lastUpdated": "2026-09-21T15:38:14.467Z",
+          "createdOn": "2026-09-21T15:38:12.378Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-24T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.23_vanguard",
+            "slug": "ny-26-11-23-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab14f4b2f0d931d282af363",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:37:50.449Z",
+          "lastUpdated": "2026-09-21T15:37:50.449Z",
+          "createdOn": "2026-09-21T15:37:47.562Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-17T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.16_vanguard",
+            "slug": "ny-26-11-16-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab14f355ca61afd00f84f1b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:37:27.887Z",
+          "lastUpdated": "2026-09-21T15:37:27.887Z",
+          "createdOn": "2026-09-21T15:37:25.183Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-10T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.09_vanguard",
+            "slug": "ny-26-11-09-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab14f2503887ab60afff000",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:37:11.986Z",
+          "lastUpdated": "2026-09-21T15:37:11.986Z",
+          "createdOn": "2026-09-21T15:37:09.580Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-11-03T01:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.11.02_vanguard",
+            "slug": "ny-26-11-02-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab14f016e19565e90bcefee",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:36:38.132Z",
+          "lastUpdated": "2026-09-21T15:36:38.132Z",
+          "createdOn": "2026-09-21T15:36:33.318Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-27T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.26_vanguard",
+            "slug": "ny-26-10-26-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab14eeb86b5260ca800199e",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:36:13.962Z",
+          "lastUpdated": "2026-09-21T15:36:13.962Z",
+          "createdOn": "2026-09-21T15:36:11.551Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-20T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.19_vanguard",
+            "slug": "ny-26-10-19-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab14ed7f9239acaa5712792",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:35:54.340Z",
+          "lastUpdated": "2026-09-21T15:35:54.340Z",
+          "createdOn": "2026-09-21T15:35:51.257Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-13T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.12_vanguard",
+            "slug": "ny-26-10-12-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab14ebc11c42f2a1c6b4a7b",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:35:27.760Z",
+          "lastUpdated": "2026-09-21T15:35:27.760Z",
+          "createdOn": "2026-09-21T15:35:24.940Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Vanguard Jazz Orchestra",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a03014bbcf5f188daa1d2c7",
+            "start-date": "2026-10-06T00:00:00.000Z",
+            "event-time": "8 & 10PM",
+            "event-description": null,
+            "button-text": "Buy tickets",
+            "button-link": "https://vv.squadup.com/artists/vanguard-jazz-orchestra",
+            "tags": [
+              "6a2d488e1ac36d393480cfab"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.05_vanguard",
+            "slug": "ny-26-10-05-vanguard",
+            "city-name": "NYC",
+            "venue-name": "Village Vanguard",
+            "venue-link": "https://villagevanguard.com/",
+            "tags-name": [
+              "15+"
+            ],
+            "tags-link": [
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab14e47e6467afd043fa2aa",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:33:29.851Z",
+          "lastUpdated": "2026-09-21T15:33:29.851Z",
+          "createdOn": "2026-09-21T15:33:27.048Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Stefon Harris and Blackout",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-10-07T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.06_harris_stefon",
+            "slug": "ny-26-10-06-harris-stefon",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6ab14e20ada034c97415ca24",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:32:50.714Z",
+          "lastUpdated": "2026-09-21T15:32:50.714Z",
+          "createdOn": "2026-09-21T15:32:48.015Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Stefon Harris and Blackout",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a231c28d405fc09f9c59286",
+            "start-date": "2026-10-06T00:00:00.000Z",
+            "event-time": "8 & 10:30PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [],
+            "thumbnail": null,
+            "name": "ny_26.10.05_harris_stefon",
+            "slug": "ny-26-10-05-harris-stefon",
+            "city-name": "NYC",
+            "venue-name": "Blue Note",
+            "venue-link": "https://www.bluenotejazz.com/nyc/",
+            "tags-name": [],
+            "tags-link": []
+          }
+        },
+        {
+          "id": "6ab14dc7da8bf24acc147da3",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:31:25.154Z",
+          "lastUpdated": "2026-09-21T15:31:25.154Z",
+          "createdOn": "2026-09-21T15:31:19.520Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Mingus Big Band",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": null,
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-10-05T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": [
+              "6a1bb52f86c77558acd19067",
+              "698171062ef8be261a524675"
+            ],
+            "thumbnail": null,
+            "name": "ny_26.10.05_mingus",
+            "slug": "ny-26-10-05-mingus",
+            "city-name": "NYC",
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/",
+            "tags-name": [
+              "Full menu",
+              "All ages"
+            ],
+            "tags-link": [
+              null,
+              null
+            ]
+          }
+        },
+        {
+          "id": "6ab14a3f9236275ee557217c",
+          "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
+          "lastPublished": "2026-09-21T15:16:18.234Z",
+          "lastUpdated": "2026-09-21T15:16:18.234Z",
+          "createdOn": "2026-09-21T15:16:15.288Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "event-title": "Jimmy Greene Quartet",
+            "city": "44424b8b22ba115f8f892c62ff807f18",
+            "feature": null,
+            "category": "69159bffd22204943fdcacac",
+            "venue": "6a2ef1735182a5b586f6de0d",
+            "start-date": "2026-10-04T23:00:00.000Z",
+            "event-time": "7 & 9PM",
+            "event-description": null,
+            "button-text": null,
+            "button-link": null,
+            "tags": null,
+            "thumbnail": null,
+            "name": "ny_26.10.04_greene",
+            "slug": "ny-26-10-04-greene",
+            "city-name": "NYC",
+            "category-name": "Conversation",
+            "category-link": null,
+            "venue-name": "The Pocket",
+            "venue-link": "https://thepocketnyc.com/"
+          }
+        },
         {
           "id": "6ab133ee3a405a6425c7e88a",
           "cmsLocaleId": "6909c3972c42c20cbc4f1f16",
